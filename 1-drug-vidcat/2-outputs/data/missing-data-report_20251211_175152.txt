@@ -1,0 +1,37 @@
+================================================================================
+MISSING DATA REPORT
+================================================================================
+
+Generated: 2025-12-11 17:51:52
+Generated automatically to document data exclusions for analysis.
+
+================================================================================
+SUMMARY
+================================================================================
+
+Total participants: 55
+Participants with missing HRV data: 0
+Participants with complete HRV data: 55
+
+Total observations: 1100
+Observations with missing HRV: 0 (0.0%)
+Observations with complete HRV: 1100 (100.0%)
+
+================================================================================
+HANDLING METHOD
+================================================================================
+
+Missing data handled via listwise deletion (complete case analysis).
+
+Rationale:
+  - Missingness is systematic (data quality issues), not random
+  - All HRV measures missing for excluded participants
+  - Imputation inappropriate for systematic missingness
+  - Sample size remains adequate (55 participants, 1,100 observations)
+
+Implementation:
+  - Analysis scripts use na.omit() / complete-case filtering on HRV
+  - This automatically excludes the 5 participants with missing data
+  - All analyses use complete cases only
+
+================================================================================

@@ -1,0 +1,1101 @@
+"File Name","Sequence Label","Video Category","Drug Type","HF Power FFT (ms2)","RM SSD (ms)","Mean RR","Stress Index","PNS Index","SNS Index"
+"BSC_001_IA.acq","S1","Neutral (Scenery)","Drug 1",413.431585,41.072618,955.833333,14.328323,0.325235,0.378403
+"BSC_001_IA.acq","S2","Neutral (Scenery)","Drug 1",568.640968,44.540427,958.071429,14.60476,0.494575,0.345239
+"BSC_001_IA.acq","S3","Erotic couples (High arousal, High valence)","Drug 1",240.892658,42.066201,975.439024,16.002004,0.482862,0.514095
+"BSC_001_IA.acq","S4","Erotic couples (High arousal, High valence)","Drug 1",627.135344,44.70356,968.52381,15.008527,0.504152,0.406393
+"BSC_001_IA.acq","S5","Social Negative (Low Arousal, Low Valence)","Drug 1",364.887035,37.654133,923.186047,19.164881,0.170731,1.185652
+"BSC_001_IA.acq","S6","Social Negative (Low Arousal, Low Valence)","Drug 1",205.54918,47.340764,915.232558,15.800828,0.413336,0.681123
+"BSC_001_IA.acq","S7","Social + (Low Arousal, High Valence)","Drug 1",121.888897,35.311912,928.627907,13.461328,-0.067339,0.477693
+"BSC_001_IA.acq","S8","Social + (Low Arousal, High Valence)","Drug 1",395.400939,41.323901,899.340909,12.221367,-0.042998,0.424349
+"BSC_001_IA.acq","S9","Horror (High Arousal, Low Valence)","Drug 1",407.749753,37.468678,964.536585,17.00062,0.301487,0.722649
+"BSC_001_IA.acq","S10","Horror (High Arousal, Low Valence)","Drug 1",442.757113,37.276673,964.452381,16.389814,0.342073,0.582319
+"BSC_001_IA.acq","S11","Neutral (Scenery)","Drug 1",167.69428,33.320531,927.395349,19.05864,0.009911,1.214249
+"BSC_001_IA.acq","S12","Neutral (Scenery)","Drug 1",251.494636,41.188552,911.627907,15.769043,0.153124,0.772272
+"BSC_001_IA.acq","S13","Social Negative (Low Arousal, Low Valence)","Drug 1",245.689849,41.936802,897.422222,11.381611,-0.035044,0.303097
+"BSC_001_IA.acq","S14","Social Negative (Low Arousal, Low Valence)","Drug 1",211.350559,41.149805,919.139535,15.883258,0.171223,0.770275
+"BSC_001_IA.acq","S15","Erotic couples (High arousal, High valence)","Drug 1",319.557546,41.430932,911.636364,16.547788,0.218867,0.833673
+"BSC_001_IA.acq","S16","Erotic couples (High arousal, High valence)","Drug 1",300.63695,31.378995,902.733333,14.157731,-0.282374,0.697162
+"BSC_001_IA.acq","S17","Horror (High Arousal, Low Valence)","Drug 1",221.427551,37.832354,924.488372,13.985949,0.034874,0.523955
+"BSC_001_IA.acq","S18","Horror (High Arousal, Low Valence)","Drug 1",310.766656,35.934302,912.863636,17.771616,0.035894,1.059187
+"BSC_001_IA.acq","S19","Social + (Low Arousal, High Valence)","Drug 1",417.591044,38.52477,896.844444,11.750677,-0.17382,0.407973
+"BSC_001_IA.acq","S20","Social + (Low Arousal, High Valence)","Drug 1",281.642556,33.662242,935.44186,19.277778,-0.004209,1.272071
+"BSC_002_IA.acq","S1","Neutral (Scenery)","Drug 1",887.497821,31.380731,735.090909,12.012863,-1.186294,1.479715
+"BSC_002_IA.acq","S2","Neutral (Scenery)","Drug 1",80.876609,16.135162,771.567308,23.957189,-1.401021,3.061541
+"BSC_002_IA.acq","S3","Erotic couples (High arousal, High valence)","Drug 1",60.43446,20.882965,781.107843,16.445687,-1.263277,1.864902
+"BSC_002_IA.acq","S4","Erotic couples (High arousal, High valence)","Drug 1",104.611823,19.191178,774.735294,18.611038,-1.310114,2.214839
+"BSC_002_IA.acq","S5","Social Negative (Low Arousal, Low Valence)","Drug 1",166.910745,45.408064,726.218182,10.554614,-0.745795,1.213089
+"BSC_002_IA.acq","S6","Social Negative (Low Arousal, Low Valence)","Drug 1",203.759876,25.533589,750.188679,13.014814,-1.311363,1.566854
+"BSC_002_IA.acq","S7","Social + (Low Arousal, High Valence)","Drug 1",68.376606,18.554655,721.163636,20.552723,-1.57336,2.892437
+"BSC_002_IA.acq","S8","Social + (Low Arousal, High Valence)","Drug 1",278.856045,23.530791,733.703704,13.355533,-1.436464,1.731651
+"BSC_002_IA.acq","S9","Horror (High Arousal, Low Valence)","Drug 1",80.078218,21.016923,762.778846,16.935228,-1.305967,2.02287
+"BSC_002_IA.acq","S10","Horror (High Arousal, Low Valence)","Drug 1",74.289596,19.905434,741.12037,14.992609,-1.489685,1.923685
+"BSC_002_IA.acq","S11","Neutral (Scenery)","Drug 1",1091.908116,62.340781,697.618942,9.061806,-0.399467,1.178748
+"BSC_002_IA.acq","S12","Neutral (Scenery)","Drug 1",187.618692,23.468164,725.818182,12.980984,-1.489165,1.74546
+"BSC_002_IA.acq","S13","Social Negative (Low Arousal, Low Valence)","Drug 1",106.300076,22.889943,743.398148,14.42372,-1.408795,1.828793
+"BSC_002_IA.acq","S14","Social Negative (Low Arousal, Low Valence)","Drug 1",121.068651,26.066767,699.377193,11.164321,-1.551411,1.674394
+"BSC_002_IA.acq","S15","Erotic couples (High arousal, High valence)","Drug 1",62.426579,17.532549,756.858491,13.594811,-1.514505,1.630431
+"BSC_002_IA.acq","S16","Erotic couples (High arousal, High valence)","Drug 1",110.146883,23.110305,756.103774,12.469937,-1.390227,1.482501
+"BSC_002_IA.acq","S17","Horror (High Arousal, Low Valence)","Drug 1",264.349375,25.733345,746.814815,12.167163,-1.30014,1.436795
+"BSC_002_IA.acq","S18","Horror (High Arousal, Low Valence)","Drug 1",554.99892,34.340642,765.962264,10.556403,-0.991202,1.066607
+"BSC_002_IA.acq","S19","Social + (Low Arousal, High Valence)","Drug 1",676.861983,72.624944,704.741901,7.663575,-0.074481,0.888673
+"BSC_002_IA.acq","S20","Social + (Low Arousal, High Valence)","Drug 1",215.192299,21.673224,728.212963,14.310591,-1.513877,1.922719
+"BSC_003_IA.acq","S1","Neutral (Scenery)","Drug 1",346.496874,39.099603,884.622222,11.916913,-0.219444,0.498639
+"BSC_003_IA.acq","S2","Neutral (Scenery)","Drug 1",691.824831,33.48475,947.238095,16.257712,-0.00641,0.80379
+"BSC_003_IA.acq","S3","Erotic couples (High arousal, High valence)","Drug 1",372.486997,33.881427,973.780488,17.557122,0.176069,0.842242
+"BSC_003_IA.acq","S4","Erotic couples (High arousal, High valence)","Drug 1",353.399385,37.046004,969.926829,13.766268,0.124393,0.389798
+"BSC_003_IA.acq","S5","Social Negative (Low Arousal, Low Valence)","Drug 1",395.665778,32.089685,961.634146,12.554206,-0.064927,0.255739
+"BSC_003_IA.acq","S6","Social Negative (Low Arousal, Low Valence)","Drug 1",424.905713,36.919974,975.097561,14.766544,0.219083,0.448938
+"BSC_003_IA.acq","S7","Social + (Low Arousal, High Valence)","Drug 1",288.556487,32.507222,982.243902,15.870905,0.13661,0.588067
+"BSC_003_IA.acq","S8","Social + (Low Arousal, High Valence)","Drug 1",208.873427,30.652869,992.6,15.026844,0.070849,0.479501
+"BSC_003_IA.acq","S9","Horror (High Arousal, Low Valence)","Drug 1",281.998084,28.163328,979,16.59437,-0.073618,0.792595
+"BSC_003_IA.acq","S10","Horror (High Arousal, Low Valence)","Drug 1",297.416639,32.752373,971.04878,17.192371,0.086318,0.844139
+"BSC_003_IA.acq","S11","Neutral (Scenery)","Drug 1",381.745333,32.087097,958.285714,12.782392,-0.078183,0.303101
+"BSC_003_IA.acq","S12","Neutral (Scenery)","Drug 1",308.277376,30.195674,963,16.605236,-0.016658,0.78467
+"BSC_003_IA.acq","S13","Social Negative (Low Arousal, Low Valence)","Drug 1",175.659003,32.387869,927.27907,15.188606,-0.131162,0.730862
+"BSC_003_IA.acq","S14","Social Negative (Low Arousal, Low Valence)","Drug 1",445.720764,35.280883,905.288889,12.893507,-0.250882,0.573627
+"BSC_003_IA.acq","S15","Erotic couples (High arousal, High valence)","Drug 1",239.698029,33.953717,922.27907,15.740651,-0.109684,0.836656
+"BSC_003_IA.acq","S16","Erotic couples (High arousal, High valence)","Drug 1",133.83072,32.021794,925.674419,18.787885,-0.146199,1.293645
+"BSC_003_IA.acq","S17","Horror (High Arousal, Low Valence)","Drug 1",224.401355,35.729637,894.688889,16.454872,-0.11321,1.002287
+"BSC_003_IA.acq","S18","Horror (High Arousal, Low Valence)","Drug 1",170.920764,32.268895,954.707317,18.839291,0.040569,1.126072
+"BSC_003_IA.acq","S19","Social + (Low Arousal, High Valence)","Drug 1",265.085931,35.056299,936.139535,17.128534,0.05273,0.919561
+"BSC_003_IA.acq","S20","Social + (Low Arousal, High Valence)","Drug 1",296.535059,31.901089,944.190476,14.706062,-0.106556,0.620635
+"BSC_004_IA.acq","S1","Neutral (Scenery)","Drug 1",365.832242,62.483515,725.910714,9.106547,-0.306697,1.00864
+"BSC_004_IA.acq","S2","Neutral (Scenery)","Drug 1",522.354813,50.508306,759.896226,9.616523,-0.471664,0.84753
+"BSC_004_IA.acq","S3","Erotic couples (High arousal, High valence)","Drug 1",131.756891,35.779368,876.5,11.74486,-0.37598,0.543176
+"BSC_004_IA.acq","S4","Erotic couples (High arousal, High valence)","Drug 1",722.09675,48.222411,856.065217,12.107132,-0.012624,0.581137
+"BSC_004_IA.acq","S5","Social Negative (Low Arousal, Low Valence)","Drug 1",860.533544,42.042394,799.91,12.860941,-0.470671,1.051909
+"BSC_004_IA.acq","S6","Social Negative (Low Arousal, Low Valence)","Drug 1",431.978894,75.109744,764.970566,7.706626,0.151696,0.57698
+"BSC_004_IA.acq","S7","Social + (Low Arousal, High Valence)","Drug 1",671.127535,47.399943,810.163265,9.63493,-0.372056,0.581374
+"BSC_004_IA.acq","S8","Social + (Low Arousal, High Valence)","Drug 1",318.713419,26.834067,815.979592,14.864458,-0.884397,1.347301
+"BSC_004_IA.acq","S9","Horror (High Arousal, Low Valence)","Drug 1",1031.983839,64.791896,891.411111,10.553494,0.631613,0.121014
+"BSC_004_IA.acq","S10","Horror (High Arousal, Low Valence)","Drug 1",697.1177,56.706498,870.641304,7.308766,0.14564,-0.103425
+"BSC_004_IA.acq","S11","Neutral (Scenery)","Drug 1",1399.242153,40.269365,707.833333,9.323774,-1.073872,1.264893
+"BSC_004_IA.acq","S12","Neutral (Scenery)","Drug 1",1377.557446,43.706022,737.148148,8.92079,-0.826027,0.963659
+"BSC_004_IA.acq","S13","Social Negative (Low Arousal, Low Valence)","Drug 1",520.998658,30.560596,788.5,10.474268,-0.989055,0.909281
+"BSC_004_IA.acq","S14","Social Negative (Low Arousal, Low Valence)","Drug 1",152.525953,32.682974,752.160377,15.572689,-0.936615,1.77812
+"BSC_004_IA.acq","S15","Erotic couples (High arousal, High valence)","Drug 1",179.685857,29.562799,873.48913,13.357171,-0.607691,0.860041
+"BSC_004_IA.acq","S16","Erotic couples (High arousal, High valence)","Drug 1",235.766011,25.600523,836.489583,15.696682,-0.874407,1.41077
+"BSC_004_IA.acq","S17","Horror (High Arousal, Low Valence)","Drug 1",380.764352,38.898382,764.182692,10.901763,-0.866288,1.121437
+"BSC_004_IA.acq","S18","Horror (High Arousal, Low Valence)","Drug 1",954.685021,40.232867,910.590909,11.557573,-0.043505,0.2909
+"BSC_004_IA.acq","S19","Social + (Low Arousal, High Valence)","Drug 1",490.485293,61.252376,786.205882,7.389201,-0.079956,0.347653
+"BSC_004_IA.acq","S20","Social + (Low Arousal, High Valence)","Drug 1",335.936299,36.483337,786.77,12.00802,-0.743075,1.063458
+"BSC_005_IA.acq","S1","Neutral (Scenery)","Drug 1",2471.288123,54.983579,848.87234,8.91552,-0.028648,0.288527
+"BSC_005_IA.acq","S2","Neutral (Scenery)","Drug 1",2448.414732,57.049815,894.577778,7.314412,0.263005,-0.220412
+"BSC_005_IA.acq","S3","Erotic couples (High arousal, High valence)","Drug 1",489.943693,42.32232,954.285714,9.291365,0.138207,-0.181685
+"BSC_005_IA.acq","S4","Erotic couples (High arousal, High valence)","Drug 1",660.442781,59.588966,888.177778,8.026142,0.309528,-0.086725
+"BSC_005_IA.acq","S5","Social Negative (Low Arousal, Low Valence)","Drug 1",1914.868721,80.322185,815.795918,6.48209,0.529535,0.065098
+"BSC_005_IA.acq","S6","Social Negative (Low Arousal, Low Valence)","Drug 1",6144.345018,87.048213,838.854167,6.680879,0.846971,-0.066631
+"BSC_005_IA.acq","S7","Social + (Low Arousal, High Valence)","Drug 1",5225.175203,106.366278,785.45098,7.038446,1.178717,0.245934
+"BSC_005_IA.acq","S8","Social + (Low Arousal, High Valence)","Drug 1",731.63774,49.003937,746.735849,7.868789,-0.702362,0.795094
+"BSC_005_IA.acq","S9","Horror (High Arousal, Low Valence)","Drug 1",859.072911,62.133082,809.3,5.53415,-0.065785,0.034163
+"BSC_005_IA.acq","S10","Horror (High Arousal, Low Valence)","Drug 1",465.158013,50.686391,797.06,8.096704,-0.361082,0.438058
+"BSC_005_IA.acq","S11","Neutral (Scenery)","Drug 1",688.628914,40.250413,712.5,9.405156,-1.118263,1.307054
+"BSC_005_IA.acq","S12","Neutral (Scenery)","Drug 1",5079.269541,92.891209,763.574423,5.584029,0.621308,0.257426
+"BSC_005_IA.acq","S13","Social Negative (Low Arousal, Low Valence)","Drug 1",641.773769,43.016107,798.46,8.92989,-0.581429,0.580124
+"BSC_005_IA.acq","S14","Social Negative (Low Arousal, Low Valence)","Drug 1",478.699159,45.646756,738.138568,8.29752,-0.879459,0.96963
+"BSC_005_IA.acq","S15","Erotic couples (High arousal, High valence)","Drug 1",1539.557052,69.975381,833.35321,5.496808,0.287249,-0.142478
+"BSC_005_IA.acq","S16","Erotic couples (High arousal, High valence)","Drug 1",2041.802814,65.489483,829.16326,6.617715,0.166093,0.036826
+"BSC_005_IA.acq","S17","Horror (High Arousal, Low Valence)","Drug 1",470.032101,49.002526,823.5625,6.662922,-0.375051,0.14948
+"BSC_005_IA.acq","S18","Horror (High Arousal, Low Valence)","Drug 1",1225.607914,45.4129,800.72,9.31665,-0.530057,0.64978
+"BSC_005_IA.acq","S19","Social + (Low Arousal, High Valence)","Drug 1",701.220006,39.880442,752.385205,7.559868,-0.957823,0.744281
+"BSC_005_IA.acq","S20","Social + (Low Arousal, High Valence)","Drug 1",898.195217,67.304635,786.192308,5.795979,-0.069938,0.25232
+"BSC_006_IA.acq","S1","Neutral (Scenery)","Drug 1",569.608258,38.914771,788.784314,14.213995,-0.605632,1.330792
+"BSC_006_IA.acq","S2","Neutral (Scenery)","Drug 1",731.532989,38.751179,781.54902,11.681647,-0.683561,1.02302
+"BSC_006_IA.acq","S3","Erotic couples (High arousal, High valence)","Drug 1",249.458496,37.255154,834.208333,13.115686,-0.499857,0.949999
+"BSC_006_IA.acq","S4","Erotic couples (High arousal, High valence)","Drug 1",1179.076907,50.623882,803.38,7.944546,-0.359739,0.402165
+"BSC_006_IA.acq","S5","Social Negative (Low Arousal, Low Valence)","Drug 1",669.410644,32.196041,782.333333,17.346953,-0.797409,1.840525
+"BSC_006_IA.acq","S6","Social Negative (Low Arousal, Low Valence)","Drug 1",1057.670165,42.954027,756.377358,11.961116,-0.708216,1.253798
+"BSC_006_IA.acq","S7","Social + (Low Arousal, High Valence)","Drug 1",517.964336,42.161187,749.407407,10.386524,-0.833438,1.128232
+"BSC_006_IA.acq","S8","Social + (Low Arousal, High Valence)","Drug 1",1160.610013,40.954776,729.836364,12.209871,-0.89007,1.48579
+"BSC_006_IA.acq","S9","Horror (High Arousal, Low Valence)","Drug 1",588.563016,39.521611,785.411765,9.879599,-0.749886,0.823163
+"BSC_006_IA.acq","S10","Horror (High Arousal, Low Valence)","Drug 1",1473.438059,53.781427,807.755102,8.557592,-0.249813,0.466046
+"BSC_006_IA.acq","S11","Neutral (Scenery)","Drug 1",1003.275768,37.973358,759.566038,11.045469,-0.876719,1.139036
+"BSC_006_IA.acq","S12","Neutral (Scenery)","Drug 1",834.522809,41.805669,722.928571,10.364256,-0.937588,1.287404
+"BSC_006_IA.acq","S13","Social Negative (Low Arousal, Low Valence)","Drug 1",790.167342,40.368986,764.519231,12.815086,-0.703989,1.295716
+"BSC_006_IA.acq","S14","Social Negative (Low Arousal, Low Valence)","Drug 1",416.141797,40.681366,745.833333,10.536948,-0.842434,1.129273
+"BSC_006_IA.acq","S15","Erotic couples (High arousal, High valence)","Drug 1",743.375529,38.554058,819.875,12.33861,-0.551102,0.931066
+"BSC_006_IA.acq","S16","Erotic couples (High arousal, High valence)","Drug 1",385.461701,37.41281,784.196078,11.213578,-0.743185,0.969357
+"BSC_006_IA.acq","S17","Horror (High Arousal, Low Valence)","Drug 1",329.802957,40.004196,801.62,9.92211,-0.645697,0.713187
+"BSC_006_IA.acq","S18","Horror (High Arousal, Low Valence)","Drug 1",748.304002,44.56624,794.04,10.043345,-0.524581,0.744597
+"BSC_006_IA.acq","S19","Social + (Low Arousal, High Valence)","Drug 1",385.771786,43.608135,765.307692,9.890195,-0.671069,0.892969
+"BSC_006_IA.acq","S20","Social + (Low Arousal, High Valence)","Drug 1",993.069091,34.716247,722.821429,13.329669,-1.1185,1.740548
+"BSC_007_IA.acq","S1","Neutral (Scenery)","Drug 2",1216.881356,47.903403,881.51087,7.559046,-0.060748,-0.098893
+"BSC_007_IA.acq","S2","Neutral (Scenery)","Drug 2",735.594574,37.764242,887.211111,11.13373,-0.30272,0.423835
+"BSC_007_IA.acq","S3","Erotic couples (High arousal, High valence)","Drug 2",330.940571,32.802996,888.455556,12.949622,-0.356807,0.626271
+"BSC_007_IA.acq","S4","Erotic couples (High arousal, High valence)","Drug 2",434.568802,45.06003,906.977273,10.160895,0.080667,0.079839
+"BSC_007_IA.acq","S5","Social Negative (Low Arousal, Low Valence)","Drug 2",601.852551,41.473887,831.125121,8.633659,-0.523094,0.393698
+"BSC_007_IA.acq","S6","Social Negative (Low Arousal, Low Valence)","Drug 2",915.415046,40.504394,882.2,10.891443,-0.216374,0.375139
+"BSC_007_IA.acq","S7","Social + (Low Arousal, High Valence)","Drug 2",304.731796,33.266477,854.978723,11.505962,-0.587764,0.663535
+"BSC_007_IA.acq","S8","Social + (Low Arousal, High Valence)","Drug 2",595.09565,39.749676,839.1875,8.160998,-0.507086,0.250372
+"BSC_007_IA.acq","S9","Horror (High Arousal, Low Valence)","Drug 2",419.619617,41.484397,910.613636,10.131862,-0.103628,0.163566
+"BSC_007_IA.acq","S10","Horror (High Arousal, Low Valence)","Drug 2",733.094093,37.915299,890.422222,11.275259,-0.235724,0.381733
+"BSC_007_IA.acq","S11","Neutral (Scenery)","Drug 2",438.913622,35.444226,882.347826,12.109344,-0.350041,0.562196
+"BSC_007_IA.acq","S12","Neutral (Scenery)","Drug 2",617.241783,30.028162,805.704082,12.311104,-0.935616,1.101063
+"BSC_007_IA.acq","S13","Social Negative (Low Arousal, Low Valence)","Drug 2",857.843575,48.976284,896.111111,10.010419,0.072484,0.17164
+"BSC_007_IA.acq","S14","Social Negative (Low Arousal, Low Valence)","Drug 2",413.776382,32.816941,837.572917,11.217384,-0.661333,0.694774
+"BSC_007_IA.acq","S15","Erotic couples (High arousal, High valence)","Drug 2",1062.248363,38.773509,885.945652,10.578613,-0.320722,0.383239
+"BSC_007_IA.acq","S16","Erotic couples (High arousal, High valence)","Drug 2",1326.385901,52.731468,881.206522,8.33973,0.075677,0.014983
+"BSC_007_IA.acq","S17","Horror (High Arousal, Low Valence)","Drug 2",789.192929,37.627598,862.445652,10.092333,-0.482579,0.450745
+"BSC_007_IA.acq","S18","Horror (High Arousal, Low Valence)","Drug 2",327.054059,37.473119,890.566667,10.315075,-0.328008,0.313315
+"BSC_007_IA.acq","S19","Social + (Low Arousal, High Valence)","Drug 2",609.48335,37.758545,837.797872,9.895809,-0.570362,0.530824
+"BSC_007_IA.acq","S20","Social + (Low Arousal, High Valence)","Drug 2",179.022364,25.927503,848.478723,16.856593,-0.739998,1.454367
+"BSC_008_IA.acq","S1","Neutral (Scenery)","Drug 2",1726.028871,65.518824,701.587719,8.64402,-0.413207,1.199433
+"BSC_008_IA.acq","S2","Neutral (Scenery)","Drug 2",1336.712607,72.735997,901.386364,7.388617,0.812653,-0.340735
+"BSC_008_IA.acq","S3","Erotic couples (High arousal, High valence)","Drug 2",6524.053584,94.703907,932.72619,5.741192,1.496231,-0.693986
+"BSC_008_IA.acq","S4","Erotic couples (High arousal, High valence)","Drug 2",7544.400346,105.575255,1014.24359,5.78287,2.175134,-1.039648
+"BSC_008_IA.acq","S5","Social Negative (Low Arousal, Low Valence)","Drug 2",1295.369424,93.67358,962.395598,5.740344,1.600967,-0.819546
+"BSC_008_IA.acq","S6","Social Negative (Low Arousal, Low Valence)","Drug 2",6051.774379,127.249793,973.804878,5.21955,2.572365,-0.969878
+"BSC_008_IA.acq","S7","Social + (Low Arousal, High Valence)","Drug 2",3857.025478,91.368416,908.522727,5.938261,1.248147,-0.504028
+"BSC_008_IA.acq","S8","Social + (Low Arousal, High Valence)","Drug 2",4388.308747,99.388157,917.418605,5.34255,1.54206,-0.676693
+"BSC_008_IA.acq","S9","Horror (High Arousal, Low Valence)","Drug 2",1740.207887,79.070438,850.928392,7.491604,0.751604,-0.069511
+"BSC_008_IA.acq","S10","Horror (High Arousal, Low Valence)","Drug 2",2657.532307,84.657798,890.188889,6.256964,1.040539,-0.422169
+"BSC_008_IA.acq","S11","Neutral (Scenery)","Drug 2",2777.119332,96.140605,995.325,6.300493,1.81378,-0.863372
+"BSC_008_IA.acq","S12","Neutral (Scenery)","Drug 2",1933.046892,78.589869,939.309524,6.666066,1.116791,-0.601125
+"BSC_008_IA.acq","S13","Social Negative (Low Arousal, Low Valence)","Drug 2",2376.320021,89.468304,880.586957,5.742164,1.061295,-0.390369
+"BSC_008_IA.acq","S14","Social Negative (Low Arousal, Low Valence)","Drug 2",2028.143545,79.912807,882.206522,6.718867,0.840774,-0.274729
+"BSC_008_IA.acq","S15","Erotic couples (High arousal, High valence)","Drug 2",782.812185,76.232301,897.636364,7.358004,0.800398,-0.238866
+"BSC_008_IA.acq","S16","Erotic couples (High arousal, High valence)","Drug 2",823.239494,78.550942,869.554348,5.804818,0.727346,-0.333284
+"BSC_008_IA.acq","S17","Horror (High Arousal, Low Valence)","Drug 2",996.558316,49.968784,878.48913,10.556924,0.128878,0.232804
+"BSC_008_IA.acq","S18","Horror (High Arousal, Low Valence)","Drug 2",1080.806242,70.915864,913.825581,7.733039,0.737695,-0.262888
+"BSC_008_IA.acq","S19","Social + (Low Arousal, High Valence)","Drug 2",1989.2904,99.078276,893.941004,4.769497,1.329151,-0.55684
+"BSC_008_IA.acq","S20","Social + (Low Arousal, High Valence)","Drug 2",802.959612,46.776287,804.75,10.703803,-0.414899,0.780909
+"BSC_009_IA.acq","S1","Neutral (Scenery)","Drug 1",173.229398,22.211836,858.638298,17.18483,-0.846076,1.504227
+"BSC_009_IA.acq","S2","Neutral (Scenery)","Drug 1",143.054178,26.421313,888.622222,15.140819,-0.62744,1.065813
+"BSC_009_IA.acq","S3","Erotic couples (High arousal, High valence)","Drug 1",151.246464,20.68601,854.234043,17.414111,-0.92284,1.578889
+"BSC_009_IA.acq","S4","Erotic couples (High arousal, High valence)","Drug 1",118.033527,21.976672,821.4375,17.636936,-1.019193,1.775824
+"BSC_009_IA.acq","S5","Social Negative (Low Arousal, Low Valence)","Drug 1",179.320029,27.236162,794.92,10.697767,-1.081612,0.93726
+"BSC_009_IA.acq","S6","Social Negative (Low Arousal, Low Valence)","Drug 1",292.688355,20.757869,772.490385,13.923224,-1.34384,1.565669
+"BSC_009_IA.acq","S7","Social + (Low Arousal, High Valence)","Drug 1",65.628476,16.333016,766.817308,19.78908,-1.490807,2.517708
+"BSC_009_IA.acq","S8","Social + (Low Arousal, High Valence)","Drug 1",417.276449,27.95817,830.166667,13.276363,-0.848721,1.078951
+"BSC_009_IA.acq","S9","Horror (High Arousal, Low Valence)","Drug 1",384.800683,28.014608,835.114583,14.621272,-0.772055,1.207511
+"BSC_009_IA.acq","S10","Horror (High Arousal, Low Valence)","Drug 1",102.915782,16.546165,769.625,25.395379,-1.35032,3.249549
+"BSC_009_IA.acq","S11","Neutral (Scenery)","Drug 1",565.762604,25.198564,760.59434,12.925399,-1.281298,1.490949
+"BSC_009_IA.acq","S12","Neutral (Scenery)","Drug 1",399.825471,27.6276,761.990566,11.876205,-1.211119,1.319771
+"BSC_009_IA.acq","S13","Social Negative (Low Arousal, Low Valence)","Drug 1",130.916393,30.350306,819.326531,12.648767,-0.836837,1.045827
+"BSC_009_IA.acq","S14","Social Negative (Low Arousal, Low Valence)","Drug 1",256.396575,23.019947,780.578431,14.877279,-1.224704,1.64072
+"BSC_009_IA.acq","S15","Erotic couples (High arousal, High valence)","Drug 1",170.961502,20.363474,833.904255,14.970289,-1.05255,1.338485
+"BSC_009_IA.acq","S16","Erotic couples (High arousal, High valence)","Drug 1",151.817314,23.281271,831.333333,16.379008,-0.953961,1.539291
+"BSC_009_IA.acq","S17","Horror (High Arousal, Low Valence)","Drug 1",169.386892,27.776086,762.667703,12.347102,-1.20934,1.393871
+"BSC_009_IA.acq","S18","Horror (High Arousal, Low Valence)","Drug 1",161.179135,22.639134,795.01,15.177409,-1.164288,1.59269
+"BSC_009_IA.acq","S19","Social + (Low Arousal, High Valence)","Drug 1",202.934844,24.591511,814.734694,15.086448,-1.025649,1.464499
+"BSC_009_IA.acq","S20","Social + (Low Arousal, High Valence)","Drug 1",414.336135,29.131109,855.478261,12.593916,-0.679092,0.812577
+"BSC_010_IA.acq","S1","Neutral (Scenery)","Drug 1",265.104629,29.590716,920.625,12.415643,-0.385174,0.480393
+"BSC_010_IA.acq","S2","Neutral (Scenery)","Drug 1",258.933728,28.020236,930.44186,14.628008,-0.361818,0.758129
+"BSC_010_IA.acq","S3","Erotic couples (High arousal, High valence)","Drug 1",363.749723,35.953642,913.943182,10.518374,-0.235819,0.207472
+"BSC_010_IA.acq","S4","Erotic couples (High arousal, High valence)","Drug 1",202.732046,24.505245,882.336957,18.471491,-0.614775,1.520614
+"BSC_010_IA.acq","S5","Social Negative (Low Arousal, Low Valence)","Drug 1",113.205851,22.528817,861.393617,13.670819,-0.860487,0.980265
+"BSC_010_IA.acq","S6","Social Negative (Low Arousal, Low Valence)","Drug 1",396.596019,36.041067,907.170455,9.006493,-0.35468,0.095126
+"BSC_010_IA.acq","S7","Social + (Low Arousal, High Valence)","Drug 1",284.952874,35.224317,880.411111,9.089752,-0.474703,0.213663
+"BSC_010_IA.acq","S8","Social + (Low Arousal, High Valence)","Drug 1",120.900634,22.285942,891.433333,18.928235,-0.701156,1.615049
+"BSC_010_IA.acq","S9","Horror (High Arousal, Low Valence)","Drug 1",244.050624,28.943839,902.068182,10.480211,-0.529387,0.309282
+"BSC_010_IA.acq","S10","Horror (High Arousal, Low Valence)","Drug 1",592.934087,29.322711,922.104651,13.373346,-0.348564,0.584985
+"BSC_010_IA.acq","S11","Neutral (Scenery)","Drug 1",324.178272,46.500097,882.586957,6.895455,-0.16388,-0.136607
+"BSC_010_IA.acq","S12","Neutral (Scenery)","Drug 1",113.00295,21.266128,817.459184,14.21724,-1.154813,1.366212
+"BSC_010_IA.acq","S13","Social Negative (Low Arousal, Low Valence)","Drug 1",253.9606,29.537862,897.188889,11.508502,-0.518681,0.474887
+"BSC_010_IA.acq","S14","Social Negative (Low Arousal, Low Valence)","Drug 1",228.025582,39.756594,908.222222,7.687884,-0.248231,-0.116447
+"BSC_010_IA.acq","S15","Erotic couples (High arousal, High valence)","Drug 1",180.877188,23.898962,891.022222,15.068496,-0.656737,1.015644
+"BSC_010_IA.acq","S16","Erotic couples (High arousal, High valence)","Drug 1",192.881145,23.24565,904.443182,15.436009,-0.596018,0.9911
+"BSC_010_IA.acq","S17","Horror (High Arousal, Low Valence)","Drug 1",152.584734,25.104512,885.322222,11.442572,-0.748325,0.57939
+"BSC_010_IA.acq","S18","Horror (High Arousal, Low Valence)","Drug 1",1019.960733,41.116774,852.108696,7.890294,-0.430524,0.157669
+"BSC_010_IA.acq","S19","Social + (Low Arousal, High Valence)","Drug 1",265.044225,32.141587,840.989362,7.959757,-0.781871,0.288611
+"BSC_010_IA.acq","S20","Social + (Low Arousal, High Valence)","Drug 1",219.74213,31.941888,853.326087,8.845537,-0.717022,0.345869
+"BSC_011_IA.acq","S1","Neutral (Scenery)","Drug 1",2774.854302,72.742732,946.047619,8.021204,1.004311,-0.433735
+"BSC_011_IA.acq","S2","Neutral (Scenery)","Drug 1",1244.791235,44.557414,969.487805,12.044764,0.385275,0.062854
+"BSC_011_IA.acq","S3","Erotic couples (High arousal, High valence)","Drug 1",666.345268,42.001506,972.54878,12.38905,0.222503,0.211987
+"BSC_011_IA.acq","S4","Erotic couples (High arousal, High valence)","Drug 1",2792.818065,75.70842,953.77381,8.016228,1.08801,-0.436987
+"BSC_011_IA.acq","S5","Social Negative (Low Arousal, Low Valence)","Drug 1",946.991836,60.561227,932.988372,9.376551,0.577657,-0.124826
+"BSC_011_IA.acq","S6","Social Negative (Low Arousal, Low Valence)","Drug 1",1291.390916,76.972898,940.616279,6.43474,1.090117,-0.653278
+"BSC_011_IA.acq","S7","Social + (Low Arousal, High Valence)","Drug 1",1806.458086,52.605644,928.837209,11.213641,0.482467,0.041959
+"BSC_011_IA.acq","S8","Social + (Low Arousal, High Valence)","Drug 1",673.80118,42.652227,927.069767,11.962822,0.16551,0.208825
+"BSC_011_IA.acq","S9","Horror (High Arousal, Low Valence)","Drug 1",428.65301,34.735329,960.219512,14.678741,0.02828,0.561716
+"BSC_011_IA.acq","S10","Horror (High Arousal, Low Valence)","Drug 1",346.733195,27.506804,944.72619,15.2377,-0.197557,0.676653
+"BSC_011_IA.acq","S11","Neutral (Scenery)","Drug 1",517.074378,58.012468,894.363636,8.596242,0.348048,-0.08098
+"BSC_011_IA.acq","S12","Neutral (Scenery)","Drug 1",816.924792,41.946369,982.95122,12.589624,0.409504,0.05969
+"BSC_011_IA.acq","S13","Social Negative (Low Arousal, Low Valence)","Drug 1",818.576076,43.698467,945.02381,12.496267,0.286489,0.200783
+"BSC_011_IA.acq","S14","Social Negative (Low Arousal, Low Valence)","Drug 1",1044.998912,47.789625,924.5,9.945689,0.232558,-0.033481
+"BSC_011_IA.acq","S15","Erotic couples (High arousal, High valence)","Drug 1",651.770653,38.855181,959.559524,15.526354,0.249558,0.581554
+"BSC_011_IA.acq","S16","Erotic couples (High arousal, High valence)","Drug 1",246.071411,28.682686,929.162791,18.336708,-0.213723,1.202166
+"BSC_011_IA.acq","S17","Horror (High Arousal, Low Valence)","Drug 1",664.605638,85.288379,934.372093,7.765759,1.381482,-0.517116
+"BSC_011_IA.acq","S18","Horror (High Arousal, Low Valence)","Drug 1",3293.111237,67.510093,894.318182,7.328448,0.568845,-0.244264
+"BSC_011_IA.acq","S19","Social + (Low Arousal, High Valence)","Drug 1",736.351379,46.646569,909.340909,10.482853,0.178294,0.074199
+"BSC_011_IA.acq","S20","Social + (Low Arousal, High Valence)","Drug 1",449.927673,34.745958,931.546512,12.843319,-0.116011,0.415724
+"BSC_012_IA.acq","S1","Neutral (Scenery)","Drug 1",4486.758558,123.736261,1326.333333,5.916791,4.237961,-2.086863
+"BSC_012_IA.acq","S2","Neutral (Scenery)","Drug 1",6789.964538,133.183543,1320.1,5.064419,4.463842,-2.20674
+"BSC_012_IA.acq","S3","Erotic couples (High arousal, High valence)","Drug 1",5472.236102,173.239577,1278.903226,4.256779,5.28218,-2.172081
+"BSC_012_IA.acq","S4","Erotic couples (High arousal, High valence)","Drug 1",6136.74027,169.196559,1331.354839,4.45181,5.447811,-2.298783
+"BSC_012_IA.acq","S5","Social Negative (Low Arousal, Low Valence)","Drug 1",5273.259253,118.489583,1241.125,4.661081,3.547826,-1.914036
+"BSC_012_IA.acq","S6","Social Negative (Low Arousal, Low Valence)","Drug 1",6967.030879,175.703016,1365.965517,4.412766,5.815655,-2.417198
+"BSC_012_IA.acq","S7","Social + (Low Arousal, High Valence)","Drug 1",4733.295538,109.271475,1297.516129,5.809274,3.645804,-1.962078
+"BSC_012_IA.acq","S8","Social + (Low Arousal, High Valence)","Drug 1",2182.290407,89.712474,1278.370968,6.808185,3.049447,-1.774617
+"BSC_012_IA.acq","S9","Horror (High Arousal, Low Valence)","Drug 1",1585.265239,76.498043,1192.560606,7.824437,2.316795,-1.406236
+"BSC_012_IA.acq","S10","Horror (High Arousal, Low Valence)","Drug 1",1615.113986,67.475486,1212.090909,6.729542,2.04863,-1.512398
+"BSC_012_IA.acq","S11","Neutral (Scenery)","Drug 1",2184.625623,85.708394,1213.984848,5.034299,2.494908,-1.730744
+"BSC_012_IA.acq","S12","Neutral (Scenery)","Drug 1",1702.717392,73.60507,1270.887097,6.645495,2.471354,-1.667332
+"BSC_012_IA.acq","S13","Social Negative (Low Arousal, Low Valence)","Drug 1",2676.571701,154.914326,1284.419355,5.514107,4.883028,-2.055635
+"BSC_012_IA.acq","S14","Social Negative (Low Arousal, Low Valence)","Drug 1",722.327123,120.347655,1195.645146,5.167816,3.463301,-1.787886
+"BSC_012_IA.acq","S15","Erotic couples (High arousal, High valence)","Drug 1",661.010849,67.633298,1235.0625,10.082498,2.344246,-1.2411
+"BSC_012_IA.acq","S16","Erotic couples (High arousal, High valence)","Drug 1",1759.261877,120.815916,1298.066667,5.349506,4.052779,-2.130916
+"BSC_012_IA.acq","S17","Horror (High Arousal, Low Valence)","Drug 1",2610.676129,77.814011,1164.5,6.236253,2.107342,-1.455723
+"BSC_012_IA.acq","S18","Horror (High Arousal, Low Valence)","Drug 1",2504.198817,75.452453,1239.828125,6.384692,2.405254,-1.655892
+"BSC_012_IA.acq","S19","Social + (Low Arousal, High Valence)","Drug 1",2263.542095,101.641374,1246.75,5.094449,3.192816,-1.930312
+"BSC_012_IA.acq","S20","Social + (Low Arousal, High Valence)","Drug 1",2091.854854,71.109579,1253.203125,5.646169,2.265848,-1.71963
+"BSC_013_IA.acq","S1","Neutral (Scenery)","Drug 2",486.715905,31.998109,817.306122,13.392379,-0.731413,1.102453
+"BSC_013_IA.acq","S2","Neutral (Scenery)","Drug 2",216.231987,33.161916,870.195652,10.398811,-0.561428,0.453089
+"BSC_013_IA.acq","S3","Erotic couples (High arousal, High valence)","Drug 2",200.562673,26.689483,846,18.260324,-0.701838,1.656462
+"BSC_013_IA.acq","S4","Erotic couples (High arousal, High valence)","Drug 2",75.175542,20.38265,820.755102,20.123121,-1.055549,2.156289
+"BSC_013_IA.acq","S5","Social Negative (Low Arousal, Low Valence)","Drug 2",133.520672,23.009419,843.617021,15.793661,-0.898813,1.374275
+"BSC_013_IA.acq","S6","Social Negative (Low Arousal, Low Valence)","Drug 2",171.700853,23.299142,853.468085,13.989334,-0.857108,1.052426
+"BSC_013_IA.acq","S7","Social + (Low Arousal, High Valence)","Drug 2",188.390407,22.063676,845.744681,14.111172,-0.874329,1.061603
+"BSC_013_IA.acq","S8","Social + (Low Arousal, High Valence)","Drug 2",210.917161,28.486365,839.12766,12.265418,-0.784138,0.862809
+"BSC_013_IA.acq","S9","Horror (High Arousal, Low Valence)","Drug 2",231.380669,30.208161,875.211111,12.644415,-0.577657,0.735901
+"BSC_013_IA.acq","S10","Horror (High Arousal, Low Valence)","Drug 2",296.160974,31.517254,872.044444,11.450308,-0.622788,0.632508
+"BSC_013_IA.acq","S11","Neutral (Scenery)","Drug 2",398.412879,28.262608,794.28,13.342514,-0.999743,1.294919
+"BSC_013_IA.acq","S12","Neutral (Scenery)","Drug 2",216.881926,22.592855,761.586538,13.821771,-1.363798,1.640908
+"BSC_013_IA.acq","S13","Social Negative (Low Arousal, Low Valence)","Drug 2",112.905253,24.483259,800.94,14.373484,-1.133962,1.477948
+"BSC_013_IA.acq","S14","Social Negative (Low Arousal, Low Valence)","Drug 2",103.308266,26.418694,799.4,11.275247,-1.085612,1.002359
+"BSC_013_IA.acq","S15","Erotic couples (High arousal, High valence)","Drug 2",73.370072,19.826256,833.479167,16.130663,-1.050075,1.502139
+"BSC_013_IA.acq","S16","Erotic couples (High arousal, High valence)","Drug 2",116.493232,22.75828,867.206522,14.876059,-0.828973,1.138222
+"BSC_013_IA.acq","S17","Horror (High Arousal, Low Valence)","Drug 2",142.92334,25.06295,871.826087,18.189938,-0.657195,1.539368
+"BSC_013_IA.acq","S18","Horror (High Arousal, Low Valence)","Drug 2",162.155131,25.489407,879.111111,15.166209,-0.605492,1.02665
+"BSC_013_IA.acq","S19","Social + (Low Arousal, High Valence)","Drug 2",243.751857,25.239407,770.711538,13.154157,-1.234805,1.460704
+"BSC_013_IA.acq","S20","Social + (Low Arousal, High Valence)","Drug 2",178.906917,27.445561,763.490566,11.526672,-1.203294,1.249558
+"BSC_014_IA.acq","S1","Neutral (Scenery)","Drug 2",693.835775,41.919575,760.288462,9.242042,-0.790166,0.876208
+"BSC_014_IA.acq","S2","Neutral (Scenery)","Drug 2",347.671698,32.478837,811.55102,13.254585,-0.783122,1.152928
+"BSC_014_IA.acq","S3","Erotic couples (High arousal, High valence)","Drug 2",216.51117,35.197809,820.795918,12.494157,-0.595626,0.908738
+"BSC_014_IA.acq","S4","Erotic couples (High arousal, High valence)","Drug 2",228.598885,28.554402,811.102041,17.963408,-0.761709,1.758263
+"BSC_014_IA.acq","S5","Social Negative (Low Arousal, Low Valence)","Drug 2",154.804109,29.82149,781.72549,18.385136,-0.863863,2.005788
+"BSC_014_IA.acq","S6","Social Negative (Low Arousal, Low Valence)","Drug 2",210.485757,34.69114,770.326923,11.607517,-0.932441,1.17219
+"BSC_014_IA.acq","S7","Social + (Low Arousal, High Valence)","Drug 2",108.578221,26.728167,808.3,16.128569,-0.898955,1.565365
+"BSC_014_IA.acq","S8","Social + (Low Arousal, High Valence)","Drug 2",221.141393,31.587629,801.530612,12.238629,-0.847292,1.049188
+"BSC_014_IA.acq","S9","Horror (High Arousal, Low Valence)","Drug 2",297.944544,37.796944,824.469388,10.325062,-0.586843,0.628622
+"BSC_014_IA.acq","S10","Horror (High Arousal, Low Valence)","Drug 2",124.525322,31.240554,827.875,17.765978,-0.602988,1.620463
+"BSC_014_IA.acq","S11","Neutral (Scenery)","Drug 2",317.211788,38.575545,775.711538,12.291465,-0.761224,1.201387
+"BSC_014_IA.acq","S12","Neutral (Scenery)","Drug 2",125.547128,30.996084,783.431373,13.138096,-0.987792,1.342362
+"BSC_014_IA.acq","S13","Social Negative (Low Arousal, Low Valence)","Drug 2",125.441182,27.896231,786.882353,17.851586,-0.897812,1.896102
+"BSC_014_IA.acq","S14","Social Negative (Low Arousal, Low Valence)","Drug 2",73.877695,25.999498,768.346154,17.068278,-1.083637,1.943604
+"BSC_014_IA.acq","S15","Erotic couples (High arousal, High valence)","Drug 2",114.215953,28.422342,805.82,16.936194,-0.802108,1.642813
+"BSC_014_IA.acq","S16","Erotic couples (High arousal, High valence)","Drug 2",159.258508,27.061875,804.06,16.635771,-0.875153,1.635219
+"BSC_014_IA.acq","S17","Horror (High Arousal, Low Valence)","Drug 2",88.802595,27.668387,807.469388,16.28811,-0.840978,1.558508
+"BSC_014_IA.acq","S18","Horror (High Arousal, Low Valence)","Drug 2",324.199729,31.254144,798.5,14.354186,-0.794097,1.320228
+"BSC_014_IA.acq","S19","Social + (Low Arousal, High Valence)","Drug 2",100.723303,26.817259,803.92,15.352594,-0.938546,1.492914
+"BSC_014_IA.acq","S20","Social + (Low Arousal, High Valence)","Drug 2",137.434529,33.895564,820.408163,13.141263,-0.649384,1.028536
+"BSC_015_IA.acq","S1","Neutral (Scenery)","Drug 2",833.250218,41.480774,993.8125,10.169919,0.322619,-0.234183
+"BSC_015_IA.acq","S2","Neutral (Scenery)","Drug 2",298.601095,27.477465,1001.725,13.204091,-0.076723,0.265981
+"BSC_015_IA.acq","S3","Erotic couples (High arousal, High valence)","Drug 2",269.032496,30.668029,1023.474359,13.73655,0.162756,0.210695
+"BSC_015_IA.acq","S4","Erotic couples (High arousal, High valence)","Drug 2",703.4059,34.300876,1012.575,10.84993,0.178834,-0.16389
+"BSC_015_IA.acq","S5","Social Negative (Low Arousal, Low Valence)","Drug 2",445.514219,33.564361,984.621951,12.225593,0.042869,0.146955
+"BSC_015_IA.acq","S6","Social Negative (Low Arousal, Low Valence)","Drug 2",686.906576,31.623777,986.121951,15.422237,0.087723,0.545993
+"BSC_015_IA.acq","S7","Social + (Low Arousal, High Valence)","Drug 2",195.951311,26.792339,956.357143,16.378325,-0.259,0.898685
+"BSC_015_IA.acq","S8","Social + (Low Arousal, High Valence)","Drug 2",231.301087,26.075471,959.285714,13.954541,-0.311095,0.557234
+"BSC_015_IA.acq","S9","Horror (High Arousal, Low Valence)","Drug 2",572.144057,35.309162,1016.897436,12.217859,0.294495,-0.037524
+"BSC_015_IA.acq","S10","Horror (High Arousal, Low Valence)","Drug 2",682.288113,32.027733,967.670732,12.833707,-0.082041,0.31681
+"BSC_015_IA.acq","S11","Neutral (Scenery)","Drug 2",770.050389,34.127399,915.727273,13.593304,-0.22711,0.62625
+"BSC_015_IA.acq","S12","Neutral (Scenery)","Drug 2",282.30343,27.36909,920.139535,14.483109,-0.402998,0.759145
+"BSC_015_IA.acq","S13","Social Negative (Low Arousal, Low Valence)","Drug 2",236.63602,29.051379,926.604651,13.786791,-0.337448,0.63077
+"BSC_015_IA.acq","S14","Social Negative (Low Arousal, Low Valence)","Drug 2",258.648193,23.613039,937.302326,16.330529,-0.40375,0.946746
+"BSC_015_IA.acq","S15","Erotic couples (High arousal, High valence)","Drug 2",239.8487,28.420374,956.22619,13.207624,-0.222556,0.414683
+"BSC_015_IA.acq","S16","Erotic couples (High arousal, High valence)","Drug 2",272.309721,23.840907,906.090909,14.213909,-0.61967,0.841012
+"BSC_015_IA.acq","S17","Horror (High Arousal, Low Valence)","Drug 2",485.653766,31.643224,980.109756,12.449324,-0.041313,0.212054
+"BSC_015_IA.acq","S18","Horror (High Arousal, Low Valence)","Drug 2",717.310452,34.946132,961.54878,10.798424,-0.033612,0.028827
+"BSC_015_IA.acq","S19","Social + (Low Arousal, High Valence)","Drug 2",226.007667,25.835997,933.546512,14.763517,-0.402942,0.762154
+"BSC_015_IA.acq","S20","Social + (Low Arousal, High Valence)","Drug 2",188.926838,27.017147,952.238095,12.874968,-0.297499,0.399425
+"BSC_016_IA.acq","S1","Neutral (Scenery)","Drug 2",1447.476012,51.799675,811.326531,13.379262,-0.092927,1.000151
+"BSC_016_IA.acq","S2","Neutral (Scenery)","Drug 2",1611.680048,70.345144,885.377778,8.736897,0.72758,-0.105889
+"BSC_016_IA.acq","S3","Erotic couples (High arousal, High valence)","Drug 2",1079.060988,51.035869,850.382979,12.67128,0.094569,0.641073
+"BSC_016_IA.acq","S4","Erotic couples (High arousal, High valence)","Drug 2",1172.358367,60.631779,842.145833,9.474748,0.219172,0.284389
+"BSC_016_IA.acq","S5","Social Negative (Low Arousal, Low Valence)","Drug 2",1500.461444,64.725264,869.304348,8.918101,0.510319,-0.003275
+"BSC_016_IA.acq","S6","Social Negative (Low Arousal, Low Valence)","Drug 2",1006.907155,46.668889,887.733333,11.478403,0.027863,0.384662
+"BSC_016_IA.acq","S7","Social + (Low Arousal, High Valence)","Drug 2",779.253014,44.780405,822.020408,12.438974,-0.324498,0.884318
+"BSC_016_IA.acq","S8","Social + (Low Arousal, High Valence)","Drug 2",447.955512,36.228049,830.895833,18.433736,-0.431532,1.682965
+"BSC_016_IA.acq","S9","Horror (High Arousal, Low Valence)","Drug 2",1460.42347,55.509044,836.5625,9.025295,-0.001987,0.303828
+"BSC_016_IA.acq","S10","Horror (High Arousal, Low Valence)","Drug 2",823.321956,86.719584,800.76,8.206957,0.924592,0.130029
+"BSC_016_IA.acq","S11","Neutral (Scenery)","Drug 2",1076.223326,59.349038,816.387755,8.651045,0.026147,0.342604
+"BSC_016_IA.acq","S12","Neutral (Scenery)","Drug 2",1030.227169,42.878722,789.941176,13.407143,-0.508582,1.212727
+"BSC_016_IA.acq","S13","Social Negative (Low Arousal, Low Valence)","Drug 2",990.419738,46.116657,846.595745,11.278599,-0.144928,0.535924
+"BSC_016_IA.acq","S14","Social Negative (Low Arousal, Low Valence)","Drug 2",817.350042,45.188685,734.148148,9.19687,-0.795509,1.02378
+"BSC_016_IA.acq","S15","Erotic couples (High arousal, High valence)","Drug 2",660.187277,52.423873,860.808511,10.001609,0.053444,0.297661
+"BSC_016_IA.acq","S16","Erotic couples (High arousal, High valence)","Drug 2",1118.366579,50.601664,832.1875,10.195,-0.153769,0.510068
+"BSC_016_IA.acq","S17","Horror (High Arousal, Low Valence)","Drug 2",253.933602,51.687495,815.836735,11.644927,-0.125776,0.754834
+"BSC_016_IA.acq","S18","Horror (High Arousal, Low Valence)","Drug 2",1727.555202,87.984458,847.680851,5.461634,0.944817,-0.336408
+"BSC_016_IA.acq","S19","Social + (Low Arousal, High Valence)","Drug 2",357.247202,36.758339,670.566667,11.932821,-1.29238,1.931841
+"BSC_016_IA.acq","S20","Social + (Low Arousal, High Valence)","Drug 2",433.23253,38.094868,725.236364,11.458469,-1.012283,1.426446
+"BSC_017_IA.acq","S1","Neutral (Scenery)","Drug 1",1538.595851,79.417594,891.244444,9.305497,1.001863,-0.051463
+"BSC_017_IA.acq","S2","Neutral (Scenery)","Drug 1",404.832973,39.777096,882.8,12.091926,-0.174319,0.499488
+"BSC_017_IA.acq","S3","Erotic couples (High arousal, High valence)","Drug 1",978.6019,47.648049,914.886364,9.184332,0.098488,-0.020954
+"BSC_017_IA.acq","S4","Erotic couples (High arousal, High valence)","Drug 1",225.365396,42.715608,887.033333,9.968896,-0.117136,0.190184
+"BSC_017_IA.acq","S5","Social Negative (Low Arousal, Low Valence)","Drug 1",451.79816,41.580777,840.260417,8.438056,-0.45317,0.287501
+"BSC_017_IA.acq","S6","Social Negative (Low Arousal, Low Valence)","Drug 1",447.646792,40.456084,876.815217,11.427302,-0.168241,0.411164
+"BSC_017_IA.acq","S7","Social + (Low Arousal, High Valence)","Drug 1",225.954492,32.392501,891.422222,15.845142,-0.287567,0.993882
+"BSC_017_IA.acq","S8","Social + (Low Arousal, High Valence)","Drug 1",240.662976,53.775521,856.956522,7.70297,-0.024069,0.057448
+"BSC_017_IA.acq","S9","Horror (High Arousal, Low Valence)","Drug 1",452.586845,46.713289,907.704545,10.285347,0.135681,0.088209
+"BSC_017_IA.acq","S10","Horror (High Arousal, Low Valence)","Drug 1",697.076681,39.514289,930.151163,12.367156,0.035169,0.318118
+"BSC_017_IA.acq","S11","Neutral (Scenery)","Drug 1",1190.588865,67.27444,889.355556,6.330242,0.519753,-0.35467
+"BSC_017_IA.acq","S12","Neutral (Scenery)","Drug 1",474.606064,50.750124,832.114583,10.442306,-0.17604,0.574773
+"BSC_017_IA.acq","S13","Social Negative (Low Arousal, Low Valence)","Drug 1",228.236989,42.983554,908.931818,11.814837,0.017165,0.343839
+"BSC_017_IA.acq","S14","Social Negative (Low Arousal, Low Valence)","Drug 1",648.220846,46.393318,865.021739,10.239145,-0.088672,0.312571
+"BSC_017_IA.acq","S15","Erotic couples (High arousal, High valence)","Drug 1",285.302033,38.242481,886.744444,15.010926,-0.173105,0.908188
+"BSC_017_IA.acq","S16","Erotic couples (High arousal, High valence)","Drug 1",334.790708,52.148913,896.155556,8.718063,0.142678,-0.01402
+"BSC_017_IA.acq","S17","Horror (High Arousal, Low Valence)","Drug 1",374.915163,33.702676,901.022222,12.838782,-0.210363,0.483232
+"BSC_017_IA.acq","S18","Horror (High Arousal, Low Valence)","Drug 1",753.81338,53.732518,898.727273,6.934392,0.142192,-0.248249
+"BSC_017_IA.acq","S19","Social + (Low Arousal, High Valence)","Drug 1",1155.96093,60.019255,861.829787,6.785394,0.14326,-0.088369
+"BSC_017_IA.acq","S20","Social + (Low Arousal, High Valence)","Drug 1",1398.53762,70.948223,821.918367,8.053114,0.319079,0.260936
+"BSC_018_ISC.acq","S1","Neutral (Scenery)","Drug 1",724.467792,48.552785,1057.342105,9.854816,0.806898,-0.524243
+"BSC_018_ISC.acq","S2","Neutral (Scenery)","Drug 1",516.048152,48.21522,1032.128205,12.694061,0.855109,-0.166889
+"BSC_018_ISC.acq","S3","Erotic couples (High arousal, High valence)","Drug 1",849.76194,48.662733,1029.102564,10.617764,0.732998,-0.356856
+"BSC_018_ISC.acq","S4","Erotic couples (High arousal, High valence)","Drug 1",583.661673,45.959997,1041.157895,13.328228,0.885361,-0.150834
+"BSC_018_ISC.acq","S5","Social Negative (Low Arousal, Low Valence)","Drug 1",498.714123,48.688656,1001.5,9.052066,0.619538,-0.50661
+"BSC_018_ISC.acq","S6","Social Negative (Low Arousal, Low Valence)","Drug 1",1004.844705,50.275152,1026.551282,12.411669,0.867778,-0.173151
+"BSC_018_ISC.acq","S7","Social + (Low Arousal, High Valence)","Drug 1",481.802415,46.759343,1024.384615,11.873417,0.763518,-0.247934
+"BSC_018_ISC.acq","S8","Social + (Low Arousal, High Valence)","Drug 1",556.180263,51.313525,1012.641026,10.463626,0.795029,-0.385459
+"BSC_018_ISC.acq","S9","Horror (High Arousal, Low Valence)","Drug 1",495.361976,45.824965,1019.4,12.26589,0.732299,-0.185046
+"BSC_018_ISC.acq","S10","Horror (High Arousal, Low Valence)","Drug 1",1066.555149,63.817181,977.146341,5.226679,0.771853,-0.861343
+"BSC_018_ISC.acq","S11","Neutral (Scenery)","Drug 1",964.302806,52.395355,976.292683,8.621259,0.54487,-0.414331
+"BSC_018_ISC.acq","S12","Neutral (Scenery)","Drug 1",543.787304,41.707361,989.75,14.656092,0.461087,0.325453
+"BSC_018_ISC.acq","S13","Social Negative (Low Arousal, Low Valence)","Drug 1",663.613962,57.406104,1002.85,8.1052,0.802167,-0.602045
+"BSC_018_ISC.acq","S14","Social Negative (Low Arousal, Low Valence)","Drug 1",282.587421,36.129024,985.575,18.272776,0.343276,0.851804
+"BSC_018_ISC.acq","S15","Erotic couples (High arousal, High valence)","Drug 1",559.235291,45.125531,992.65,13.117312,0.496628,0.144731
+"BSC_018_ISC.acq","S16","Erotic couples (High arousal, High valence)","Drug 1",512.388017,46.841125,978.682927,12.606564,0.544023,0.05635
+"BSC_018_ISC.acq","S17","Horror (High Arousal, Low Valence)","Drug 1",494.114806,39.335631,981.292683,15.503297,0.40853,0.441152
+"BSC_018_ISC.acq","S18","Horror (High Arousal, Low Valence)","Drug 1",512.097206,47.762159,990.025,10.589422,0.525721,-0.206853
+"BSC_018_ISC.acq","S19","Social + (Low Arousal, High Valence)","Drug 1",626.098186,64.558133,972.804878,5.43538,0.772746,-0.812187
+"BSC_018_ISC.acq","S20","Social + (Low Arousal, High Valence)","Drug 1",541.467577,42.122684,974.512195,12.173628,0.369495,0.035778
+"BSC_019_ISC.acq","S1","Neutral (Scenery)","Drug 1",965.858631,51.528265,877.195652,10.740398,0.124494,0.307951
+"BSC_019_ISC.acq","S2","Neutral (Scenery)","Drug 1",1432.043843,61.796027,942.093023,9.041361,0.716795,-0.281564
+"BSC_019_ISC.acq","S3","Erotic couples (High arousal, High valence)","Drug 1",1034.552652,54.930339,998.5375,11.456437,0.889766,-0.239902
+"BSC_019_ISC.acq","S4","Erotic couples (High arousal, High valence)","Drug 1",1515.292625,60.82489,1008.192308,11.157834,1.140315,-0.372567
+"BSC_019_ISC.acq","S5","Social Negative (Low Arousal, Low Valence)","Drug 1",1677.218433,68.380913,1023.653846,10.523666,1.325882,-0.442401
+"BSC_019_ISC.acq","S6","Social Negative (Low Arousal, Low Valence)","Drug 1",1288.92189,64.065547,976.256098,6.540407,0.857965,-0.737848
+"BSC_019_ISC.acq","S7","Social + (Low Arousal, High Valence)","Drug 1",1403.176635,59.30651,989.890244,11.740939,0.966145,-0.160708
+"BSC_019_ISC.acq","S8","Social + (Low Arousal, High Valence)","Drug 1",1090.112496,57.048344,987.3625,12.46637,0.888764,-0.032799
+"BSC_019_ISC.acq","S9","Horror (High Arousal, Low Valence)","Drug 1",1287.526788,62.137564,1006.858974,11.925576,1.120937,-0.20025
+"BSC_019_ISC.acq","S10","Horror (High Arousal, Low Valence)","Drug 1",1381.31463,62.111054,993.5875,10.32402,1.050153,-0.386933
+"BSC_019_ISC.acq","S11","Neutral (Scenery)","Drug 1",1431.620072,68.526206,947.27381,7.413671,0.900607,-0.536527
+"BSC_019_ISC.acq","S12","Neutral (Scenery)","Drug 1",1978.717963,67.383829,951.292683,6.99426,0.857423,-0.587812
+"BSC_019_ISC.acq","S13","Social Negative (Low Arousal, Low Valence)","Drug 1",4386.686728,74.933229,982.3375,7.16323,1.188851,-0.678896
+"BSC_019_ISC.acq","S14","Social Negative (Low Arousal, Low Valence)","Drug 1",901.932434,51.505319,925.022727,10.069359,0.297505,0.02007
+"BSC_019_ISC.acq","S15","Erotic couples (High arousal, High valence)","Drug 1",977.704297,57.495892,980.365854,11.282849,0.877462,-0.196545
+"BSC_019_ISC.acq","S16","Erotic couples (High arousal, High valence)","Drug 1",1657.283653,60.129993,1004.875,11.164233,1.049297,-0.301487
+"BSC_019_ISC.acq","S17","Horror (High Arousal, Low Valence)","Drug 1",860.308303,67.98648,981.097561,8.183535,1.059124,-0.57743
+"BSC_019_ISC.acq","S18","Horror (High Arousal, Low Valence)","Drug 1",1013.625729,59.795381,993.8375,10.520115,1.008576,-0.3767
+"BSC_019_ISC.acq","S19","Social + (Low Arousal, High Valence)","Drug 1",4077.862466,67.708096,1039.333333,7.816374,1.309654,-0.849132
+"BSC_019_ISC.acq","S20","Social + (Low Arousal, High Valence)","Drug 1",475.355708,64.801765,905.613636,5.337443,0.472941,-0.531819
+"BSC_020_ISC.acq","S1","Neutral (Scenery)","Drug 1",218.103849,22.768617,882.255556,19.348373,-0.666533,1.661892
+"BSC_020_ISC.acq","S2","Neutral (Scenery)","Drug 1",84.499332,21.132541,885.956522,18.321349,-0.747822,1.53872
+"BSC_020_ISC.acq","S3","Erotic couples (High arousal, High valence)","Drug 1",85.560683,21.202675,849.723404,16.067939,-0.952907,1.417446
+"BSC_020_ISC.acq","S4","Erotic couples (High arousal, High valence)","Drug 1",97.586381,17.64673,833.302083,17.060524,-1.147003,1.685195
+"BSC_020_ISC.acq","S5","Social Negative (Low Arousal, Low Valence)","Drug 1",112.363129,23.405819,818.040816,15.223406,-1.024191,1.448441
+"BSC_020_ISC.acq","S6","Social Negative (Low Arousal, Low Valence)","Drug 1",125.181636,19.328951,843.864583,15.535665,-1.027154,1.363838
+"BSC_020_ISC.acq","S7","Social + (Low Arousal, High Valence)","Drug 1",145.140892,26.806437,832.28125,11.778367,-0.942696,0.907407
+"BSC_020_ISC.acq","S8","Social + (Low Arousal, High Valence)","Drug 1",82.640492,15.923535,798.15,18.913411,-1.339292,2.163355
+"BSC_020_ISC.acq","S9","Horror (High Arousal, Low Valence)","Drug 1",154.574218,16.940231,791.95,17.949942,-1.349198,2.060515
+"BSC_020_ISC.acq","S10","Horror (High Arousal, Low Valence)","Drug 1",101.375287,17.01706,803.79,17.857689,-1.281049,1.962074
+"BSC_020_ISC.acq","S11","Neutral (Scenery)","Drug 1",57.848235,16.859356,746.037037,18.662933,-1.591129,2.503145
+"BSC_020_ISC.acq","S12","Neutral (Scenery)","Drug 1",95.007405,22.099601,785.529412,13.317695,-1.285107,1.425346
+"BSC_020_ISC.acq","S13","Social Negative (Low Arousal, Low Valence)","Drug 1",77.268572,15.255385,817.346939,21.928975,-1.258971,2.506919
+"BSC_020_ISC.acq","S14","Social Negative (Low Arousal, Low Valence)","Drug 1",146.879787,22.707159,816.806122,12.246829,-1.134397,1.079238
+"BSC_020_ISC.acq","S15","Erotic couples (High arousal, High valence)","Drug 1",58.807461,12.411434,800.87,19.79049,-1.423211,2.285308
+"BSC_020_ISC.acq","S16","Erotic couples (High arousal, High valence)","Drug 1",59.800306,14.915331,791.147059,18.106964,-1.407084,2.089802
+"BSC_020_ISC.acq","S17","Horror (High Arousal, Low Valence)","Drug 1",92.833152,14.9798,785.352941,25.457864,-1.345673,3.182643
+"BSC_020_ISC.acq","S18","Horror (High Arousal, Low Valence)","Drug 1",47.488289,14.666769,766.855769,15.402846,-1.598863,1.898395
+"BSC_020_ISC.acq","S19","Social + (Low Arousal, High Valence)","Drug 1",93.172945,14.312119,789.921569,23.00994,-1.450217,2.88087
+"BSC_020_ISC.acq","S20","Social + (Low Arousal, High Valence)","Drug 1",179.778153,21.296816,738.592593,11.548655,-1.532691,1.47357
+"BSC_022_ISC.acq","S1","Neutral (Scenery)","Drug 1",475.71939,42.839156,1093.555556,11.208941,0.824749,-0.442405
+"BSC_022_ISC.acq","S2","Neutral (Scenery)","Drug 1",718.550143,58.050503,1154.117647,11.563209,1.6841,-0.75296
+"BSC_022_ISC.acq","S3","Erotic couples (High arousal, High valence)","Drug 1",725.620871,46.130358,1154.764706,10.760472,1.249796,-0.759926
+"BSC_022_ISC.acq","S4","Erotic couples (High arousal, High valence)","Drug 1",701.214331,50.237852,1110.027778,11.139511,1.194528,-0.603446
+"BSC_022_ISC.acq","S5","Social Negative (Low Arousal, Low Valence)","Drug 1",613.856143,45.271273,1132.457143,11.900957,1.203558,-0.59494
+"BSC_022_ISC.acq","S6","Social Negative (Low Arousal, Low Valence)","Drug 1",1150.242015,54.236941,1161.8,9.019134,1.494398,-1.046045
+"BSC_022_ISC.acq","S7","Social + (Low Arousal, High Valence)","Drug 1",618.639425,62.332824,1141.542857,8.578439,1.638088,-1.074193
+"BSC_022_ISC.acq","S8","Social + (Low Arousal, High Valence)","Drug 1",475.662081,45.116791,1117.416667,10.365676,1.058159,-0.713141
+"BSC_022_ISC.acq","S9","Horror (High Arousal, Low Valence)","Drug 1",434.774354,50.087717,1157.2,11.129603,1.361525,-0.704994
+"BSC_022_ISC.acq","S10","Horror (High Arousal, Low Valence)","Drug 1",441.911156,47.299126,1192.424242,11.543403,1.623759,-0.91748
+"BSC_022_ISC.acq","S11","Neutral (Scenery)","Drug 1",435.413361,48.907748,1168.411765,12.740585,1.500098,-0.607362
+"BSC_022_ISC.acq","S12","Neutral (Scenery)","Drug 1",597.880238,47.201993,1159.742857,10.76046,1.370162,-0.843601
+"BSC_022_ISC.acq","S13","Social Negative (Low Arousal, Low Valence)","Drug 1",819.521059,55.276042,1155.485714,10.774244,1.531808,-0.794549
+"BSC_022_ISC.acq","S14","Social Negative (Low Arousal, Low Valence)","Drug 1",920.23548,52.748409,1152.171429,11.094113,1.535417,-0.821472
+"BSC_022_ISC.acq","S15","Erotic couples (High arousal, High valence)","Drug 1",637.418085,49.923087,1124.527778,8.813047,1.177071,-0.933705
+"BSC_022_ISC.acq","S16","Erotic couples (High arousal, High valence)","Drug 1",399.392378,47.069604,1117.611111,13.515462,1.254132,-0.369437
+"BSC_022_ISC.acq","S17","Horror (High Arousal, Low Valence)","Drug 1",964.711091,54.295849,1173.176471,8.186711,1.487257,-1.147032
+"BSC_022_ISC.acq","S18","Horror (High Arousal, Low Valence)","Drug 1",869.463339,50.921969,1163.742857,7.923731,1.319507,-1.12585
+"BSC_022_ISC.acq","S19","Social + (Low Arousal, High Valence)","Drug 1",1023.515693,60.186583,1132,8.652909,1.458956,-0.955358
+"BSC_022_ISC.acq","S20","Social + (Low Arousal, High Valence)","Drug 1",906.724286,51.681146,1170.205882,10.151499,1.520762,-0.951453
+"BSC_023_ISC.acq","S1","Neutral (Scenery)","Drug 2",192.229406,54.304894,756.329483,9.295465,-0.503768,0.939357
+"BSC_023_ISC.acq","S2","Neutral (Scenery)","Drug 2",408.317695,39.031455,809.530612,9.217561,-0.636583,0.557642
+"BSC_023_ISC.acq","S3","Erotic couples (High arousal, High valence)","Drug 2",244.823328,37.080146,860.585106,9.462879,-0.478665,0.335754
+"BSC_023_ISC.acq","S4","Erotic couples (High arousal, High valence)","Drug 2",209.74209,32.441299,839.904255,11.984469,-0.680529,0.820783
+"BSC_023_ISC.acq","S5","Social Negative (Low Arousal, Low Valence)","Drug 2",306.756298,29.573977,794.15,12.815012,-0.964616,1.21318
+"BSC_023_ISC.acq","S6","Social Negative (Low Arousal, Low Valence)","Drug 2",1272.59613,56.848047,818.326531,7.581777,-0.093252,0.226597
+"BSC_023_ISC.acq","S7","Social + (Low Arousal, High Valence)","Drug 2",110.751065,28.147611,802.883635,11.355151,-0.997009,0.967493
+"BSC_023_ISC.acq","S8","Social + (Low Arousal, High Valence)","Drug 2",139.613412,46.995673,802.931373,7.85793,-0.48841,0.420756
+"BSC_023_ISC.acq","S9","Horror (High Arousal, Low Valence)","Drug 2",722.861853,35.593445,855.902174,8.898068,-0.583431,0.316306
+"BSC_023_ISC.acq","S10","Horror (High Arousal, Low Valence)","Drug 2",288.43791,33.99482,831.501081,9.41811,-0.735412,0.527091
+"BSC_023_ISC.acq","S11","Neutral (Scenery)","Drug 2",365.79821,66.120629,823.8125,9.004467,0.315545,0.28066
+"BSC_023_ISC.acq","S12","Neutral (Scenery)","Drug 2",120.237903,21.045566,823.755102,13.621843,-1.111899,1.217568
+"BSC_023_ISC.acq","S13","Social Negative (Low Arousal, Low Valence)","Drug 2",142.86088,21.732131,796.77,12.647588,-1.230265,1.238516
+"BSC_023_ISC.acq","S14","Social Negative (Low Arousal, Low Valence)","Drug 2",1751.347701,47.098573,832.343627,10.677922,-0.236498,0.573777
+"BSC_023_ISC.acq","S15","Erotic couples (High arousal, High valence)","Drug 2",315.158837,33.986863,835.458962,11.424682,-0.674037,0.772995
+"BSC_023_ISC.acq","S16","Erotic couples (High arousal, High valence)","Drug 2",80.97025,26.108646,813.76,15.210398,-0.948896,1.448886
+"BSC_023_ISC.acq","S17","Horror (High Arousal, Low Valence)","Drug 2",229.466547,29.25286,839.664233,13.73931,-0.74366,1.071069
+"BSC_023_ISC.acq","S18","Horror (High Arousal, Low Valence)","Drug 2",87.325689,76.392282,812.559949,9.482258,0.750313,0.209075
+"BSC_023_ISC.acq","S19","Social + (Low Arousal, High Valence)","Drug 2",3142.218876,99.9896,773.048543,5.960991,0.93112,0.177738
+"BSC_023_ISC.acq","S20","Social + (Low Arousal, High Valence)","Drug 2",314.503829,72.06059,787.274456,6.631318,0.202426,0.235576
+"BSC_024_ISC.acq","S1","Neutral (Scenery)","Drug 2",656.78483,45.028978,1024.025641,11.412233,0.607261,-0.20957
+"BSC_024_ISC.acq","S2","Neutral (Scenery)","Drug 2",364.945863,35.447574,982.65,12.236543,0.120317,0.120442
+"BSC_024_ISC.acq","S3","Erotic couples (High arousal, High valence)","Drug 2",518.468437,49.031038,1029.495951,12.256459,0.858317,-0.218376
+"BSC_024_ISC.acq","S4","Erotic couples (High arousal, High valence)","Drug 2",264.166951,42.143764,993.225,11.136443,0.410968,-0.155561
+"BSC_024_ISC.acq","S5","Social Negative (Low Arousal, Low Valence)","Drug 2",640.725558,48.001056,1038.346154,14.255339,0.884263,0.045575
+"BSC_024_ISC.acq","S6","Social Negative (Low Arousal, Low Valence)","Drug 2",431.95819,40.694831,1035.897436,11.741015,0.567359,-0.224022
+"BSC_024_ISC.acq","S7","Social + (Low Arousal, High Valence)","Drug 2",453.542024,57.520389,965.991309,10.982269,0.793913,-0.165394
+"BSC_024_ISC.acq","S8","Social + (Low Arousal, High Valence)","Drug 2",1283.917699,50.301605,986.44095,9.730979,0.531839,-0.280105
+"BSC_024_ISC.acq","S9","Horror (High Arousal, Low Valence)","Drug 2",254.135363,38.004481,1058.105263,11.630849,0.516862,-0.240206
+"BSC_024_ISC.acq","S10","Horror (High Arousal, Low Valence)","Drug 2",2050.552497,84.434076,1007.275,6.944723,1.584085,-0.838582
+"BSC_024_ISC.acq","S11","Neutral (Scenery)","Drug 2",251.597578,45.4493,973.583333,9.815451,0.328996,-0.200407
+"BSC_024_ISC.acq","S12","Neutral (Scenery)","Drug 2",636.43216,45.584535,1034.686998,12.171419,0.738213,-0.198807
+"BSC_024_ISC.acq","S13","Social Negative (Low Arousal, Low Valence)","Drug 2",742.377342,45.856374,1026.180943,14.902128,0.808852,0.152904
+"BSC_024_ISC.acq","S14","Social Negative (Low Arousal, Low Valence)","Drug 2",236.53124,105.502638,970.862957,6.895651,2.207078,-0.927369
+"BSC_024_ISC.acq","S15","Erotic couples (High arousal, High valence)","Drug 2",663.514109,39.676927,1020.820513,15.641189,0.55791,0.348727
+"BSC_024_ISC.acq","S16","Erotic couples (High arousal, High valence)","Drug 2",439.201091,44.657582,980.439024,8.996152,0.391019,-0.407074
+"BSC_024_ISC.acq","S17","Horror (High Arousal, Low Valence)","Drug 2",665.028987,44.301492,1067.19889,12.319353,0.854541,-0.293211
+"BSC_024_ISC.acq","S18","Horror (High Arousal, Low Valence)","Drug 2",574.687218,37.115719,1051.934211,14.213622,0.608376,0.03773
+"BSC_024_ISC.acq","S19","Social + (Low Arousal, High Valence)","Drug 2",333.542462,49.571307,970.716616,9.268552,0.401318,-0.248572
+"BSC_024_ISC.acq","S20","Social + (Low Arousal, High Valence)","Drug 2",239.365906,48.089489,967.220556,8.385451,0.328969,-0.354037
+"BSC_025_ISC.acq","S1","Neutral (Scenery)","Drug 2",2170.400249,69.578194,896.204545,9.332331,0.747075,-0.057127
+"BSC_025_ISC.acq","S2","Neutral (Scenery)","Drug 2",972.735927,58.789656,895.125,11.431327,0.543429,0.18362
+"BSC_025_ISC.acq","S3","Erotic couples (High arousal, High valence)","Drug 2",1150.264041,66.693626,875.51087,9.532476,0.641493,0.010191
+"BSC_025_ISC.acq","S4","Erotic couples (High arousal, High valence)","Drug 2",1331.86656,61.996059,833.177083,11.458087,0.356464,0.5
+"BSC_025_ISC.acq","S5","Social Negative (Low Arousal, Low Valence)","Drug 2",863.267922,62.931933,889.811111,11.075209,0.675411,0.108864
+"BSC_025_ISC.acq","S6","Social Negative (Low Arousal, Low Valence)","Drug 2",1094.242345,56.847344,894.670455,11.702035,0.490237,0.226954
+"BSC_025_ISC.acq","S7","Social + (Low Arousal, High Valence)","Drug 2",1680.414223,70.788046,904.068182,10.165912,0.839084,0.01061
+"BSC_025_ISC.acq","S8","Social + (Low Arousal, High Valence)","Drug 2",1006.789566,52.799621,858.531915,13.9079,0.189063,0.779501
+"BSC_025_ISC.acq","S9","Horror (High Arousal, Low Valence)","Drug 2",1312.207566,64.752628,871.728261,10.680942,0.527182,0.252602
+"BSC_025_ISC.acq","S10","Horror (High Arousal, Low Valence)","Drug 2",1392.733203,63.301201,865.847826,11.102447,0.507776,0.301919
+"BSC_025_ISC.acq","S11","Neutral (Scenery)","Drug 2",1066.65864,61.435337,901.5,9.514886,0.604979,-0.10575
+"BSC_025_ISC.acq","S12","Neutral (Scenery)","Drug 2",745.060464,51.470624,887.555556,11.252953,0.238484,0.267586
+"BSC_025_ISC.acq","S13","Social Negative (Low Arousal, Low Valence)","Drug 2",1001.442186,52.231876,836.270833,11.469989,0.022771,0.570984
+"BSC_025_ISC.acq","S14","Social Negative (Low Arousal, Low Valence)","Drug 2",514.14169,47.4497,893.088889,8.54393,0.002133,-0.025295
+"BSC_025_ISC.acq","S15","Erotic couples (High arousal, High valence)","Drug 2",1136.231961,56.317456,836.041667,12.392114,0.192312,0.654172
+"BSC_025_ISC.acq","S16","Erotic couples (High arousal, High valence)","Drug 2",1076.764832,57.991069,893.022222,10.323288,0.454037,0.080527
+"BSC_025_ISC.acq","S17","Horror (High Arousal, Low Valence)","Drug 2",1624.377222,65.470323,891.840909,11.424126,0.75235,0.15323
+"BSC_025_ISC.acq","S18","Horror (High Arousal, Low Valence)","Drug 2",756.965831,51.295986,861.152174,11.87971,0.134378,0.477596
+"BSC_025_ISC.acq","S19","Social + (Low Arousal, High Valence)","Drug 2",1176.09105,55.571867,843.010417,11.194291,0.170046,0.464084
+"BSC_025_ISC.acq","S20","Social + (Low Arousal, High Valence)","Drug 2",1170.600108,56.514052,871.326087,11.972985,0.341549,0.418374
+"BSC_026_ISC.acq","S1","Neutral (Scenery)","Drug 2",1811.487596,56.925345,736.87963,9.699024,-0.403198,1.018468
+"BSC_026_ISC.acq","S2","Neutral (Scenery)","Drug 2",2153.162183,61.554004,775.34174,8.834977,-0.109401,0.629328
+"BSC_026_ISC.acq","S3","Erotic couples (High arousal, High valence)","Drug 2",2209.210365,70.137009,820.791667,7.592812,0.346944,0.141197
+"BSC_026_ISC.acq","S4","Erotic couples (High arousal, High valence)","Drug 2",745.409715,52.877466,774.586538,7.25363,-0.439878,0.482373
+"BSC_026_ISC.acq","S5","Social Negative (Low Arousal, Low Valence)","Drug 2",4562.402197,81.848448,755.475769,6.593329,0.291053,0.465696
+"BSC_026_ISC.acq","S6","Social Negative (Low Arousal, Low Valence)","Drug 2",2391.343433,56.788092,759.216981,8.380208,-0.334262,0.687798
+"BSC_026_ISC.acq","S7","Social + (Low Arousal, High Valence)","Drug 2",1398.175249,42.644477,740.581613,9.269021,-0.859591,1.014362
+"BSC_026_ISC.acq","S8","Social + (Low Arousal, High Valence)","Drug 2",1813.463722,50.47558,759,8.909157,-0.52668,0.79346
+"BSC_026_ISC.acq","S9","Horror (High Arousal, Low Valence)","Drug 2",1212.166869,45.578742,797,10.429478,-0.430658,0.733271
+"BSC_026_ISC.acq","S10","Horror (High Arousal, Low Valence)","Drug 2",1506.06582,59.351041,759.224651,6.938859,-0.353082,0.551059
+"BSC_026_ISC.acq","S11","Neutral (Scenery)","Drug 2",883.078694,62.445033,699.196429,7.927082,-0.489583,1.088743
+"BSC_026_ISC.acq","S12","Neutral (Scenery)","Drug 2",4142.058478,71.163204,772.721154,7.617278,0.130806,0.462587
+"BSC_026_ISC.acq","S13","Social Negative (Low Arousal, Low Valence)","Drug 2",918.61413,44.411647,717.276786,9.532899,-0.893678,1.200257
+"BSC_026_ISC.acq","S14","Social Negative (Low Arousal, Low Valence)","Drug 2",1342.356506,59.072654,734.486046,9.03152,-0.411914,0.987094
+"BSC_026_ISC.acq","S15","Erotic couples (High arousal, High valence)","Drug 2",1416.814992,59.598362,740.583333,8.782118,-0.36028,0.895119
+"BSC_026_ISC.acq","S16","Erotic couples (High arousal, High valence)","Drug 2",1034.95715,46.237836,756.518868,9.69139,-0.668575,0.948663
+"BSC_026_ISC.acq","S17","Horror (High Arousal, Low Valence)","Drug 2",2527.138319,61.238631,698.464912,7.256342,-0.571786,1.03591
+"BSC_026_ISC.acq","S18","Horror (High Arousal, Low Valence)","Drug 2",2346.836812,66.1806,805.95,8.138108,0.149456,0.336424
+"BSC_026_ISC.acq","S19","Social + (Low Arousal, High Valence)","Drug 2",686.018933,39.891091,777.970588,13.016768,-0.650509,1.234612
+"BSC_026_ISC.acq","S20","Social + (Low Arousal, High Valence)","Drug 2",3299.856584,72.419615,758.830189,7.244015,0.09193,0.505452
+"BSC_027_ISC.acq","S1","Neutral (Scenery)","Drug 1",2257.020984,77.27228,1193.69697,7.293458,2.268799,-1.417666
+"BSC_027_ISC.acq","S2","Neutral (Scenery)","Drug 1",1668.551668,68.079825,1170.661765,8.312518,1.956713,-1.233421
+"BSC_027_ISC.acq","S3","Erotic couples (High arousal, High valence)","Drug 1",1330.087718,60.185638,1147.514286,10.174119,1.619518,-0.856776
+"BSC_027_ISC.acq","S4","Erotic couples (High arousal, High valence)","Drug 1",2123.285118,63.189422,1151.342857,9.371866,1.766282,-1.041392
+"BSC_027_ISC.acq","S5","Social Negative (Low Arousal, Low Valence)","Drug 1",2124.501061,73.923474,1130.361111,8.790654,1.918728,-1.029607
+"BSC_027_ISC.acq","S6","Social Negative (Low Arousal, Low Valence)","Drug 1",2359.344222,65.721115,1051.342105,7.27574,1.248075,-0.912401
+"BSC_027_ISC.acq","S7","Social + (Low Arousal, High Valence)","Drug 1",4270.559592,88.060379,1020.153846,5.320774,1.701118,-1.100247
+"BSC_027_ISC.acq","S8","Social + (Low Arousal, High Valence)","Drug 1",2380.983093,70.09971,1197.212121,7.480789,2.143906,-1.448876
+"BSC_027_ISC.acq","S9","Horror (High Arousal, Low Valence)","Drug 1",1706.243857,65.41318,1180.617647,9.13485,1.968451,-1.172088
+"BSC_027_ISC.acq","S10","Horror (High Arousal, Low Valence)","Drug 1",1701.552842,66.536924,1158.128571,9.578023,1.917881,-1.060819
+"BSC_027_ISC.acq","S11","Neutral (Scenery)","Drug 1",1743.188639,86.389588,1098.121622,5.063673,1.970528,-1.37041
+"BSC_027_ISC.acq","S12","Neutral (Scenery)","Drug 1",1625.06218,63.073697,890.477778,7.965478,0.426239,-0.120407
+"BSC_027_ISC.acq","S13","Social Negative (Low Arousal, Low Valence)","Drug 1",2647.872182,86.177238,1186.911765,7.429987,2.624543,-1.526717
+"BSC_027_ISC.acq","S14","Social Negative (Low Arousal, Low Valence)","Drug 1",1719.994281,67.417077,1141.914286,8.885295,1.853463,-1.105824
+"BSC_027_ISC.acq","S15","Erotic couples (High arousal, High valence)","Drug 1",1254.374804,60.771138,1059.067568,9.248513,1.276067,-0.75915
+"BSC_027_ISC.acq","S16","Erotic couples (High arousal, High valence)","Drug 1",640.419845,57.123006,1052.447368,6.36834,0.917106,-0.950287
+"BSC_027_ISC.acq","S17","Horror (High Arousal, Low Valence)","Drug 1",867.058956,48.643598,1107.125,10.853016,1.118289,-0.618068
+"BSC_027_ISC.acq","S18","Horror (High Arousal, Low Valence)","Drug 1",1374.805912,65.266994,989.9375,6.899127,0.860684,-0.645575
+"BSC_027_ISC.acq","S19","Social + (Low Arousal, High Valence)","Drug 1",1462.34416,73.593481,938.441796,7.788261,1.035661,-0.479845
+"BSC_027_ISC.acq","S20","Social + (Low Arousal, High Valence)","Drug 1",1172.31955,68.626972,972.780488,5.640967,0.867868,-0.766783
+"BSC_028_ISC.acq","S1","Neutral (Scenery)","Drug 1",410.765485,39.068268,793.843137,12.456366,-0.67892,1.126824
+"BSC_028_ISC.acq","S2","Neutral (Scenery)","Drug 1",646.906623,52.659497,878.2,8.661463,0.11388,0.026048
+"BSC_028_ISC.acq","S3","Erotic couples (High arousal, High valence)","Drug 1",950.488639,59.359818,900.6,8.228612,0.392535,-0.147954
+"BSC_028_ISC.acq","S4","Erotic couples (High arousal, High valence)","Drug 1",821.89639,49.589658,863.765957,9.24727,-0.047502,0.203882
+"BSC_028_ISC.acq","S5","Social Negative (Low Arousal, Low Valence)","Drug 1",467.923786,45.484362,848.12766,9.217758,-0.248534,0.301622
+"BSC_028_ISC.acq","S6","Social Negative (Low Arousal, Low Valence)","Drug 1",317.679962,39.398771,825.387755,9.987594,-0.522873,0.554152
+"BSC_028_ISC.acq","S7","Social + (Low Arousal, High Valence)","Drug 1",392.177315,49.845041,838.895833,9.090465,-0.214865,0.372955
+"BSC_028_ISC.acq","S8","Social + (Low Arousal, High Valence)","Drug 1",1910.617509,63.9041,815.387755,7.376684,0.075314,0.21884
+"BSC_028_ISC.acq","S9","Horror (High Arousal, Low Valence)","Drug 1",701.640532,76.265615,869.847826,6.453792,0.709284,-0.275899
+"BSC_028_ISC.acq","S10","Horror (High Arousal, Low Valence)","Drug 1",1027.355435,50.838441,838.041667,10.578705,-0.080654,0.497085
+"BSC_028_ISC.acq","S11","Neutral (Scenery)","Drug 1",2075.116027,62.344699,827.854167,8.109651,0.119534,0.232138
+"BSC_028_ISC.acq","S12","Neutral (Scenery)","Drug 1",1498.254351,47.72714,870.913043,7.355693,-0.125662,-0.065234
+"BSC_028_ISC.acq","S13","Social Negative (Low Arousal, Low Valence)","Drug 1",591.078873,42.350912,786.745098,11.315381,-0.615841,0.985981
+"BSC_028_ISC.acq","S14","Social Negative (Low Arousal, Low Valence)","Drug 1",696.170512,41.936058,826.22449,9.812704,-0.467461,0.538635
+"BSC_028_ISC.acq","S15","Erotic couples (High arousal, High valence)","Drug 1",522.095356,39.393944,807.12,11.010097,-0.60245,0.814886
+"BSC_028_ISC.acq","S16","Erotic couples (High arousal, High valence)","Drug 1",729.181799,41.783707,824.0625,11.332153,-0.424236,0.729608
+"BSC_028_ISC.acq","S17","Horror (High Arousal, Low Valence)","Drug 1",432.803433,37.128088,803.52,14.398515,-0.59595,1.279058
+"BSC_028_ISC.acq","S18","Horror (High Arousal, Low Valence)","Drug 1",972.677934,51.682936,832.375,10.507749,-0.081006,0.514611
+"BSC_028_ISC.acq","S19","Social + (Low Arousal, High Valence)","Drug 1",614.554288,43.406101,754.849057,8.961119,-0.79373,0.887687
+"BSC_028_ISC.acq","S20","Social + (Low Arousal, High Valence)","Drug 1",561.219366,41.427377,822.489796,10.985588,-0.441492,0.685305
+"BSC_029_isc.acq","S1","Neutral (Scenery)","Drug 2",1671.201856,48.117801,806.42,11.724665,-0.246275,0.804492
+"BSC_029_isc.acq","S2","Neutral (Scenery)","Drug 2",998.555467,47.389167,804.510204,9.91895,-0.411772,0.672622
+"BSC_029_isc.acq","S3","Erotic couples (High arousal, High valence)","Drug 2",1045.860313,49.210241,850.276596,10.868998,-0.050815,0.458085
+"BSC_029_isc.acq","S4","Erotic couples (High arousal, High valence)","Drug 2",1251.600986,49.017919,847.148936,11.632466,-0.072191,0.595292
+"BSC_029_isc.acq","S5","Social Negative (Low Arousal, Low Valence)","Drug 2",1105.019366,58.442493,813.571429,7.490159,-0.125665,0.293385
+"BSC_029_isc.acq","S6","Social Negative (Low Arousal, Low Valence)","Drug 2",1383.738659,43.896056,756.134615,9.492618,-0.760178,0.94724
+"BSC_029_isc.acq","S7","Social + (Low Arousal, High Valence)","Drug 2",936.897849,46.497886,751.867925,9.28791,-0.681303,0.915894
+"BSC_029_isc.acq","S8","Social + (Low Arousal, High Valence)","Drug 2",716.902941,45.569643,795.1,8.517304,-0.498861,0.506983
+"BSC_029_isc.acq","S9","Horror (High Arousal, Low Valence)","Drug 2",603.389148,58.224991,853.630435,7.504112,0.090925,0.033091
+"BSC_029_isc.acq","S10","Horror (High Arousal, Low Valence)","Drug 2",809.263312,47.840513,875.822222,9.218463,-0.070035,0.168516
+"BSC_029_isc.acq","S11","Neutral (Scenery)","Drug 2",1155.233408,57.420927,811.22,6.479472,-0.148896,0.135298
+"BSC_029_isc.acq","S12","Neutral (Scenery)","Drug 2",411.440267,44.703104,806.142857,9.099913,-0.471777,0.531131
+"BSC_029_isc.acq","S13","Social Negative (Low Arousal, Low Valence)","Drug 2",375.322653,38.167639,682.745763,11.520677,-1.257238,1.82209
+"BSC_029_isc.acq","S14","Social Negative (Low Arousal, Low Valence)","Drug 2",483.856437,37.598861,704.052632,10.536722,-1.194206,1.514894
+"BSC_029_isc.acq","S15","Erotic couples (High arousal, High valence)","Drug 2",1074.251682,52.704386,782.865385,6.857851,-0.437973,0.399436
+"BSC_029_isc.acq","S16","Erotic couples (High arousal, High valence)","Drug 2",362.722494,38.077433,718.181818,9.705195,-1.102598,1.262754
+"BSC_029_isc.acq","S17","Horror (High Arousal, Low Valence)","Drug 2",1067.258543,67.176687,774.461538,6.547471,-0.002398,0.31907
+"BSC_029_isc.acq","S18","Horror (High Arousal, Low Valence)","Drug 2",877.293318,46.366646,744.722222,8.58335,-0.745283,0.883223
+"BSC_029_isc.acq","S19","Social + (Low Arousal, High Valence)","Drug 2",1495.490441,44.868022,738.888889,7.957774,-0.848434,0.862816
+"BSC_029_isc.acq","S20","Social + (Low Arousal, High Valence)","Drug 2",851.258409,47.294615,722.6,8.520837,-0.786256,0.9971
+"BSC_030_isc.acq","S1","Neutral (Scenery)","Drug 2",204.648977,29.995779,967.95122,14.538332,-0.098896,0.543441
+"BSC_030_isc.acq","S2","Neutral (Scenery)","Drug 2",368.40828,31.993299,972.731707,17.923842,0.095639,0.928536
+"BSC_030_isc.acq","S3","Erotic couples (High arousal, High valence)","Drug 2",544.514839,33.766982,985.7,15.929158,0.151967,0.617247
+"BSC_030_isc.acq","S4","Erotic couples (High arousal, High valence)","Drug 2",400.920335,30.36143,970.987805,16.678511,-0.02982,0.816806
+"BSC_030_isc.acq","S5","Social Negative (Low Arousal, Low Valence)","Drug 2",327.583804,30.910249,965.428571,17.920666,0.043691,0.94802
+"BSC_030_isc.acq","S6","Social Negative (Low Arousal, Low Valence)","Drug 2",306.694171,42.573524,974.841463,9.485497,0.196725,-0.195466
+"BSC_030_isc.acq","S7","Social + (Low Arousal, High Valence)","Drug 2",255.191143,29.055268,934.651163,17.659837,-0.160563,1.054584
+"BSC_030_isc.acq","S8","Social + (Low Arousal, High Valence)","Drug 2",562.275075,52.8997,948.383721,10.508926,0.498897,-0.072764
+"BSC_030_isc.acq","S9","Horror (High Arousal, Low Valence)","Drug 2",371.044732,32.280789,986.682927,14.636034,0.120468,0.409396
+"BSC_030_isc.acq","S10","Horror (High Arousal, Low Valence)","Drug 2",407.082236,30.217964,975.085366,17.434542,0.026926,0.875133
+"BSC_030_isc.acq","S11","Neutral (Scenery)","Drug 2",353.556543,31.487115,955.380952,14.937609,-0.036526,0.578248
+"BSC_030_isc.acq","S12","Neutral (Scenery)","Drug 2",328.054559,28.647034,955.666667,18.140861,-0.077366,1.039349
+"BSC_030_isc.acq","S13","Social Negative (Low Arousal, Low Valence)","Drug 2",355.952651,30.687709,953.702381,19.89664,0.028587,1.259262
+"BSC_030_isc.acq","S14","Social Negative (Low Arousal, Low Valence)","Drug 2",466.795901,44.238591,960.012195,9.50437,0.17818,-0.135611
+"BSC_030_isc.acq","S15","Erotic couples (High arousal, High valence)","Drug 2",321.127825,30.589337,960.238095,19.432887,0.078794,1.136633
+"BSC_030_isc.acq","S16","Erotic couples (High arousal, High valence)","Drug 2",486.575805,34.886051,973.402439,12.58401,0.066038,0.208928
+"BSC_030_isc.acq","S17","Horror (High Arousal, Low Valence)","Drug 2",326.612757,33.103979,988.1875,14.918903,0.157082,0.43942
+"BSC_030_isc.acq","S18","Horror (High Arousal, Low Valence)","Drug 2",597.18154,53.919232,986.075,7.743792,0.624983,-0.584469
+"BSC_030_isc.acq","S19","Social + (Low Arousal, High Valence)","Drug 2",426.779946,31.360553,963.428571,15.563857,-0.002498,0.640535
+"BSC_030_isc.acq","S20","Social + (Low Arousal, High Valence)","Drug 2",402.611942,29.319919,958.238095,19.418181,-0.0568,1.235371
+"BSC_031_isc.acq","S1","Neutral (Scenery)","Drug 1",2995.803219,80.917392,891.988889,8.652208,1.105903,-0.216889
+"BSC_031_isc.acq","S2","Neutral (Scenery)","Drug 1",3701.314852,95.783909,1057.934211,6.071948,2.221912,-1.262911
+"BSC_031_isc.acq","S3","Erotic couples (High arousal, High valence)","Drug 1",1255.658526,75.805014,1082.5,8.311323,1.8199,-1.019672
+"BSC_031_isc.acq","S4","Erotic couples (High arousal, High valence)","Drug 1",2015.269065,85.199238,1087.486111,8.369101,2.191716,-1.125598
+"BSC_031_isc.acq","S5","Social Negative (Low Arousal, Low Valence)","Drug 1",1699.112712,80.638453,1066.608108,7.662898,1.893858,-1.083549
+"BSC_031_isc.acq","S6","Social Negative (Low Arousal, Low Valence)","Drug 1",2029.658823,73.796427,1022.705128,9.65963,1.520394,-0.626808
+"BSC_031_isc.acq","S7","Social + (Low Arousal, High Valence)","Drug 1",1554.72443,61.733975,1011.2625,9.32904,1.10125,-0.590033
+"BSC_031_isc.acq","S8","Social + (Low Arousal, High Valence)","Drug 1",1529.687723,65.353555,1053.894737,9.095126,1.392853,-0.782804
+"BSC_031_isc.acq","S9","Horror (High Arousal, Low Valence)","Drug 1",1545.599877,79.990389,1128.557143,9.110982,2.170846,-1.072911
+"BSC_031_isc.acq","S10","Horror (High Arousal, Low Valence)","Drug 1",3143.012371,98.070497,1116.638889,7.604032,2.610833,-1.280647
+"BSC_031_isc.acq","S11","Neutral (Scenery)","Drug 1",1376.977159,84.57124,1014.7375,7.712019,1.711222,-0.837718
+"BSC_031_isc.acq","S12","Neutral (Scenery)","Drug 1",1306.123405,75.525539,1012.115385,6.535605,1.343599,-0.895781
+"BSC_031_isc.acq","S13","Social Negative (Low Arousal, Low Valence)","Drug 1",1681.422422,64.897471,992.5375,8.117168,0.98005,-0.584684
+"BSC_031_isc.acq","S14","Social Negative (Low Arousal, Low Valence)","Drug 1",659.149358,74.134668,1009.65,7.719946,1.301302,-0.709153
+"BSC_031_isc.acq","S15","Erotic couples (High arousal, High valence)","Drug 1",1426.349066,77.876443,1119.111111,8.419558,2.047869,-1.127048
+"BSC_031_isc.acq","S16","Erotic couples (High arousal, High valence)","Drug 1",1231.066392,85.332912,1080.608108,7.904558,2.119059,-1.129698
+"BSC_031_isc.acq","S17","Horror (High Arousal, Low Valence)","Drug 1",2472.386715,102.78365,1165.823529,6.359109,2.95973,-1.620498
+"BSC_031_isc.acq","S18","Horror (High Arousal, Low Valence)","Drug 1",1818.651379,81.157323,1153.191176,8.389367,2.364695,-1.309262
+"BSC_031_isc.acq","S19","Social + (Low Arousal, High Valence)","Drug 1",1487.426699,79.892678,989.2625,7.526642,1.505134,-0.802585
+"BSC_031_isc.acq","S20","Social + (Low Arousal, High Valence)","Drug 1",1635.489915,73.810778,989.414634,7.62254,1.217845,-0.662825
+"BSC_032_ISC.acq","S1","Neutral (Scenery)","Drug 1",451.536964,50.314383,809.56,6.607807,-0.406494,0.224549
+"BSC_032_ISC.acq","S2","Neutral (Scenery)","Drug 1",173.413608,40.698531,851.893617,9.301648,-0.428842,0.363889
+"BSC_032_ISC.acq","S3","Erotic couples (High arousal, High valence)","Drug 1",661.336512,44.301202,971.609756,9.010801,0.281737,-0.309306
+"BSC_032_ISC.acq","S4","Erotic couples (High arousal, High valence)","Drug 1",471.053285,35.374124,892.244444,11.354332,-0.283993,0.373731
+"BSC_032_ISC.acq","S5","Social Negative (Low Arousal, Low Valence)","Drug 1",311.57863,34.912113,824.458333,11.562007,-0.628743,0.785286
+"BSC_032_ISC.acq","S6","Social Negative (Low Arousal, Low Valence)","Drug 1",455.316732,32.37515,830.354167,13.206168,-0.691281,1.028715
+"BSC_032_ISC.acq","S7","Social + (Low Arousal, High Valence)","Drug 1",414.345892,38.89713,924.318182,11.122535,-0.05777,0.201455
+"BSC_032_ISC.acq","S8","Social + (Low Arousal, High Valence)","Drug 1",349.363566,35.063242,844.958333,10.111096,-0.605797,0.521128
+"BSC_032_ISC.acq","S9","Horror (High Arousal, Low Valence)","Drug 1",1760.873828,72.217691,951.357143,8.341417,1.051143,-0.443709
+"BSC_032_ISC.acq","S10","Horror (High Arousal, Low Valence)","Drug 1",1696.307447,68.044533,965.238095,8.216357,0.95785,-0.476731
+"BSC_032_ISC.acq","S11","Neutral (Scenery)","Drug 1",865.235856,47.557172,861.042553,9.467179,-0.121629,0.259459
+"BSC_032_ISC.acq","S12","Neutral (Scenery)","Drug 1",384.027765,42.728533,873.043478,9.871147,-0.219712,0.284007
+"BSC_032_ISC.acq","S13","Social Negative (Low Arousal, Low Valence)","Drug 1",1326.05411,60.096547,928.139535,7.796577,0.551885,-0.356617
+"BSC_032_ISC.acq","S14","Social Negative (Low Arousal, Low Valence)","Drug 1",124.221226,40.018078,760.769231,8.164308,-0.911592,0.777784
+"BSC_032_ISC.acq","S15","Erotic couples (High arousal, High valence)","Drug 1",924.227619,56.77822,979.075,8.676031,0.688229,-0.430745
+"BSC_032_ISC.acq","S16","Erotic couples (High arousal, High valence)","Drug 1",554.990018,45.471727,953.428571,8.263217,0.220508,-0.339309
+"BSC_032_ISC.acq","S17","Horror (High Arousal, Low Valence)","Drug 1",1793.564829,78.838235,931.697674,7.235946,1.096234,-0.486602
+"BSC_032_ISC.acq","S18","Horror (High Arousal, Low Valence)","Drug 1",1379.909449,63.885559,882.533333,7.008147,0.36563,-0.183586
+"BSC_032_ISC.acq","S19","Social + (Low Arousal, High Valence)","Drug 1",1392.732657,65.895436,892.931818,6.361263,0.452494,-0.320603
+"BSC_032_ISC.acq","S20","Social + (Low Arousal, High Valence)","Drug 1",189.005593,31.893399,796.76,10.637037,-0.949535,0.917825
+"BSC_033_ISC.acq","S1","Neutral (Scenery)","Drug 2",804.699132,46.315978,1054.675676,11.97405,0.897299,-0.349252
+"BSC_033_ISC.acq","S2","Neutral (Scenery)","Drug 2",731.208623,54.855044,1120.833333,9.637702,1.326698,-0.829469
+"BSC_033_ISC.acq","S3","Erotic couples (High arousal, High valence)","Drug 2",797.390128,45.150711,1073.324324,11.071052,0.867821,-0.46994
+"BSC_033_ISC.acq","S4","Erotic couples (High arousal, High valence)","Drug 2",528.278316,47.59765,1080.783784,12.392456,1.033073,-0.356537
+"BSC_033_ISC.acq","S5","Social Negative (Low Arousal, Low Valence)","Drug 2",309.081145,41.155019,1070.894737,12.898909,0.747286,-0.176073
+"BSC_033_ISC.acq","S6","Social Negative (Low Arousal, Low Valence)","Drug 2",880.699021,44.140039,1130.228571,12.80483,1.163537,-0.448621
+"BSC_033_ISC.acq","S7","Social + (Low Arousal, High Valence)","Drug 2",628.92248,47.604386,1105.638889,12.33724,1.15098,-0.4509
+"BSC_033_ISC.acq","S8","Social + (Low Arousal, High Valence)","Drug 2",819.621734,44.327768,1076.324324,12.835053,0.900297,-0.247918
+"BSC_033_ISC.acq","S9","Horror (High Arousal, Low Valence)","Drug 2",892.068222,43.985352,1042.578947,12.708179,0.745481,-0.158269
+"BSC_033_ISC.acq","S10","Horror (High Arousal, Low Valence)","Drug 2",1231.003429,53.372677,1086.513514,12.150704,1.206211,-0.405871
+"BSC_033_ISC.acq","S11","Neutral (Scenery)","Drug 2",805.471971,48.121055,1105.972973,11.294954,1.10245,-0.549374
+"BSC_033_ISC.acq","S12","Neutral (Scenery)","Drug 2",438.137634,40.251013,1142.828571,12.804874,1.07941,-0.449126
+"BSC_033_ISC.acq","S13","Social Negative (Low Arousal, Low Valence)","Drug 2",641.083435,42.911474,1084.204072,10.082688,0.779046,-0.580811
+"BSC_033_ISC.acq","S14","Social Negative (Low Arousal, Low Valence)","Drug 2",850.821827,56.490518,1009.425,8.212013,0.76167,-0.564767
+"BSC_033_ISC.acq","S15","Erotic couples (High arousal, High valence)","Drug 2",465.593516,45.172025,1090.756757,9.275218,0.83196,-0.690098
+"BSC_033_ISC.acq","S16","Erotic couples (High arousal, High valence)","Drug 2",635.157343,47.790537,1122.222222,12.476742,1.239894,-0.490037
+"BSC_033_ISC.acq","S17","Horror (High Arousal, Low Valence)","Drug 2",769.910055,46.008594,1054.083333,9.737813,0.767397,-0.574225
+"BSC_033_ISC.acq","S18","Horror (High Arousal, Low Valence)","Drug 2",3049.583994,106.189133,985.473166,6.531067,2.16003,-0.911295
+"BSC_033_ISC.acq","S19","Social + (Low Arousal, High Valence)","Drug 2",832.706898,49.583157,1004.091241,6.728636,0.488763,-0.70981
+"BSC_033_ISC.acq","S20","Social + (Low Arousal, High Valence)","Drug 2",4047.979089,83.876499,922.601958,7.53948,1.15939,-0.368461
+"BSC_034ISC.acq","S1","Neutral (Scenery)","Drug 2",901.114168,34.432246,827.125,12.672034,-0.670184,0.983247
+"BSC_034ISC.acq","S2","Neutral (Scenery)","Drug 2",2068.970401,39.759913,794.12,10.603116,-0.729228,0.907229
+"BSC_034ISC.acq","S3","Erotic couples (High arousal, High valence)","Drug 2",349.969852,22.690695,769,17.31142,-1.245495,2.053151
+"BSC_034ISC.acq","S4","Erotic couples (High arousal, High valence)","Drug 2",966.809709,33.992801,707.571429,9.434558,-1.295857,1.335733
+"BSC_034ISC.acq","S5","Social Negative (Low Arousal, Low Valence)","Drug 2",1320.129955,28.113612,740.972222,11.74804,-1.284894,1.434301
+"BSC_034ISC.acq","S6","Social Negative (Low Arousal, Low Valence)","Drug 2",418.632243,29.469384,736.572727,14.745154,-1.182252,1.846443
+"BSC_034ISC.acq","S7","Social + (Low Arousal, High Valence)","Drug 2",548.450471,26.270252,742.935185,14.147034,-1.290238,1.759144
+"BSC_034ISC.acq","S8","Social + (Low Arousal, High Valence)","Drug 2",382.13351,24.731808,737,13.905725,-1.351444,1.756211
+"BSC_034ISC.acq","S9","Horror (High Arousal, Low Valence)","Drug 2",606.242482,28.759113,768.817308,15.756725,-1.042019,1.771058
+"BSC_034ISC.acq","S10","Horror (High Arousal, Low Valence)","Drug 2",513.181821,29.450123,778.313725,16.380424,-0.980695,1.807108
+"BSC_034ISC.acq","S11","Neutral (Scenery)","Drug 2",1468.224551,39.681911,757.933962,10.088524,-0.880014,1.042741
+"BSC_034ISC.acq","S12","Neutral (Scenery)","Drug 2",452.118136,30.570057,717.776786,9.950139,-1.354295,1.351604
+"BSC_034ISC.acq","S13","Social Negative (Low Arousal, Low Valence)","Drug 2",685.843914,32.913638,745.264151,9.746712,-1.163534,1.119759
+"BSC_034ISC.acq","S14","Social Negative (Low Arousal, Low Valence)","Drug 2",317.123332,23.879528,742.555556,15.538348,-1.334711,1.957089
+"BSC_034ISC.acq","S15","Erotic couples (High arousal, High valence)","Drug 2",279.175779,25.329465,771.221154,14.539545,-1.202162,1.645027
+"BSC_034ISC.acq","S16","Erotic couples (High arousal, High valence)","Drug 2",255.730755,24.174062,760.301887,13.342665,-1.298662,1.546368
+"BSC_034ISC.acq","S17","Horror (High Arousal, Low Valence)","Drug 2",475.615456,27.904207,742.490741,16.352205,-1.1903,2.047901
+"BSC_034ISC.acq","S18","Horror (High Arousal, Low Valence)","Drug 2",385.944465,28.470163,745.37963,14.059535,-1.176525,1.685016
+"BSC_034ISC.acq","S19","Social + (Low Arousal, High Valence)","Drug 2",470.430349,25.010596,766.846154,17.012062,-1.172742,2.000442
+"BSC_034ISC.acq","S20","Social + (Low Arousal, High Valence)","Drug 2",916.440182,28.966687,741.555556,12.651063,-1.225954,1.537611
+"BSC_035_isc.acq","S1","Neutral (Scenery)","Drug 2",1622.645929,42.478028,769.504342,9.985287,-0.760446,0.958447
+"BSC_035_isc.acq","S2","Neutral (Scenery)","Drug 2",673.00697,49.268767,724.169643,6.902523,-0.831829,0.838848
+"BSC_035_isc.acq","S3","Erotic couples (High arousal, High valence)","Drug 2",614.041783,36.539717,764.201923,8.888902,-0.987263,0.865762
+"BSC_035_isc.acq","S4","Erotic couples (High arousal, High valence)","Drug 2",215.660931,25.076873,754.04717,10.190276,-1.354608,1.14924
+"BSC_035_isc.acq","S5","Social Negative (Low Arousal, Low Valence)","Drug 2",818.086825,29.414272,732.9,10.974759,-1.302,1.386319
+"BSC_035_isc.acq","S6","Social Negative (Low Arousal, Low Valence)","Drug 2",484.901349,27.210546,735.416667,12.987426,-1.314139,1.646482
+"BSC_035_isc.acq","S7","Social + (Low Arousal, High Valence)","Drug 2",245.144109,20.247914,743.842593,18.914268,-1.440018,2.487667
+"BSC_035_isc.acq","S8","Social + (Low Arousal, High Valence)","Drug 2",224.532227,21.249585,760.903846,19.720808,-1.265076,2.425809
+"BSC_035_isc.acq","S9","Horror (High Arousal, Low Valence)","Drug 2",225.606645,34.446977,812.938776,10.667039,-0.757231,0.77613
+"BSC_035_isc.acq","S10","Horror (High Arousal, Low Valence)","Drug 2",292.597817,22.296888,782.892157,19.07023,-1.152093,2.19658
+"BSC_035_isc.acq","S11","Neutral (Scenery)","Drug 2",855.636614,47.492588,792.46,8.180352,-0.542068,0.553497
+"BSC_035_isc.acq","S12","Neutral (Scenery)","Drug 2",525.616047,28.123116,694.206897,11.324318,-1.543983,1.765076
+"BSC_035_isc.acq","S13","Social Negative (Low Arousal, Low Valence)","Drug 2",666.10361,29.185349,764.517516,13.293157,-1.100499,1.46631
+"BSC_035_isc.acq","S14","Social Negative (Low Arousal, Low Valence)","Drug 2",1322.328354,31.637613,773.817308,11.134305,-1.023361,1.100863
+"BSC_035_isc.acq","S15","Erotic couples (High arousal, High valence)","Drug 2",266.817328,26.498092,794.68,12.82509,-1.036059,1.202885
+"BSC_035_isc.acq","S16","Erotic couples (High arousal, High valence)","Drug 2",286.922316,32.353159,804.302048,11.804234,-0.851627,1.002608
+"BSC_035_isc.acq","S17","Horror (High Arousal, Low Valence)","Drug 2",634.797622,28.722917,773.894231,14.701023,-1.053419,1.607364
+"BSC_035_isc.acq","S18","Horror (High Arousal, Low Valence)","Drug 2",241.339024,24.888061,830.78125,14.62714,-0.88918,1.246206
+"BSC_035_isc.acq","S19","Social + (Low Arousal, High Valence)","Drug 2",433.419571,33.121486,783.096154,9.382908,-0.956617,0.784913
+"BSC_035_isc.acq","S20","Social + (Low Arousal, High Valence)","Drug 2",555.980654,34.262903,809.877551,9.502894,-0.824182,0.661306
+"BSC_036_ISC.acq","S1","Neutral (Scenery)","Drug 2",161.587384,24.199766,853.319149,14.479118,-0.827409,1.122919
+"BSC_036_ISC.acq","S2","Neutral (Scenery)","Drug 2",179.41637,25.930955,880.722222,16.420067,-0.62691,1.253554
+"BSC_036_ISC.acq","S3","Erotic couples (High arousal, High valence)","Drug 2",454.560758,28.325198,933.72619,15.510595,-0.30754,0.849027
+"BSC_036_ISC.acq","S4","Erotic couples (High arousal, High valence)","Drug 2",222.579738,23.117942,904.488636,16.587594,-0.521366,1.091482
+"BSC_036_ISC.acq","S5","Social Negative (Low Arousal, Low Valence)","Drug 2",172.558648,25.771793,855.765957,14.112317,-0.746282,1.025173
+"BSC_036_ISC.acq","S6","Social Negative (Low Arousal, Low Valence)","Drug 2",53.949666,19.973738,810.040816,14.777139,-1.159213,1.432358
+"BSC_036_ISC.acq","S7","Social + (Low Arousal, High Valence)","Drug 2",227.451219,18.013917,870.728261,16.776342,-0.974066,1.449052
+"BSC_036_ISC.acq","S8","Social + (Low Arousal, High Valence)","Drug 2",74.117388,18.987647,873.597826,15.268153,-0.935847,1.201518
+"BSC_036_ISC.acq","S9","Horror (High Arousal, Low Valence)","Drug 2",131.799677,27.232245,857.212766,12.866317,-0.74663,0.870317
+"BSC_036_ISC.acq","S10","Horror (High Arousal, Low Valence)","Drug 2",118.651089,26.129339,832.78125,16.35881,-0.840356,1.49733
+"BSC_036_ISC.acq","S11","Neutral (Scenery)","Drug 2",197.047988,21.268315,834.385417,16.832824,-1.006626,1.605372
+"BSC_036_ISC.acq","S12","Neutral (Scenery)","Drug 2",86.728085,18.6004,847.468085,18.948998,-0.958744,1.802427
+"BSC_036_ISC.acq","S13","Social Negative (Low Arousal, Low Valence)","Drug 2",110.868686,14.989254,834.520833,20.88556,-1.186803,2.246237
+"BSC_036_ISC.acq","S14","Social Negative (Low Arousal, Low Valence)","Drug 2",57.516235,25.221257,849.255319,14.351401,-0.836617,1.142805
+"BSC_036_ISC.acq","S15","Erotic couples (High arousal, High valence)","Drug 2",286.685909,28.49411,899.877778,14.122578,-0.482869,0.815664
+"BSC_036_ISC.acq","S16","Erotic couples (High arousal, High valence)","Drug 2",271.807653,34.126652,906.545455,11.4022,-0.268542,0.329129
+"BSC_036_ISC.acq","S17","Horror (High Arousal, Low Valence)","Drug 2",143.556728,20.875914,845.553191,15.896102,-0.948729,1.381298
+"BSC_036_ISC.acq","S18","Horror (High Arousal, Low Valence)","Drug 2",134.7923,22.95044,833.71875,17.077459,-0.963096,1.645524
+"BSC_036_ISC.acq","S19","Social + (Low Arousal, High Valence)","Drug 2",89.170045,24.964369,824.014934,12.486347,-1.018813,1.052883
+"BSC_036_ISC.acq","S20","Social + (Low Arousal, High Valence)","Drug 2",157.771583,20.456377,799.07,12.942959,-1.257202,1.273711
+"BSC_037ISC.acq","S1","Neutral (Scenery)","Drug 1",718.281966,41.622743,900.670455,11.306508,-0.118304,0.36557
+"BSC_037ISC.acq","S2","Neutral (Scenery)","Drug 1",1519.274992,64.421674,1050.276316,10.174438,1.384006,-0.635551
+"BSC_037ISC.acq","S3","Erotic couples (High arousal, High valence)","Drug 1",803.147972,52.130602,977.414634,11.150123,0.681301,-0.165744
+"BSC_037ISC.acq","S4","Erotic couples (High arousal, High valence)","Drug 1",761.200725,54.876333,966.878049,8.371882,0.603631,-0.449609
+"BSC_037ISC.acq","S5","Social Negative (Low Arousal, Low Valence)","Drug 1",1119.868912,63.667463,1056.432432,9.356502,1.300528,-0.692384
+"BSC_037ISC.acq","S6","Social Negative (Low Arousal, Low Valence)","Drug 1",2631.28474,78.773547,1139.305556,7.987674,2.16432,-1.256439
+"BSC_037ISC.acq","S7","Social + (Low Arousal, High Valence)","Drug 1",1895.568643,77.425867,1079.783784,7.837682,1.824758,-1.057835
+"BSC_037ISC.acq","S8","Social + (Low Arousal, High Valence)","Drug 1",1163.454511,60.888951,1044.473684,10.093573,1.232356,-0.596552
+"BSC_037ISC.acq","S9","Horror (High Arousal, Low Valence)","Drug 1",2211.988085,74.396667,1142.1,8.924081,2.045127,-1.10491
+"BSC_037ISC.acq","S10","Horror (High Arousal, Low Valence)","Drug 1",1870.152976,84.248914,1149.314286,7.055771,2.347303,-1.421821
+"BSC_037ISC.acq","S11","Neutral (Scenery)","Drug 1",3456.16563,94.877992,1105.263889,4.779079,2.280738,-1.488535
+"BSC_037ISC.acq","S12","Neutral (Scenery)","Drug 1",2226.135258,97.741047,1140.728571,7.164142,2.674982,-1.386043
+"BSC_037ISC.acq","S13","Social Negative (Low Arousal, Low Valence)","Drug 1",2612.089162,74.67477,1132.942857,8.314239,2.005431,-1.166095
+"BSC_037ISC.acq","S14","Social Negative (Low Arousal, Low Valence)","Drug 1",1569.941681,72.854347,1116.014286,8.0525,1.8669,-1.141317
+"BSC_037ISC.acq","S15","Erotic couples (High arousal, High valence)","Drug 1",1470.659371,70.33461,988.025,8.695055,1.199639,-0.572241
+"BSC_037ISC.acq","S16","Erotic couples (High arousal, High valence)","Drug 1",917.911547,56.880277,962.166667,9.714802,0.6689,-0.255197
+"BSC_037ISC.acq","S17","Horror (High Arousal, Low Valence)","Drug 1",876.686385,59.915755,951.535714,6.255082,0.58596,-0.630324
+"BSC_037ISC.acq","S18","Horror (High Arousal, Low Valence)","Drug 1",2045.655871,113.552123,1191.411765,5.872341,3.262558,-1.667114
+"BSC_037ISC.acq","S19","Social + (Low Arousal, High Valence)","Drug 1",1744.921562,81.147363,1086.445946,7.686835,1.865495,-1.014403
+"BSC_037ISC.acq","S20","Social + (Low Arousal, High Valence)","Drug 1",2439.21966,88.488693,1125.569444,8.442637,2.385037,-1.168045
+"BSC_038isc.acq","S1","Neutral (Scenery)","Drug 1",638.0817,46.189174,779.372549,13.48448,-0.424441,1.247724
+"BSC_038isc.acq","S2","Neutral (Scenery)","Drug 1",583.819961,37.702856,797.16,12.990271,-0.625835,1.114961
+"BSC_038isc.acq","S3","Erotic couples (High arousal, High valence)","Drug 1",542.130531,47.050496,813.44898,7.901912,-0.412607,0.339166
+"BSC_038isc.acq","S4","Erotic couples (High arousal, High valence)","Drug 1",255.990946,36.508206,812.081633,13.763472,-0.611926,1.16805
+"BSC_038isc.acq","S5","Social Negative (Low Arousal, Low Valence)","Drug 1",418.702918,36.354783,765.403846,11.772545,-0.872011,1.191886
+"BSC_038isc.acq","S6","Social Negative (Low Arousal, Low Valence)","Drug 1",192.440778,40.59174,769.134615,15.437989,-0.568319,1.564804
+"BSC_038isc.acq","S7","Social + (Low Arousal, High Valence)","Drug 1",142.166987,37.505918,762.188679,10.312989,-0.886032,1.016259
+"BSC_038isc.acq","S8","Social + (Low Arousal, High Valence)","Drug 1",182.006323,36.517703,776.72549,16.981647,-0.671783,1.784317
+"BSC_038isc.acq","S9","Horror (High Arousal, Low Valence)","Drug 1",409.73674,39.140547,789.431373,12.324581,-0.64356,1.080009
+"BSC_038isc.acq","S10","Horror (High Arousal, Low Valence)","Drug 1",161.791443,36.442396,791.36,15.853138,-0.60086,1.510251
+"BSC_038isc.acq","S11","Neutral (Scenery)","Drug 1",280.719331,34.665522,793.94,13.265398,-0.763839,1.21926
+"BSC_038isc.acq","S12","Neutral (Scenery)","Drug 1",471.975193,44.386584,773.352941,10.318424,-0.594777,0.888432
+"BSC_038isc.acq","S13","Social Negative (Low Arousal, Low Valence)","Drug 1",139.61259,41.078189,790.27451,13.712957,-0.374809,1.077651
+"BSC_038isc.acq","S14","Social Negative (Low Arousal, Low Valence)","Drug 1",479.364047,45.903781,789.607843,13.218262,-0.34116,1.097629
+"BSC_038isc.acq","S15","Erotic couples (High arousal, High valence)","Drug 1",284.96278,47.130595,810.591837,14.003447,-0.151417,1.03144
+"BSC_038isc.acq","S16","Erotic couples (High arousal, High valence)","Drug 1",115.759923,33.18975,825.291667,18.785836,-0.503592,1.734482
+"BSC_038isc.acq","S17","Horror (High Arousal, Low Valence)","Drug 1",297.631657,43.356772,810.897959,12.719984,-0.341352,0.920497
+"BSC_038isc.acq","S18","Horror (High Arousal, Low Valence)","Drug 1",431.553828,32.909856,790.196078,14.534358,-0.814486,1.426057
+"BSC_038isc.acq","S19","Social + (Low Arousal, High Valence)","Drug 1",284.227306,48.006469,749.814815,9.655726,-0.59102,0.928144
+"BSC_038isc.acq","S20","Social + (Low Arousal, High Valence)","Drug 1",161.252401,36.096592,784.764706,15.227961,-0.630746,1.444768
+"BSC_039_ISC.acq","S1","Neutral (Scenery)","Drug 1",1034.790502,39.478111,743.933962,10.930853,-0.88791,1.208334
+"BSC_039_ISC.acq","S2","Neutral (Scenery)","Drug 1",1125.469582,45.356671,788.7,10.98496,-0.512189,0.908331
+"BSC_039_ISC.acq","S3","Erotic couples (High arousal, High valence)","Drug 1",874.347745,35.236363,791.39,13.665896,-0.74077,1.277808
+"BSC_039_ISC.acq","S4","Erotic couples (High arousal, High valence)","Drug 1",852.090417,45.090366,789.37,8.730648,-0.546215,0.583697
+"BSC_039_ISC.acq","S5","Social Negative (Low Arousal, Low Valence)","Drug 1",1106.392109,38.142257,786.62,12.852017,-0.699306,1.195649
+"BSC_039_ISC.acq","S6","Social Negative (Low Arousal, Low Valence)","Drug 1",1069.095004,44.041775,803.5,9.140264,-0.541316,0.592893
+"BSC_039_ISC.acq","S7","Social + (Low Arousal, High Valence)","Drug 1",735.804199,36.46582,808.18,12.290812,-0.678251,1.0097
+"BSC_039_ISC.acq","S8","Social + (Low Arousal, High Valence)","Drug 1",483.096055,30.737574,774.686275,13.163017,-0.997422,1.364707
+"BSC_039_ISC.acq","S9","Horror (High Arousal, Low Valence)","Drug 1",1043.708897,41.40758,759.962264,9.414576,-0.794953,0.894788
+"BSC_039_ISC.acq","S10","Horror (High Arousal, Low Valence)","Drug 1",882.028359,43.548415,793.441176,10.47089,-0.550935,0.811041
+"BSC_039_ISC.acq","S11","Neutral (Scenery)","Drug 1",1694.147765,47.397027,808.918367,10.121493,-0.373489,0.659959
+"BSC_039_ISC.acq","S12","Neutral (Scenery)","Drug 1",726.313076,42.463439,763.5,10.799278,-0.718082,1.054424
+"BSC_039_ISC.acq","S13","Social Negative (Low Arousal, Low Valence)","Drug 1",1085.993674,40.407225,805.1,10.810902,-0.594016,0.805456
+"BSC_039_ISC.acq","S14","Social Negative (Low Arousal, Low Valence)","Drug 1",668.733891,33.863445,802.55102,14.131173,-0.716474,1.271932
+"BSC_039_ISC.acq","S15","Erotic couples (High arousal, High valence)","Drug 1",495.267365,38.319268,777.745098,9.268519,-0.798084,0.757473
+"BSC_039_ISC.acq","S16","Erotic couples (High arousal, High valence)","Drug 1",442.966184,33.518259,762.198113,12.101371,-0.968818,1.270294
+"BSC_039_ISC.acq","S17","Horror (High Arousal, Low Valence)","Drug 1",689.326621,37.991486,764.188679,11.747692,-0.817663,1.180103
+"BSC_039_ISC.acq","S18","Horror (High Arousal, Low Valence)","Drug 1",571.413419,42.771965,800.96,11.118193,-0.518371,0.846848
+"BSC_039_ISC.acq","S19","Social + (Low Arousal, High Valence)","Drug 1",483.523691,35.53944,779.186275,13.895166,-0.788513,1.390234
+"BSC_039_ISC.acq","S20","Social + (Low Arousal, High Valence)","Drug 1",904.362469,43.722879,769.211538,11.537659,-0.646198,1.119729
+"BSC_040_ISC.acq","S1","Neutral (Scenery)","Drug 1",1396.241213,62.709241,1037.855263,11.109771,1.297088,-0.46176
+"BSC_040_ISC.acq","S2","Neutral (Scenery)","Drug 1",875.558218,59.148287,1040.473684,11.211658,1.255086,-0.496604
+"BSC_040_ISC.acq","S3","Erotic couples (High arousal, High valence)","Drug 1",685.657515,48.072033,1005.55,15.668848,0.825964,0.29755
+"BSC_040_ISC.acq","S4","Erotic couples (High arousal, High valence)","Drug 1",1142.508954,55.507083,980.378049,11.109845,0.817173,-0.216165
+"BSC_040_ISC.acq","S5","Social Negative (Low Arousal, Low Valence)","Drug 1",1401.871141,61.121087,1019.628205,8.958241,1.073087,-0.629096
+"BSC_040_ISC.acq","S6","Social Negative (Low Arousal, Low Valence)","Drug 1",2531.342033,69.912882,1049.105263,7.831697,1.393331,-0.86198
+"BSC_040_ISC.acq","S7","Social + (Low Arousal, High Valence)","Drug 1",980.993343,48.931645,1027,11.790964,0.826478,-0.26341
+"BSC_040_ISC.acq","S8","Social + (Low Arousal, High Valence)","Drug 1",792.172315,48.404678,1014.15,12.453862,0.816582,-0.175486
+"BSC_040_ISC.acq","S9","Horror (High Arousal, Low Valence)","Drug 1",1793.203378,76.25687,998.9,6.314121,1.333329,-0.909624
+"BSC_040_ISC.acq","S10","Horror (High Arousal, Low Valence)","Drug 1",3178.394787,73.223998,1005.512821,7.246578,1.351935,-0.860374
+"BSC_040_ISC.acq","S11","Neutral (Scenery)","Drug 1",1404.508678,62.220935,1015.846154,10.353037,1.163743,-0.477507
+"BSC_040_ISC.acq","S12","Neutral (Scenery)","Drug 1",749.659888,54.935584,1026.910256,12.401287,1.014254,-0.196468
+"BSC_040_ISC.acq","S13","Social Negative (Low Arousal, Low Valence)","Drug 1",507.392551,47.654066,1003.5375,11.726201,0.669491,-0.168848
+"BSC_040_ISC.acq","S14","Social Negative (Low Arousal, Low Valence)","Drug 1",1315.317872,65.903967,1031.512821,9.07091,1.346092,-0.746797
+"BSC_040_ISC.acq","S15","Erotic couples (High arousal, High valence)","Drug 1",277.026824,48.917825,975.463415,10.181919,0.467625,-0.188749
+"BSC_040_ISC.acq","S16","Erotic couples (High arousal, High valence)","Drug 1",596.318813,47.932678,997.925,11.588687,0.589389,-0.106364
+"BSC_040_ISC.acq","S17","Horror (High Arousal, Low Valence)","Drug 1",1080.542474,56.082627,996.0625,11.749719,0.945468,-0.22102
+"BSC_040_ISC.acq","S18","Horror (High Arousal, Low Valence)","Drug 1",664.969645,54.323683,1041.157895,12.059339,1.096761,-0.33527
+"BSC_040_ISC.acq","S19","Social + (Low Arousal, High Valence)","Drug 1",638.281582,53.27694,1018.833333,11.990168,0.904491,-0.201355
+"BSC_040_ISC.acq","S20","Social + (Low Arousal, High Valence)","Drug 1",1449.705221,60.906154,1039.782051,10.271567,1.306265,-0.646987
+"BSC_041isc.acq","S1","Neutral (Scenery)","Drug 2",6908.911756,111.650634,907.931818,6.802098,1.992169,-0.571814
+"BSC_041isc.acq","S2","Neutral (Scenery)","Drug 2",6092.140928,111.45923,890.155556,5.157754,1.799978,-0.63517
+"BSC_041isc.acq","S3","Erotic couples (High arousal, High valence)","Drug 2",2662.523032,80.698477,877.555556,7.973641,1.036618,-0.252953
+"BSC_041isc.acq","S4","Erotic couples (High arousal, High valence)","Drug 2",3672.309421,93.676406,875.130435,7.316224,1.314375,-0.284263
+"BSC_041isc.acq","S5","Social Negative (Low Arousal, Low Valence)","Drug 2",6115.002701,112.701148,945.813953,6.876441,2.197207,-0.736135
+"BSC_041isc.acq","S6","Social Negative (Low Arousal, Low Valence)","Drug 2",6111.238345,127.101508,956.190476,6.0016,2.660593,-0.947567
+"BSC_041isc.acq","S7","Social + (Low Arousal, High Valence)","Drug 2",4836.597482,113.228129,993.536585,6.914097,2.424644,-0.923918
+"BSC_041isc.acq","S8","Social + (Low Arousal, High Valence)","Drug 2",3814.724465,116.835742,973.829268,5.697235,2.46843,-1.070194
+"BSC_041isc.acq","S9","Horror (High Arousal, Low Valence)","Drug 2",2674.99095,87.274126,925.209302,7.87157,1.438762,-0.505534
+"BSC_041isc.acq","S10","Horror (High Arousal, Low Valence)","Drug 2",6010.290371,123.348533,955.738095,7.011869,2.552766,-0.783704
+"BSC_041isc.acq","S11","Neutral (Scenery)","Drug 2",7551.591241,126.411809,967.261905,4.884472,2.515922,-0.990472
+"BSC_041isc.acq","S12","Neutral (Scenery)","Drug 2",5292.957726,108.406287,916.204545,5.634772,1.876169,-0.724363
+"BSC_041isc.acq","S13","Social Negative (Low Arousal, Low Valence)","Drug 2",2756.76957,97.822211,988.15,7.900477,2.040311,-0.801581
+"BSC_041isc.acq","S14","Social Negative (Low Arousal, Low Valence)","Drug 2",4438.881721,115.420661,1006.075,6.97911,2.573568,-0.995978
+"BSC_041isc.acq","S15","Erotic couples (High arousal, High valence)","Drug 2",3007.008413,103.079157,947.930233,7.107718,2.010755,-0.770535
+"BSC_041isc.acq","S16","Erotic couples (High arousal, High valence)","Drug 2",3843.822436,94.210042,928.767442,8.592937,1.671886,-0.441378
+"BSC_041isc.acq","S17","Horror (High Arousal, Low Valence)","Drug 2",5874.475741,119.993872,967.512195,6.553817,2.497304,-0.884739
+"BSC_041isc.acq","S18","Horror (High Arousal, Low Valence)","Drug 2",2526.588031,90.374402,928.651163,6.701511,1.501203,-0.666229
+"BSC_041isc.acq","S19","Social + (Low Arousal, High Valence)","Drug 2",3271.211937,107.897249,928.27907,5.44407,1.931948,-0.823409
+"BSC_041isc.acq","S20","Social + (Low Arousal, High Valence)","Drug 2",4602.053404,118.995115,973.341463,6.05779,2.484481,-0.972946
+"BSC_043isc.acq","S1","Neutral (Scenery)","Drug 1",256.410391,24.391672,687.646552,21.110726,-1.509686,3.186403
+"BSC_043isc.acq","S2","Neutral (Scenery)","Drug 1",435.567343,23.186246,695.859649,18.446176,-1.54384,2.7406
+"BSC_043isc.acq","S3","Erotic couples (High arousal, High valence)","Drug 1",679.971887,31.48015,728.327273,14.78512,-1.164654,1.911216
+"BSC_043isc.acq","S4","Erotic couples (High arousal, High valence)","Drug 1",424.750026,24.439738,719.809091,13.96438,-1.457735,1.910757
+"BSC_043isc.acq","S5","Social Negative (Low Arousal, Low Valence)","Drug 1",404.936436,23.725769,681.084746,22.603172,-1.565629,3.483929
+"BSC_043isc.acq","S6","Social Negative (Low Arousal, Low Valence)","Drug 1",611.824703,29.371278,681.327586,12.319776,-1.512391,1.969941
+"BSC_043isc.acq","S7","Social + (Low Arousal, High Valence)","Drug 1",416.863009,26.856023,694.929825,15.360286,-1.492499,2.308634
+"BSC_043isc.acq","S8","Social + (Low Arousal, High Valence)","Drug 1",168.653319,20.527105,697.754386,20.49328,-1.576882,3.015522
+"BSC_043isc.acq","S9","Horror (High Arousal, Low Valence)","Drug 1",253.288628,25.93265,712.214286,17.652588,-1.349935,2.442183
+"BSC_043isc.acq","S10","Horror (High Arousal, Low Valence)","Drug 1",458.752561,28.926753,691.775862,15.632007,-1.409977,2.335816
+"BSC_043isc.acq","S11","Neutral (Scenery)","Drug 1",1133.673482,36.30661,734.398148,10.704357,-1.069575,1.293286
+"BSC_043isc.acq","S12","Neutral (Scenery)","Drug 1",207.352429,18.536062,674.313559,25.560774,-1.729873,3.999735
+"BSC_043isc.acq","S13","Social Negative (Low Arousal, Low Valence)","Drug 1",269.976706,25.260971,695.198276,20.46086,-1.431508,3.002
+"BSC_043isc.acq","S14","Social Negative (Low Arousal, Low Valence)","Drug 1",213.673687,22.404683,702.745614,18.68626,-1.535539,2.724998
+"BSC_043isc.acq","S15","Erotic couples (High arousal, High valence)","Drug 1",267.572471,25.764942,728.536364,17.858408,-1.290971,2.362576
+"BSC_043isc.acq","S16","Erotic couples (High arousal, High valence)","Drug 1",235.354328,23.886979,703.605263,20.485616,-1.39465,2.902599
+"BSC_043isc.acq","S17","Horror (High Arousal, Low Valence)","Drug 1",570.770287,27.175038,719.294643,17.550228,-1.287701,2.375791
+"BSC_043isc.acq","S18","Horror (High Arousal, Low Valence)","Drug 1",290.242342,24.696413,712.303571,21.630271,-1.374247,3.054353
+"BSC_043isc.acq","S19","Social + (Low Arousal, High Valence)","Drug 1",897.128454,31.2236,705.178571,13.371242,-1.323055,1.911296
+"BSC_043isc.acq","S20","Social + (Low Arousal, High Valence)","Drug 1",178.074574,19.078487,687.940678,24.880205,-1.650591,3.773119
+"BSC_044_ISC.acq","S1","Neutral (Scenery)","Drug 1",754.016578,48.940255,1007.8125,11.340303,0.732259,-0.253965
+"BSC_044_ISC.acq","S2","Neutral (Scenery)","Drug 1",891.417967,50.38027,1000.275,10.867708,0.709728,-0.271384
+"BSC_044_ISC.acq","S3","Erotic couples (High arousal, High valence)","Drug 1",834.363882,42.891519,1055.157895,13.519861,0.76169,-0.065366
+"BSC_044_ISC.acq","S4","Erotic couples (High arousal, High valence)","Drug 1",845.951652,46.582886,1012.8,10.89677,0.610246,-0.259855
+"BSC_044_ISC.acq","S5","Social Negative (Low Arousal, Low Valence)","Drug 1",1418.157846,64.988721,948.416667,8.482631,0.80764,-0.372265
+"BSC_044_ISC.acq","S6","Social Negative (Low Arousal, Low Valence)","Drug 1",1438.904942,48.997409,952.285714,10.912768,0.388064,-0.00265
+"BSC_044_ISC.acq","S7","Social + (Low Arousal, High Valence)","Drug 1",1321.733371,48.882311,977.414634,10.502029,0.516294,-0.18786
+"BSC_044_ISC.acq","S8","Social + (Low Arousal, High Valence)","Drug 1",658.306221,50.841232,949.404762,7.48338,0.317962,-0.415161
+"BSC_044_ISC.acq","S9","Horror (High Arousal, Low Valence)","Drug 1",1164.34928,53.545043,1006.2375,8.732182,0.778215,-0.581784
+"BSC_044_ISC.acq","S10","Horror (High Arousal, Low Valence)","Drug 1",846.507791,45.116185,1009.923077,11.409236,0.568533,-0.180156
+"BSC_044_ISC.acq","S11","Neutral (Scenery)","Drug 1",1218.977581,58.151363,948.72619,9.46048,0.630976,-0.226796
+"BSC_044_ISC.acq","S12","Neutral (Scenery)","Drug 1",1830.788118,51.961451,904.988636,9.258311,0.214565,-0.009081
+"BSC_044_ISC.acq","S13","Social Negative (Low Arousal, Low Valence)","Drug 1",1378.879102,53.959346,972.559524,10.367336,0.672906,-0.231974
+"BSC_044_ISC.acq","S14","Social Negative (Low Arousal, Low Valence)","Drug 1",691.232471,45.28211,896.806818,8.696096,-0.045096,-0.013449
+"BSC_044_ISC.acq","S15","Erotic couples (High arousal, High valence)","Drug 1",948.079217,48.932274,1016.615385,12.206568,0.784694,-0.165862
+"BSC_044_ISC.acq","S16","Erotic couples (High arousal, High valence)","Drug 1",738.034815,45.736927,984.609756,13.350245,0.581785,0.107324
+"BSC_044_ISC.acq","S17","Horror (High Arousal, Low Valence)","Drug 1",1858.018435,58.972877,956.72619,9.443589,0.668593,-0.242824
+"BSC_044_ISC.acq","S18","Horror (High Arousal, Low Valence)","Drug 1",969.263679,54.827571,985.54878,9.512679,0.71926,-0.380918
+"BSC_044_ISC.acq","S19","Social + (Low Arousal, High Valence)","Drug 1",1551.371362,46.687168,885.088889,9.915549,-0.041089,0.212809
+"BSC_044_ISC.acq","S20","Social + (Low Arousal, High Valence)","Drug 1",1030.748607,51.273566,933.72093,12.715508,0.43268,0.289201
+"BSC_045_ISC.acq","S1","Neutral (Scenery)","Drug 2",5015.053134,89.828226,1081.081081,6.233992,1.987879,-1.136411
+"BSC_045_ISC.acq","S2","Neutral (Scenery)","Drug 2",988.041942,56.952757,1177.279412,12.3313,1.739528,-0.680326
+"BSC_045_ISC.acq","S3","Erotic couples (High arousal, High valence)","Drug 2",811.194925,57.526855,1165.857143,10.700129,1.665326,-0.862436
+"BSC_045_ISC.acq","S4","Erotic couples (High arousal, High valence)","Drug 2",2073.242594,66.744132,1106.513889,9.450341,1.67672,-0.911156
+"BSC_045_ISC.acq","S5","Social Negative (Low Arousal, Low Valence)","Drug 2",910.082399,57.609609,1124.291667,9.753092,1.534659,-0.941044
+"BSC_045_ISC.acq","S6","Social Negative (Low Arousal, Low Valence)","Drug 2",1419.607304,68.477901,1097.648649,9.085405,1.663477,-0.919922
+"BSC_045_ISC.acq","S7","Social + (Low Arousal, High Valence)","Drug 2",1262.66957,66.327027,1150.885714,11.913678,1.946082,-0.745004
+"BSC_045_ISC.acq","S8","Social + (Low Arousal, High Valence)","Drug 2",1257.88348,58.713713,1123.416667,9.815415,1.505585,-0.874131
+"BSC_045_ISC.acq","S9","Horror (High Arousal, Low Valence)","Drug 2",880.422216,48.4112,1090.378378,14.604297,1.245339,-0.192982
+"BSC_045_ISC.acq","S10","Horror (High Arousal, Low Valence)","Drug 2",995.681215,62.436433,1067.789474,9.440309,1.34159,-0.740897
+"BSC_045_ISC.acq","S11","Neutral (Scenery)","Drug 2",1877.064371,71.257896,1112.777778,7.188802,1.703825,-1.159015
+"BSC_045_ISC.acq","S12","Neutral (Scenery)","Drug 2",1200.735596,71.851883,1126.625,6.981141,1.746757,-1.198379
+"BSC_045_ISC.acq","S13","Social Negative (Low Arousal, Low Valence)","Drug 2",1190.299006,60.605718,1147.314286,9.70961,1.688197,-0.986411
+"BSC_045_ISC.acq","S14","Social Negative (Low Arousal, Low Valence)","Drug 2",1148.256489,57.05494,1134.208333,11.174969,1.586325,-0.772853
+"BSC_045_ISC.acq","S15","Erotic couples (High arousal, High valence)","Drug 2",1252.155197,59.518037,1056.635135,8.522453,1.123525,-0.75502
+"BSC_045_ISC.acq","S16","Erotic couples (High arousal, High valence)","Drug 2",807.586707,58.912377,1112.347222,10.931351,1.50438,-0.710731
+"BSC_045_ISC.acq","S17","Horror (High Arousal, Low Valence)","Drug 2",952.71491,49.887971,1042.434211,12.883908,0.974344,-0.202462
+"BSC_045_ISC.acq","S18","Horror (High Arousal, Low Valence)","Drug 2",597.922503,46.5717,1065.108108,11.164962,0.86236,-0.421389
+"BSC_045_ISC.acq","S19","Social + (Low Arousal, High Valence)","Drug 2",1494.586517,69.527251,1073.067568,7.843018,1.497481,-0.948565
+"BSC_045_ISC.acq","S20","Social + (Low Arousal, High Valence)","Drug 2",1402.856714,60.788994,1092.081081,8.599134,1.355811,-0.899953
+"BSC_046isc.acq","S1","Neutral (Scenery)","Drug 2",351.94829,30.473749,857.702128,9.770263,-0.70068,0.430569
+"BSC_046isc.acq","S2","Neutral (Scenery)","Drug 2",801.313657,58.457698,825.826531,7.076873,-0.005479,0.094928
+"BSC_046isc.acq","S3","Erotic couples (High arousal, High valence)","Drug 2",359.769552,30.290997,891.147727,14.098035,-0.449805,0.829204
+"BSC_046isc.acq","S4","Erotic couples (High arousal, High valence)","Drug 2",287.974359,30.285263,886.711111,12.348838,-0.477792,0.587403
+"BSC_046isc.acq","S5","Social Negative (Low Arousal, Low Valence)","Drug 2",283.558267,29.498149,903.079545,9.796824,-0.504856,0.19348
+"BSC_046isc.acq","S6","Social Negative (Low Arousal, Low Valence)","Drug 2",102.380011,38.394239,933.546512,9.089597,-0.103037,-0.080999
+"BSC_046isc.acq","S7","Social + (Low Arousal, High Valence)","Drug 2",576.388689,31.903323,860.913043,10.521693,-0.663582,0.546136
+"BSC_046isc.acq","S8","Social + (Low Arousal, High Valence)","Drug 2",275.614993,29.949372,935.034884,14.401484,-0.279802,0.693047
+"BSC_046isc.acq","S9","Horror (High Arousal, Low Valence)","Drug 2",279.106224,33.493903,928.081395,15.19477,-0.148624,0.778883
+"BSC_046isc.acq","S10","Horror (High Arousal, Low Valence)","Drug 2",495.510131,35.514844,984.0125,11.750134,0.113556,0.054429
+"BSC_046isc.acq","S11","Neutral (Scenery)","Drug 2",367.638072,39.928257,926.020605,9.57786,-0.071828,0.003834
+"BSC_046isc.acq","S12","Neutral (Scenery)","Drug 2",538.422021,42.33758,857.873486,7.597547,-0.37181,0.082093
+"BSC_046isc.acq","S13","Social Negative (Low Arousal, Low Valence)","Drug 2",123.506399,54.190569,937.662791,9.19745,0.396064,-0.140659
+"BSC_046isc.acq","S14","Social Negative (Low Arousal, Low Valence)","Drug 2",398.701964,27.941805,934.775531,16.545745,-0.249716,0.941419
+"BSC_046isc.acq","S15","Erotic couples (High arousal, High valence)","Drug 2",190.252247,27.363055,987.780488,15.627738,0.038471,0.51418
+"BSC_046isc.acq","S16","Erotic couples (High arousal, High valence)","Drug 2",408.089319,34.985354,975.865854,12.849462,0.097189,0.222684
+"BSC_046isc.acq","S17","Horror (High Arousal, Low Valence)","Drug 2",151.023515,30.4374,973.146341,15.813258,0.010812,0.645187
+"BSC_046isc.acq","S18","Horror (High Arousal, Low Valence)","Drug 2",431.82779,38.538297,1010.7,13.126846,0.361313,0.117825
+"BSC_046isc.acq","S19","Social + (Low Arousal, High Valence)","Drug 2",414.039087,36.107364,976.670732,13.478098,0.195487,0.252081
+"BSC_046isc.acq","S20","Social + (Low Arousal, High Valence)","Drug 2",1240.105638,45.804946,919.180606,7.727489,0.002088,-0.199733
+"BSC_047isc.acq","S1","Neutral (Scenery)","Drug 1",234.542145,31.489257,827.326531,12.093316,-0.717838,0.862023
+"BSC_047isc.acq","S2","Neutral (Scenery)","Drug 1",356.896341,29.402673,889.511111,15.285666,-0.490893,1.031153
+"BSC_047isc.acq","S3","Erotic couples (High arousal, High valence)","Drug 1",225.530623,23.519085,878.288889,18.82108,-0.645049,1.58051
+"BSC_047isc.acq","S4","Erotic couples (High arousal, High valence)","Drug 1",181.768974,20.637151,877.706522,19.277673,-0.736258,1.665688
+"BSC_047isc.acq","S5","Social Negative (Low Arousal, Low Valence)","Drug 1",366.856937,26.266007,899.806818,14.392967,-0.50035,0.815484
+"BSC_047isc.acq","S6","Social Negative (Low Arousal, Low Valence)","Drug 1",535.017509,30.277438,895.833333,14.344724,-0.394933,0.810837
+"BSC_047isc.acq","S7","Social + (Low Arousal, High Valence)","Drug 1",362.833248,24.816976,885.3,15.847196,-0.575335,1.081502
+"BSC_047isc.acq","S8","Social + (Low Arousal, High Valence)","Drug 1",268.578978,22.913907,850.351064,19.985932,-0.747499,1.865145
+"BSC_047isc.acq","S9","Horror (High Arousal, Low Valence)","Drug 1",469.963498,32.465067,884.336957,15.21742,-0.406997,1.020481
+"BSC_047isc.acq","S10","Horror (High Arousal, Low Valence)","Drug 1",475.089638,27.800462,837.927083,15.719544,-0.74063,1.338066
+"BSC_047isc.acq","S11","Neutral (Scenery)","Drug 1",260.501833,33.004468,836.489583,10.612833,-0.70248,0.648151
+"BSC_047isc.acq","S12","Neutral (Scenery)","Drug 1",491.818052,24.32992,820.94898,19.860276,-0.922501,2.087945
+"BSC_047isc.acq","S13","Social Negative (Low Arousal, Low Valence)","Drug 1",192.103426,21.688781,810.459184,18.210919,-1.089587,1.941454
+"BSC_047isc.acq","S14","Social Negative (Low Arousal, Low Valence)","Drug 1",235.203615,24.457738,864,19.001257,-0.710794,1.707192
+"BSC_047isc.acq","S15","Erotic couples (High arousal, High valence)","Drug 1",172.918021,21.479331,858.702128,19.727369,-0.782456,1.815306
+"BSC_047isc.acq","S16","Erotic couples (High arousal, High valence)","Drug 1",260.950648,21.832546,854.531915,21.182033,-0.803215,2.074189
+"BSC_047isc.acq","S17","Horror (High Arousal, Low Valence)","Drug 1",359.629651,24.181864,833.96875,19.095992,-0.83957,1.867994
+"BSC_047isc.acq","S18","Horror (High Arousal, Low Valence)","Drug 1",233.448446,26.8813,887.955556,14.906462,-0.579588,0.994169
+"BSC_047isc.acq","S19","Social + (Low Arousal, High Valence)","Drug 1",226.68212,23.312084,881.722222,22.407043,-0.591464,2.075762
+"BSC_047isc.acq","S20","Social + (Low Arousal, High Valence)","Drug 1",321.202983,24.498695,882.217391,15.761576,-0.670978,1.156589
+"BSC_048isc.acq","S1","Neutral (Scenery)","Drug 1",532.339974,33.990976,755.97006,14.12672,-0.979878,1.622752
+"BSC_048isc.acq","S2","Neutral (Scenery)","Drug 1",723.446564,40.853379,892.322222,11.955654,-0.105624,0.435079
+"BSC_048isc.acq","S3","Erotic couples (High arousal, High valence)","Drug 1",152.129957,19.609626,922.197674,24.184755,-0.548358,2.200091
+"BSC_048isc.acq","S4","Erotic couples (High arousal, High valence)","Drug 1",120.857456,16.096428,917.186047,24.658974,-0.67205,2.303544
+"BSC_048isc.acq","S5","Social Negative (Low Arousal, Low Valence)","Drug 1",89.349369,15.013848,916.818182,27.206194,-0.674951,2.672186
+"BSC_048isc.acq","S6","Social Negative (Low Arousal, Low Valence)","Drug 1",349.028769,38.825611,866.453213,12.503653,-0.276173,0.647887
+"BSC_048isc.acq","S7","Social + (Low Arousal, High Valence)","Drug 1",431.13598,27.148636,884.988889,19.249039,-0.486925,1.58292
+"BSC_048isc.acq","S8","Social + (Low Arousal, High Valence)","Drug 1",208.533288,20.150323,898.545455,18.377295,-0.629689,1.399063
+"BSC_048isc.acq","S9","Horror (High Arousal, Low Valence)","Drug 1",81.169101,15.212413,922.267442,25.053198,-0.690932,2.359662
+"BSC_048isc.acq","S10","Horror (High Arousal, Low Valence)","Drug 1",73.408586,16.900119,909.670455,16.331232,-0.785963,1.149319
+"BSC_048isc.acq","S11","Neutral (Scenery)","Drug 1",69.555982,35.434009,896.022222,10.66502,-0.238378,0.221827
+"BSC_048isc.acq","S12","Neutral (Scenery)","Drug 1",515.132517,55.531513,838.90625,9.97154,0.052949,0.394109
+"BSC_048isc.acq","S13","Social Negative (Low Arousal, Low Valence)","Drug 1",209.451872,22.246654,816.521022,13.341545,-1.119816,1.222655
+"BSC_048isc.acq","S14","Social Negative (Low Arousal, Low Valence)","Drug 1",1126.911281,43.757771,854.088889,10.074803,-0.254904,0.390126
+"BSC_048isc.acq","S15","Erotic couples (High arousal, High valence)","Drug 1",85.280992,18.524396,930.313953,19.875858,-0.623468,1.578892
+"BSC_048isc.acq","S16","Erotic couples (High arousal, High valence)","Drug 1",111.090814,15.714243,928.05814,26.39206,-0.637474,2.527094
+"BSC_048isc.acq","S17","Horror (High Arousal, Low Valence)","Drug 1",23.138861,10.962705,890.477778,29.918303,-0.947546,3.262386
+"BSC_048isc.acq","S18","Horror (High Arousal, Low Valence)","Drug 1",87.321335,21.274304,909.931818,18.435443,-0.599219,1.405547
+"BSC_048isc.acq","S19","Social + (Low Arousal, High Valence)","Drug 1",475.967881,26.964538,804.58,11.856609,-1.031147,1.045434
+"BSC_048isc.acq","S20","Social + (Low Arousal, High Valence)","Drug 1",98.041131,20.517936,906.352273,16.44403,-0.640276,1.11831
+"BSC_049_isc.acq","S1","Neutral (Scenery)","Drug 2",482.593349,32.918784,753.09434,11.856007,-1.044315,1.311193
+"BSC_049_isc.acq","S2","Neutral (Scenery)","Drug 2",494.344326,40.105244,785.509804,12.453304,-0.643798,1.132696
+"BSC_049_isc.acq","S3","Erotic couples (High arousal, High valence)","Drug 2",252.120318,26.302497,757.45283,14.442249,-1.214464,1.696649
+"BSC_049_isc.acq","S4","Erotic couples (High arousal, High valence)","Drug 2",359.975031,30.856337,774.461538,13.173158,-1.008317,1.380789
+"BSC_049_isc.acq","S5","Social Negative (Low Arousal, Low Valence)","Drug 2",263.299101,29.609832,770.682692,17.826452,-0.927966,1.998162
+"BSC_049_isc.acq","S6","Social Negative (Low Arousal, Low Valence)","Drug 2",460.964246,32.420028,775.784314,15.982299,-0.852395,1.701294
+"BSC_049_isc.acq","S7","Social + (Low Arousal, High Valence)","Drug 2",170.062877,24.258449,744.861111,12.781113,-1.371145,1.568443
+"BSC_049_isc.acq","S8","Social + (Low Arousal, High Valence)","Drug 2",352.635515,28.90466,796.84,14.648989,-0.885154,1.396619
+"BSC_049_isc.acq","S9","Horror (High Arousal, Low Valence)","Drug 2",493.543654,34.232132,762.386792,13.453556,-0.921022,1.451746
+"BSC_049_isc.acq","S10","Horror (High Arousal, Low Valence)","Drug 2",185.989614,27.587982,753.396226,15.162942,-1.17491,1.812868
+"BSC_049_isc.acq","S11","Neutral (Scenery)","Drug 2",355.830728,27.123842,740.857584,12.786174,-1.288002,1.572881
+"BSC_049_isc.acq","S12","Neutral (Scenery)","Drug 2",344.853131,25.415187,824.857143,22.582463,-0.759914,2.372439
+"BSC_049_isc.acq","S13","Social Negative (Low Arousal, Low Valence)","Drug 2",253.805726,27.149763,776.392157,16.786398,-1.018207,1.849592
+"BSC_049_isc.acq","S14","Social Negative (Low Arousal, Low Valence)","Drug 2",260.225221,27.583242,773.576923,17.04763,-1.005391,1.894381
+"BSC_049_isc.acq","S15","Erotic couples (High arousal, High valence)","Drug 2",252.24721,29.842544,797.96,12.447001,-0.925691,1.118439
+"BSC_049_isc.acq","S16","Erotic couples (High arousal, High valence)","Drug 2",340.799144,29.183062,775.068627,17.477316,-0.971612,1.967529
+"BSC_049_isc.acq","S17","Horror (High Arousal, Low Valence)","Drug 2",154.912108,27.472445,709.604867,9.692447,-1.497389,1.395413
+"BSC_049_isc.acq","S18","Horror (High Arousal, Low Valence)","Drug 2",559.167935,30.557593,786.818834,12.390203,-0.987248,1.208011
+"BSC_049_isc.acq","S19","Social + (Low Arousal, High Valence)","Drug 2",441.396156,32.719503,806.091837,17.27707,-0.674388,1.682839
+"BSC_049_isc.acq","S20","Social + (Low Arousal, High Valence)","Drug 2",444.396863,27.922375,756.273585,14.285301,-1.179593,1.683445
+"BSC_050isc.acq","S1","Neutral (Scenery)","Drug 2",260.831994,32.587628,813.43,11.692595,-0.818406,0.946124
+"BSC_050isc.acq","S2","Neutral (Scenery)","Drug 2",363.879279,32.369769,845.395833,14.715726,-0.53591,1.093175
+"BSC_050isc.acq","S3","Erotic couples (High arousal, High valence)","Drug 2",572.772261,48.052297,858.37234,8.333614,-0.153206,0.130254
+"BSC_050isc.acq","S4","Erotic couples (High arousal, High valence)","Drug 2",405.960489,36.978814,816.806122,13.351623,-0.563374,1.062148
+"BSC_050isc.acq","S5","Social Negative (Low Arousal, Low Valence)","Drug 2",460.19415,29.917279,779.826775,18.321008,-0.886835,2.0248
+"BSC_050isc.acq","S6","Social Negative (Low Arousal, Low Valence)","Drug 2",556.828248,32.834089,786.941176,11.680409,-0.895357,1.066637
+"BSC_050isc.acq","S7","Social + (Low Arousal, High Valence)","Drug 2",413.067971,38.455336,821.166667,10.560092,-0.590906,0.690571
+"BSC_050isc.acq","S8","Social + (Low Arousal, High Valence)","Drug 2",1747.440337,48.514292,811.454948,9.801797,-0.283363,0.546765
+"BSC_050isc.acq","S9","Horror (High Arousal, Low Valence)","Drug 2",675.195596,49.403161,851.414894,8.341521,-0.141214,0.160678
+"BSC_050isc.acq","S10","Horror (High Arousal, Low Valence)","Drug 2",2030.731194,60.004157,815.530612,7.347186,-0.008528,0.193427
+"BSC_050isc.acq","S11","Neutral (Scenery)","Drug 2",434.668048,34.896551,749.40566,8.348926,-1.10285,0.884983
+"BSC_050isc.acq","S12","Neutral (Scenery)","Drug 2",1003.73027,60.684266,703.280702,6.82072,-0.574301,0.939302
+"BSC_050isc.acq","S13","Social Negative (Low Arousal, Low Valence)","Drug 2",194.701339,50.123747,773.173077,8.037271,-0.537094,0.630226
+"BSC_050isc.acq","S14","Social Negative (Low Arousal, Low Valence)","Drug 2",273.545318,33.051657,746.833333,9.37604,-1.161175,1.059666
+"BSC_050isc.acq","S15","Erotic couples (High arousal, High valence)","Drug 2",465.109635,46.051506,780.117647,9.007443,-0.603187,0.725212
+"BSC_050isc.acq","S16","Erotic couples (High arousal, High valence)","Drug 2",524.514965,39.303797,754.688679,9.524584,-0.88631,0.958139
+"BSC_050isc.acq","S17","Horror (High Arousal, Low Valence)","Drug 2",1239.050685,43.134104,769.518514,10.155691,-0.707869,0.949968
+"BSC_050isc.acq","S18","Horror (High Arousal, Low Valence)","Drug 2",413.281799,57.864291,809.761019,7.319042,-0.118937,0.249529
+"BSC_050isc.acq","S19","Social + (Low Arousal, High Valence)","Drug 2",961.069488,51.159485,776.490196,6.928802,-0.491415,0.433769
+"BSC_050isc.acq","S20","Social + (Low Arousal, High Valence)","Drug 2",258.698956,31.331843,690.45026,9.56596,-1.495919,1.541499
+"BSC_051isc.acq","S1","Neutral (Scenery)","Drug 2",988.659627,51.271601,881.021739,12.008553,0.187171,0.433287
+"BSC_051isc.acq","S2","Neutral (Scenery)","Drug 2",210.109237,29.35646,803.58,14.265107,-0.858948,1.312922
+"BSC_051isc.acq","S3","Erotic couples (High arousal, High valence)","Drug 2",1183.909453,66.814562,905.377778,8.917786,0.720216,-0.170417
+"BSC_051isc.acq","S4","Erotic couples (High arousal, High valence)","Drug 2",768.76451,44.158127,813.938776,11.277363,-0.400914,0.773543
+"BSC_051isc.acq","S5","Social Negative (Low Arousal, Low Valence)","Drug 2",227.636503,28.649991,774.153846,15.656446,-1.041157,1.741271
+"BSC_051isc.acq","S6","Social Negative (Low Arousal, Low Valence)","Drug 2",827.785964,39.005394,809.755102,12.24207,-0.547196,0.937019
+"BSC_051isc.acq","S7","Social + (Low Arousal, High Valence)","Drug 2",552.281529,37.292699,781.823529,13.122016,-0.732173,1.255988
+"BSC_051isc.acq","S8","Social + (Low Arousal, High Valence)","Drug 2",201.101519,28.529954,744.724981,12.191258,-1.244302,1.464859
+"BSC_051isc.acq","S9","Horror (High Arousal, Low Valence)","Drug 2",598.800555,46.895805,796.235294,11.79381,-0.412375,0.963483
+"BSC_051isc.acq","S10","Horror (High Arousal, Low Valence)","Drug 2",652.900372,40.352439,812.734694,14.413533,-0.44393,1.203172
+"BSC_051isc.acq","S11","Neutral (Scenery)","Drug 2",665.345178,46.16317,790.745098,9.517581,-0.471736,0.658086
+"BSC_051isc.acq","S12","Neutral (Scenery)","Drug 2",244.923173,29.539044,751.296296,14.523576,-1.063528,1.659129
+"BSC_051isc.acq","S13","Social Negative (Low Arousal, Low Valence)","Drug 2",596.635387,40.673627,765.153846,11.872033,-0.748702,1.200541
+"BSC_051isc.acq","S14","Social Negative (Low Arousal, Low Valence)","Drug 2",916.564252,43.222161,809.734694,10.305463,-0.480291,0.682359
+"BSC_051isc.acq","S15","Erotic couples (High arousal, High valence)","Drug 2",990.485604,53.447201,868.23913,8.686344,0.05781,0.112142
+"BSC_051isc.acq","S16","Erotic couples (High arousal, High valence)","Drug 2",421.574981,37.54274,800.58,11.650222,-0.631961,0.903467
+"BSC_051isc.acq","S17","Horror (High Arousal, Low Valence)","Drug 2",178.644894,33.276257,765.894231,18.115696,-0.837759,2.061098
+"BSC_051isc.acq","S18","Horror (High Arousal, Low Valence)","Drug 2",334.018115,36.317556,775.576923,12.387079,-0.788286,1.182972
+"BSC_051isc.acq","S19","Social + (Low Arousal, High Valence)","Drug 2",582.314705,46.594625,808.72,10.347719,-0.377795,0.678165
+"BSC_051isc.acq","S20","Social + (Low Arousal, High Valence)","Drug 2",747.91424,45.64346,785.608093,10.815918,-0.516534,0.899269
+"BSC_052isc.acq","S1","Neutral (Scenery)","Drug 2",287.37199,27.023155,544.369863,20.230923,-2.227165,4.783873
+"BSC_052isc.acq","S2","Neutral (Scenery)","Drug 2",103.232335,26.315697,535.853333,21.779567,-2.261021,5.149239
+"BSC_052isc.acq","S3","Erotic couples (High arousal, High valence)","Drug 2",123.124062,25.12251,555.180556,19.23727,-2.255783,4.484753
+"BSC_052isc.acq","S4","Erotic couples (High arousal, High valence)","Drug 2",49.650534,25.497461,547.383562,22.76596,-2.206429,5.104894
+"BSC_052isc.acq","S5","Social Negative (Low Arousal, Low Valence)","Drug 2",170.085035,25.608588,535.706667,22.441016,-2.313928,5.293415
+"BSC_052isc.acq","S6","Social Negative (Low Arousal, Low Valence)","Drug 2",93.930022,26.679787,540.094595,29.014286,-2.140449,6.187168
+"BSC_052isc.acq","S7","Social + (Low Arousal, High Valence)","Drug 2",58.01211,24.768718,549.424658,16.962407,-2.264619,4.167134
+"BSC_052isc.acq","S8","Social + (Low Arousal, High Valence)","Drug 2",112.773109,22.311629,543.726027,19.943487,-2.376515,4.758625
+"BSC_052isc.acq","S9","Horror (High Arousal, Low Valence)","Drug 2",128.796308,26.028875,558.527778,21.445338,-2.114823,4.697713
+"BSC_052isc.acq","S10","Horror (High Arousal, Low Valence)","Drug 2",516.575793,36.615025,578,10.530594,-1.81964,2.758874
+"BSC_052isc.acq","S11","Neutral (Scenery)","Drug 2",108.366074,19.300027,535.026667,29.482107,-2.471977,6.448236
+"BSC_052isc.acq","S12","Neutral (Scenery)","Drug 2",120.939398,24.129229,550.342466,21.589551,-2.247124,4.882176
+"BSC_052isc.acq","S13","Social Negative (Low Arousal, Low Valence)","Drug 2",101.709597,21.873382,537.173333,22.57996,-2.435593,5.31408
+"BSC_052isc.acq","S14","Social Negative (Low Arousal, Low Valence)","Drug 2",43.449949,25.673856,548.479452,16.758721,-2.27816,4.182267
+"BSC_052isc.acq","S15","Erotic couples (High arousal, High valence)","Drug 2",128.395586,27.313514,555.791667,21.10819,-2.091362,4.682286
+"BSC_052isc.acq","S16","Erotic couples (High arousal, High valence)","Drug 2",73.226622,20.986854,549.013699,21.227364,-2.387739,4.888
+"BSC_052isc.acq","S17","Horror (High Arousal, Low Valence)","Drug 2",54.603364,24.505889,556.055556,22.830413,-2.156596,4.947344
+"BSC_052isc.acq","S18","Horror (High Arousal, Low Valence)","Drug 2",48.784127,27.733032,561.75,17.398404,-2.100026,4.040348
+"BSC_052isc.acq","S19","Social + (Low Arousal, High Valence)","Drug 2",70.436584,25.050186,555.930556,19.31837,-2.175575,4.408486
+"BSC_052isc.acq","S20","Social + (Low Arousal, High Valence)","Drug 2",345.842498,30.700293,568.142857,12.565842,-2.015236,3.197207
+"BSC_056_ISC.acq","S1","Neutral (Scenery)","Drug 2",589.33016,25.303066,674.118644,14.07567,-1.646642,2.297755
+"BSC_056_ISC.acq","S2","Neutral (Scenery)","Drug 2",351.59588,21.541649,683.389831,19.068373,-1.703432,2.999339
+"BSC_056_ISC.acq","S3","Erotic couples (High arousal, High valence)","Drug 2",439.444105,26.03795,745.796296,12.765543,-1.305399,1.545883
+"BSC_056_ISC.acq","S4","Erotic couples (High arousal, High valence)","Drug 2",437.387223,24.931427,729.4,16.485516,-1.391758,2.224361
+"BSC_056_ISC.acq","S5","Social Negative (Low Arousal, Low Valence)","Drug 2",229.674495,24.280769,731.390909,13.239321,-1.430801,1.734146
+"BSC_056_ISC.acq","S6","Social Negative (Low Arousal, Low Valence)","Drug 2",150.63288,20.013127,699.982456,17.054862,-1.706606,2.58569
+"BSC_056_ISC.acq","S7","Social + (Low Arousal, High Valence)","Drug 2",98.130099,23.171987,708.087719,14.910469,-1.576401,2.178734
+"BSC_056_ISC.acq","S8","Social + (Low Arousal, High Valence)","Drug 2",200.949736,17.684123,709.75,17.296026,-1.694921,2.516825
+"BSC_056_ISC.acq","S9","Horror (High Arousal, Low Valence)","Drug 2",181.526305,17.798484,710.642857,19.804875,-1.693361,2.907573
+"BSC_056_ISC.acq","S10","Horror (High Arousal, Low Valence)","Drug 2",335.347787,22.036656,734.027778,18.034117,-1.460137,2.443869
+"BSC_056_ISC.acq","S11","Neutral (Scenery)","Drug 2",256.769362,22.138826,694.87931,17.316193,-1.634852,2.629921
+"BSC_056_ISC.acq","S12","Neutral (Scenery)","Drug 2",296.418464,24.105008,694.947368,11.835564,-1.647839,1.837878
+"BSC_056_ISC.acq","S13","Social Negative (Low Arousal, Low Valence)","Drug 2",130.238939,14.02731,695.640351,20.834688,-1.867322,3.191352
+"BSC_056_ISC.acq","S14","Social Negative (Low Arousal, Low Valence)","Drug 2",160.778054,18.795759,709.25,14.324074,-1.709302,2.098295
+"BSC_056_ISC.acq","S15","Erotic couples (High arousal, High valence)","Drug 2",215.717388,19.708857,709.196429,18.284325,-1.631952,2.664671
+"BSC_056_ISC.acq","S16","Erotic couples (High arousal, High valence)","Drug 2",315.229912,24.158965,722.741071,13.193233,-1.478903,1.795552
+"BSC_056_ISC.acq","S17","Horror (High Arousal, Low Valence)","Drug 2",519.362242,25.578604,703.342105,12.395617,-1.53753,1.826881
+"BSC_056_ISC.acq","S18","Horror (High Arousal, Low Valence)","Drug 2",142.370042,23.380748,699.681034,12.451872,-1.65735,1.908247
+"BSC_056_ISC.acq","S19","Social + (Low Arousal, High Valence)","Drug 2",217.028734,17.171057,679.09322,20.279178,-1.856186,3.240601
+"BSC_056_ISC.acq","S20","Social + (Low Arousal, High Valence)","Drug 2",684.474543,34.690709,703.412281,10.344425,-1.32444,1.538667
+"BSC_057isc.acq","S1","Neutral (Scenery)","Drug 1",301.335178,31.219593,956.536585,12.102606,-0.156018,0.251916
+"BSC_057isc.acq","S2","Neutral (Scenery)","Drug 1",195.869529,30.452161,986.292683,10.761334,-0.014348,-0.104727
+"BSC_057isc.acq","S3","Erotic couples (High arousal, High valence)","Drug 1",147.091399,39.040441,970.219512,8.471343,0.071639,-0.323904
+"BSC_057isc.acq","S4","Erotic couples (High arousal, High valence)","Drug 1",148.135377,28.046799,976.390244,17.282168,-0.048215,0.869294
+"BSC_057isc.acq","S5","Social Negative (Low Arousal, Low Valence)","Drug 1",517.249684,37.135403,930.325581,8.981054,-0.195136,-0.039685
+"BSC_057isc.acq","S6","Social Negative (Low Arousal, Low Valence)","Drug 1",112.197036,35.699458,994,8.827659,0.022486,-0.296153
+"BSC_057isc.acq","S7","Social + (Low Arousal, High Valence)","Drug 1",252.967405,30.997187,921.116279,8.536508,-0.452744,-0.015428
+"BSC_057isc.acq","S8","Social + (Low Arousal, High Valence)","Drug 1",70.749715,22.316229,959.756098,14.879071,-0.421792,0.710814
+"BSC_057isc.acq","S9","Horror (High Arousal, Low Valence)","Drug 1",127.885148,29.783368,982.7,12.859377,-0.050328,0.236229
+"BSC_057isc.acq","S10","Horror (High Arousal, Low Valence)","Drug 1",172.477295,29.073948,1038.763158,12.736579,0.209746,-0.019971
+"BSC_057isc.acq","S11","Neutral (Scenery)","Drug 1",708.497455,46.624768,865.319149,6.398056,-0.278394,-0.087359
+"BSC_057isc.acq","S12","Neutral (Scenery)","Drug 1",277.769768,27.33909,878.177778,10.651113,-0.682676,0.453736
+"BSC_057isc.acq","S13","Social Negative (Low Arousal, Low Valence)","Drug 1",151.691774,27.516437,950.809524,14.496973,-0.289879,0.655957
+"BSC_057isc.acq","S14","Social Negative (Low Arousal, Low Valence)","Drug 1",247.914957,37.482278,858.148936,10.029021,-0.468449,0.425733
+"BSC_057isc.acq","S15","Erotic couples (High arousal, High valence)","Drug 1",86.005182,26.723907,990.275,15.330725,-0.054096,0.545144
+"BSC_057isc.acq","S16","Erotic couples (High arousal, High valence)","Drug 1",161.100791,29.564732,1023.384615,16.147311,0.190282,0.526754
+"BSC_057isc.acq","S17","Horror (High Arousal, Low Valence)","Drug 1",378.73185,63.543478,927.769469,6.588606,0.611923,-0.511673
+"BSC_057isc.acq","S18","Horror (High Arousal, Low Valence)","Drug 1",369.46278,42.471069,1080.594595,10.014532,0.677552,-0.506034
+"BSC_057isc.acq","S19","Social + (Low Arousal, High Valence)","Drug 1",254.299006,33.643035,1044.921053,11.927371,0.308625,-0.11612
+"BSC_057isc.acq","S20","Social + (Low Arousal, High Valence)","Drug 1",308.488357,37.892484,930.862964,10.473554,-0.086185,0.102847
+"BSC_058isc.acq","S1","Neutral (Scenery)","Drug 1",1563.549217,53.692617,995.175,9.458987,0.692839,-0.387411
+"BSC_058isc.acq","S2","Neutral (Scenery)","Drug 1",1322.685147,53.819235,996.4625,10.160462,0.745996,-0.327775
+"BSC_058isc.acq","S3","Erotic couples (High arousal, High valence)","Drug 1",717.24794,37.483929,992.7125,11.414516,0.24473,-0.071062
+"BSC_058isc.acq","S4","Erotic couples (High arousal, High valence)","Drug 1",761.209458,41.259285,959.369048,12.544186,0.267892,0.165584
+"BSC_058isc.acq","S5","Social Negative (Low Arousal, Low Valence)","Drug 1",2709.386924,60.932207,938.666667,6.77714,0.540199,-0.479351
+"BSC_058isc.acq","S6","Social Negative (Low Arousal, Low Valence)","Drug 1",926.874102,50.09956,961.04878,9.73738,0.438382,-0.202762
+"BSC_058isc.acq","S7","Social + (Low Arousal, High Valence)","Drug 1",901.681618,41.280777,966.743902,12.333246,0.284017,0.120103
+"BSC_058isc.acq","S8","Social + (Low Arousal, High Valence)","Drug 1",400.99752,34.222617,936.916667,13.442874,-0.111332,0.490548
+"BSC_058isc.acq","S9","Horror (High Arousal, Low Valence)","Drug 1",1895.464456,57.246568,993.5,7.214064,0.700094,-0.648313
+"BSC_058isc.acq","S10","Horror (High Arousal, Low Valence)","Drug 1",1001.585212,44.771039,986.5875,11.791284,0.400671,0.022377
+"BSC_058isc.acq","S11","Neutral (Scenery)","Drug 1",1233.022646,69.509103,982.780488,7.274694,1.034084,-0.651538
+"BSC_058isc.acq","S12","Neutral (Scenery)","Drug 1",879.30142,49.100212,905.306818,6.943085,0.057736,-0.287584
+"BSC_058isc.acq","S13","Social Negative (Low Arousal, Low Valence)","Drug 1",2764.585571,62.382195,950.511905,6.310125,0.620021,-0.590228
+"BSC_058isc.acq","S14","Social Negative (Low Arousal, Low Valence)","Drug 1",1300.939925,55.254991,910.988636,7.410122,0.296463,-0.290126
+"BSC_058isc.acq","S15","Erotic couples (High arousal, High valence)","Drug 1",648.236076,44.928465,915.761364,7.778275,-0.000351,-0.212729
+"BSC_058isc.acq","S16","Erotic couples (High arousal, High valence)","Drug 1",592.541226,37.396097,956.72619,12.521433,0.099203,0.226656
+"BSC_058isc.acq","S17","Horror (High Arousal, Low Valence)","Drug 1",530.66156,54.98574,922.639535,8.393029,0.375826,-0.224959
+"BSC_058isc.acq","S18","Horror (High Arousal, Low Valence)","Drug 1",1480.225491,53.36869,949.178571,7.893881,0.412365,-0.378505
+"BSC_058isc.acq","S19","Social + (Low Arousal, High Valence)","Drug 1",1187.899827,51.260657,937.857143,8.965284,0.318699,-0.177533
+"BSC_058isc.acq","S20","Social + (Low Arousal, High Valence)","Drug 1",1023.603767,46.231402,937.190476,11.578421,0.223855,0.187559
+"BSC_061isc.acq","S1","Neutral (Scenery)","Drug 1",593.219955,47.666478,733.872727,10.974448,-0.675329,1.248195
+"BSC_061isc.acq","S2","Neutral (Scenery)","Drug 1",661.944873,42.88931,705.247656,9.167593,-1.01958,1.265069
+"BSC_061isc.acq","S3","Erotic couples (High arousal, High valence)","Drug 1",1027.6244,55.497827,789.94,9.975797,-0.183772,0.693006
+"BSC_061isc.acq","S4","Erotic couples (High arousal, High valence)","Drug 1",460.422115,54.57558,744.308227,10.108511,-0.445884,1.043193
+"BSC_061isc.acq","S5","Social Negative (Low Arousal, Low Valence)","Drug 1",246.5256,41.502656,712.357143,12.841175,-0.887995,1.647813
+"BSC_061isc.acq","S6","Social Negative (Low Arousal, Low Valence)","Drug 1",471.186493,40.839079,715.142857,11.044604,-0.956412,1.409176
+"BSC_061isc.acq","S7","Social + (Low Arousal, High Valence)","Drug 1",737.906839,49.663409,749.981132,11.694415,-0.525983,1.224819
+"BSC_061isc.acq","S8","Social + (Low Arousal, High Valence)","Drug 1",1278.82526,53.676256,750.226415,9.138126,-0.471365,0.879301
+"BSC_061isc.acq","S9","Horror (High Arousal, Low Valence)","Drug 1",744.453744,48.754179,764.217674,11.413803,-0.45989,1.059329
+"BSC_061isc.acq","S10","Horror (High Arousal, Low Valence)","Drug 1",821.275946,48.17472,768.5,12.192394,-0.399895,1.096233
+"BSC_061isc.acq","S11","Neutral (Scenery)","Drug 1",968.786655,49.658859,667.104476,9.075148,-0.973734,1.528342
+"BSC_061isc.acq","S12","Neutral (Scenery)","Drug 1",146.09564,47.188076,685.3947,11.093234,-0.945895,1.677752
+"BSC_061isc.acq","S13","Social Negative (Low Arousal, Low Valence)","Drug 1",1222.691833,64.244685,794.784314,7.152776,0.019345,0.277975
+"BSC_061isc.acq","S14","Social Negative (Low Arousal, Low Valence)","Drug 1",991.135136,52.313399,736.648148,9.779652,-0.554983,1.059349
+"BSC_061isc.acq","S15","Erotic couples (High arousal, High valence)","Drug 1",512.357309,49.930868,777.230769,12.946129,-0.35719,1.201094
+"BSC_061isc.acq","S16","Erotic couples (High arousal, High valence)","Drug 1",1369.297038,54.011704,783.254902,9.913328,-0.291337,0.762282
+"BSC_061isc.acq","S17","Horror (High Arousal, Low Valence)","Drug 1",316.988655,43.213027,763.159726,12.364114,-0.614699,1.215433
+"BSC_061isc.acq","S18","Horror (High Arousal, Low Valence)","Drug 1",710.132003,44.907264,751,12.7966,-0.609121,1.349443
+"BSC_061isc.acq","S19","Social + (Low Arousal, High Valence)","Drug 1",363.160361,56.90567,678.121501,7.508577,-0.740558,1.200995
+"BSC_061isc.acq","S20","Social + (Low Arousal, High Valence)","Drug 1",1356.986388,63.171157,794.294473,9.65084,0.137432,0.520086
+"BSC_062isc.acq","S1","Neutral (Scenery)","Drug 1",87.926519,33.490598,734.222222,17.453741,-0.9733,2.174204
+"BSC_062isc.acq","S2","Neutral (Scenery)","Drug 1",88.321331,25.830967,780.235294,19.947428,-1.014687,2.295181
+"BSC_062isc.acq","S3","Erotic couples (High arousal, High valence)","Drug 1",180.665435,26.952784,802.16,15.8384,-0.87602,1.512027
+"BSC_062isc.acq","S4","Erotic couples (High arousal, High valence)","Drug 1",131.485109,31.544329,763.320755,15.280032,-0.979311,1.72018
+"BSC_062isc.acq","S5","Social Negative (Low Arousal, Low Valence)","Drug 1",105.962701,25.34435,747.150943,14.815058,-1.242486,1.780428
+"BSC_062isc.acq","S6","Social Negative (Low Arousal, Low Valence)","Drug 1",78.824699,28.094221,719.781818,20.960708,-1.166916,2.810792
+"BSC_062isc.acq","S7","Social + (Low Arousal, High Valence)","Drug 1",107.415805,28.902242,747.226415,16.388653,-1.051148,1.929715
+"BSC_062isc.acq","S8","Social + (Low Arousal, High Valence)","Drug 1",70.930876,30.626236,743.759259,19.358806,-0.964993,2.361178
+"BSC_062isc.acq","S9","Horror (High Arousal, Low Valence)","Drug 1",170.942694,27.451071,759,13.971445,-1.154964,1.591357
+"BSC_062isc.acq","S10","Horror (High Arousal, Low Valence)","Drug 1",108.474823,31.181526,729.94152,15.895319,-1.117662,2.024944
+"BSC_062isc.acq","S11","Neutral (Scenery)","Drug 1",98.55873,24.259479,745.203704,22.571118,-1.13593,2.857889
+"BSC_062isc.acq","S12","Neutral (Scenery)","Drug 1",295.158929,31.925262,742.074074,14.561031,-1.038335,1.725949
+"BSC_062isc.acq","S13","Social Negative (Low Arousal, Low Valence)","Drug 1",119.883288,25.526354,740,24.62597,-1.080986,3.170547
+"BSC_062isc.acq","S14","Social Negative (Low Arousal, Low Valence)","Drug 1",71.484376,29.933913,734.351852,19.069339,-1.103324,2.460118
+"BSC_062isc.acq","S15","Erotic couples (High arousal, High valence)","Drug 1",65.715696,22.612443,764.377358,18.050889,-1.260365,2.190415
+"BSC_062isc.acq","S16","Erotic couples (High arousal, High valence)","Drug 1",89.747074,24.487305,738.12963,21.423556,-1.197943,2.765251
+"BSC_062isc.acq","S17","Horror (High Arousal, Low Valence)","Drug 1",85.306869,26.582156,727,19.621585,-1.275558,2.648571
+"BSC_062isc.acq","S18","Horror (High Arousal, Low Valence)","Drug 1",79.343685,25.210266,749.169811,18.877435,-1.130394,2.292802
+"BSC_062isc.acq","S19","Social + (Low Arousal, High Valence)","Drug 1",95.191945,28.311907,730.745455,16.548624,-1.219306,2.149065
+"BSC_062isc.acq","S20","Social + (Low Arousal, High Valence)","Drug 1",79.56403,23.030791,711.178571,23.093464,-1.395604,3.263042

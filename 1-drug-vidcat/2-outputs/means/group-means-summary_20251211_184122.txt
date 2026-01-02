@@ -1,0 +1,765 @@
+================================================================================
+GROUP MEANS SUMMARY (RAW DESCRIPTIVE MEANS)
+================================================================================
+
+Generated: 20251211_184122
+
+This report shows descriptive statistics (mean, standard deviation,
+standard error of the mean, and sample size) for each HRV metric
+grouped by Drug Type, by Video Category, and by Video Category × Drug Type.
+
+Estimated marginal means (EMMs) from ANOVA and LMM are also summarised
+below for the main effects (Video Category, Drug Type).
+
+Full EMM tables (including interaction cells) are saved in:
+  /Users/angwang/oxytocin-videoclip/1-drug-vidcat/2-outputs/means/group-means_20251211_184122_marginal_means.csv
+
+================================================================================
+MEANS BY DRUG TYPE (RAW)
+================================================================================
+
+
+HF Power FFT (ms2)
+--------------------------------------------------------------------------------
+  Drug 1:
+    Mean = 844.3856
+    SD = 931.1433
+    SEM = 37.3956
+    n = 620
+  Drug 2:
+    Mean = 894.4624
+    SD = 1176.7761
+    SEM = 53.7122
+    n = 480
+  Difference (Drug 2 - Drug 1): 50.0768 (+5.93%)
+
+RM SSD (ms)
+--------------------------------------------------------------------------------
+  Drug 1:
+    Mean = 46.4128
+    SD = 21.9486
+    SEM = 0.8815
+    n = 620
+  Drug 2:
+    Mean = 44.2697
+    SD = 22.1833
+    SEM = 1.0125
+    n = 480
+  Difference (Drug 2 - Drug 1): -2.1431 (-4.62%)
+
+Mean RR
+--------------------------------------------------------------------------------
+  Drug 1:
+    Mean = 905.4216
+    SD = 136.2787
+    SEM = 5.4731
+    n = 620
+  Drug 2:
+    Mean = 851.3892
+    SD = 124.7633
+    SEM = 5.6946
+    n = 480
+  Difference (Drug 2 - Drug 1): -54.0323 (-5.97%)
+
+Stress Index
+--------------------------------------------------------------------------------
+  Drug 1:
+    Mean = 11.9436
+    SD = 4.3123
+    SEM = 0.1732
+    n = 620
+  Drug 2:
+    Mean = 12.0572
+    SD = 3.9494
+    SEM = 0.1803
+    n = 480
+  Difference (Drug 2 - Drug 1): 0.1136 (+0.95%)
+
+PNS Index
+--------------------------------------------------------------------------------
+  Drug 1:
+    Mean = 0.0879
+    SD = 1.1454
+    SEM = 0.0460
+    n = 620
+  Drug 2:
+    Mean = -0.2430
+    SD = 1.0313
+    SEM = 0.0471
+    n = 480
+  Difference (Drug 2 - Drug 1): -0.3310 (-376.36%)
+
+SNS Index
+--------------------------------------------------------------------------------
+  Drug 1:
+    Mean = 0.4764
+    SD = 1.1106
+    SEM = 0.0446
+    n = 620
+  Drug 2:
+    Mean = 0.8098
+    SD = 1.1940
+    SEM = 0.0545
+    n = 480
+  Difference (Drug 2 - Drug 1): 0.3334 (+69.98%)
+
+================================================================================
+MEANS BY VIDEO CATEGORY (RAW)
+================================================================================
+
+
+HF Power FFT (ms2)
+--------------------------------------------------------------------------------
+  Erotic couples (High arousal, High valence):
+    Mean = 740.6402
+    SD = 983.0848
+    SEM = 66.2796
+    n = 220
+  Horror (High Arousal, Low Valence):
+    Mean = 825.6592
+    SD = 848.9848
+    SEM = 57.2385
+    n = 220
+  Neutral (Scenery):
+    Mean = 1009.9111
+    SD = 1195.1694
+    SEM = 80.5783
+    n = 220
+  Social + (Low Arousal, High Valence):
+    Mean = 846.4151
+    SD = 984.9223
+    SEM = 66.4034
+    n = 220
+  Social Negative (Low Arousal, Low Valence):
+    Mean = 908.5608
+    SD = 1164.6602
+    SEM = 78.5214
+    n = 220
+  Range (max - min): 269.2708 (+36.36%)
+
+RM SSD (ms)
+--------------------------------------------------------------------------------
+  Erotic couples (High arousal, High valence):
+    Mean = 43.3371
+    SD = 22.0194
+    SEM = 1.4846
+    n = 220
+  Horror (High Arousal, Low Valence):
+    Mean = 45.9808
+    SD = 20.8911
+    SEM = 1.4085
+    n = 220
+  Neutral (Scenery):
+    Mean = 47.1942
+    SD = 21.2362
+    SEM = 1.4317
+    n = 220
+  Social + (Low Arousal, High Valence):
+    Mean = 44.6978
+    SD = 21.5684
+    SEM = 1.4541
+    n = 220
+  Social Negative (Low Arousal, Low Valence):
+    Mean = 46.1782
+    SD = 24.4386
+    SEM = 1.6476
+    n = 220
+  Range (max - min): 3.8571 (+8.90%)
+
+Mean RR
+--------------------------------------------------------------------------------
+  Erotic couples (High arousal, High valence):
+    Mean = 896.8217
+    SD = 126.9265
+    SEM = 8.5574
+    n = 220
+  Horror (High Arousal, Low Valence):
+    Mean = 892.2283
+    SD = 131.6488
+    SEM = 8.8758
+    n = 220
+  Neutral (Scenery):
+    Mean = 873.9025
+    SD = 139.0726
+    SEM = 9.3763
+    n = 220
+  Social + (Low Arousal, High Valence):
+    Mean = 869.4152
+    SD = 132.7318
+    SEM = 8.9488
+    n = 220
+  Social Negative (Low Arousal, Low Valence):
+    Mean = 876.8514
+    SD = 138.4479
+    SEM = 9.3342
+    n = 220
+  Range (max - min): 27.4065 (+3.15%)
+
+Stress Index
+--------------------------------------------------------------------------------
+  Erotic couples (High arousal, High valence):
+    Mean = 12.6835
+    SD = 4.0815
+    SEM = 0.2752
+    n = 220
+  Horror (High Arousal, Low Valence):
+    Mean = 12.0183
+    SD = 4.2520
+    SEM = 0.2867
+    n = 220
+  Neutral (Scenery):
+    Mean = 11.4951
+    SD = 4.0921
+    SEM = 0.2759
+    n = 220
+  Social + (Low Arousal, High Valence):
+    Mean = 11.8491
+    SD = 4.0855
+    SEM = 0.2754
+    n = 220
+  Social Negative (Low Arousal, Low Valence):
+    Mean = 11.9197
+    SD = 4.2144
+    SEM = 0.2841
+    n = 220
+  Range (max - min): 1.1884 (+10.34%)
+
+PNS Index
+--------------------------------------------------------------------------------
+  Erotic couples (High arousal, High valence):
+    Mean = -0.0325
+    SD = 1.0869
+    SEM = 0.0733
+    n = 220
+  Horror (High Arousal, Low Valence):
+    Mean = 0.0145
+    SD = 1.0568
+    SEM = 0.0713
+    n = 220
+  Neutral (Scenery):
+    Mean = -0.0546
+    SD = 1.1007
+    SEM = 0.0742
+    n = 220
+  Social + (Low Arousal, High Valence):
+    Mean = -0.1475
+    SD = 1.0799
+    SEM = 0.0728
+    n = 220
+  Social Negative (Low Arousal, Low Valence):
+    Mean = -0.0622
+    SD = 1.2165
+    SEM = 0.0820
+    n = 220
+  Range (max - min): 0.1621 (-109.84%)
+
+SNS Index
+--------------------------------------------------------------------------------
+  Erotic couples (High arousal, High valence):
+    Mean = 0.6289
+    SD = 1.1050
+    SEM = 0.0745
+    n = 220
+  Horror (High Arousal, Low Valence):
+    Mean = 0.5575
+    SD = 1.1405
+    SEM = 0.0769
+    n = 220
+  Neutral (Scenery):
+    Mean = 0.6024
+    SD = 1.1896
+    SEM = 0.0802
+    n = 220
+  Social + (Low Arousal, High Valence):
+    Mean = 0.6756
+    SD = 1.1288
+    SEM = 0.0761
+    n = 220
+  Social Negative (Low Arousal, Low Valence):
+    Mean = 0.6451
+    SD = 1.2339
+    SEM = 0.0832
+    n = 220
+  Range (max - min): 0.1181 (+21.19%)
+
+================================================================================
+MEANS BY VIDEO CATEGORY × DRUG TYPE (RAW)
+================================================================================
+
+
+HF Power FFT (ms2)
+--------------------------------------------------------------------------------
+  Erotic couples (High arousal, High valence):
+    Drug 1:
+      Mean = 681.4096
+      SD = 830.8127
+      SEM = 74.6092
+      n = 124
+    Drug 2:
+      Mean = 817.1465
+      SD = 1150.5429
+      SEM = 117.4268
+      n = 96
+    Difference (Erotic couples (High arousal, High valence) × Drug 2 - Erotic couples (High arousal, High valence) × Drug 1): 135.7369 (+19.92%)
+  Horror (High Arousal, Low Valence):
+    Drug 1:
+      Mean = 812.4136
+      SD = 712.2982
+      SEM = 63.9663
+      n = 124
+    Drug 2:
+      Mean = 842.7682
+      SD = 1002.0692
+      SEM = 102.2733
+      n = 96
+    Difference (Horror (High Arousal, Low Valence) × Drug 2 - Horror (High Arousal, Low Valence) × Drug 1): 30.3546 (+3.74%)
+  Neutral (Scenery):
+    Drug 1:
+      Mean = 983.0101
+      SD = 1021.9988
+      SEM = 91.7782
+      n = 124
+    Drug 2:
+      Mean = 1044.6582
+      SD = 1392.2692
+      SEM = 142.0979
+      n = 96
+    Difference (Neutral (Scenery) × Drug 2 - Neutral (Scenery) × Drug 1): 61.6481 (+6.27%)
+  Social + (Low Arousal, High Valence):
+    Drug 1:
+      Mean = 819.1644
+      SD = 897.2310
+      SEM = 80.5737
+      n = 124
+    Drug 2:
+      Mean = 881.6140
+      SD = 1091.6759
+      SEM = 111.4187
+      n = 96
+    Difference (Social + (Low Arousal, High Valence) × Drug 2 - Social + (Low Arousal, High Valence) × Drug 1): 62.4496 (+7.62%)
+  Social Negative (Low Arousal, Low Valence):
+    Drug 1:
+      Mean = 925.9304
+      SD = 1123.2481
+      SEM = 100.8707
+      n = 124
+    Drug 2:
+      Mean = 886.1251
+      SD = 1221.6718
+      SEM = 124.6864
+      n = 96
+    Difference (Social Negative (Low Arousal, Low Valence) × Drug 2 - Social Negative (Low Arousal, Low Valence) × Drug 1): -39.8054 (-4.30%)
+
+RM SSD (ms)
+--------------------------------------------------------------------------------
+  Erotic couples (High arousal, High valence):
+    Drug 1:
+      Mean = 43.7686
+      SD = 23.8617
+      SEM = 2.1428
+      n = 124
+    Drug 2:
+      Mean = 42.7797
+      SD = 19.4926
+      SEM = 1.9895
+      n = 96
+    Difference (Erotic couples (High arousal, High valence) × Drug 2 - Erotic couples (High arousal, High valence) × Drug 1): -0.9890 (-2.26%)
+  Horror (High Arousal, Low Valence):
+    Drug 1:
+      Mean = 46.5038
+      SD = 20.1672
+      SEM = 1.8111
+      n = 124
+    Drug 2:
+      Mean = 45.3053
+      SD = 21.8790
+      SEM = 2.2330
+      n = 96
+    Difference (Horror (High Arousal, Low Valence) × Drug 2 - Horror (High Arousal, Low Valence) × Drug 1): -1.1985 (-2.58%)
+  Neutral (Scenery):
+    Drug 1:
+      Mean = 48.3548
+      SD = 20.7808
+      SEM = 1.8662
+      n = 124
+    Drug 2:
+      Mean = 45.6950
+      SD = 21.8282
+      SEM = 2.2278
+      n = 96
+    Difference (Neutral (Scenery) × Drug 2 - Neutral (Scenery) × Drug 1): -2.6598 (-5.50%)
+  Social + (Low Arousal, High Valence):
+    Drug 1:
+      Mean = 45.4926
+      SD = 19.9634
+      SEM = 1.7928
+      n = 124
+    Drug 2:
+      Mean = 43.6712
+      SD = 23.5480
+      SEM = 2.4034
+      n = 96
+    Difference (Social + (Low Arousal, High Valence) × Drug 2 - Social + (Low Arousal, High Valence) × Drug 1): -1.8214 (-4.00%)
+  Social Negative (Low Arousal, Low Valence):
+    Drug 1:
+      Mean = 47.9441
+      SD = 24.5725
+      SEM = 2.2067
+      n = 124
+    Drug 2:
+      Mean = 43.8973
+      SD = 24.2014
+      SEM = 2.4700
+      n = 96
+    Difference (Social Negative (Low Arousal, Low Valence) × Drug 2 - Social Negative (Low Arousal, Low Valence) × Drug 1): -4.0468 (-8.44%)
+
+Mean RR
+--------------------------------------------------------------------------------
+  Erotic couples (High arousal, High valence):
+    Drug 1:
+      Mean = 922.3495
+      SD = 124.8615
+      SEM = 11.2129
+      n = 124
+    Drug 2:
+      Mean = 863.8483
+      SD = 122.4900
+      SEM = 12.5016
+      n = 96
+    Difference (Erotic couples (High arousal, High valence) × Drug 2 - Erotic couples (High arousal, High valence) × Drug 1): -58.5012 (-6.34%)
+  Horror (High Arousal, Low Valence):
+    Drug 1:
+      Mean = 917.2265
+      SD = 136.2241
+      SEM = 12.2333
+      n = 124
+    Drug 2:
+      Mean = 859.9391
+      SD = 118.5656
+      SEM = 12.1010
+      n = 96
+    Difference (Horror (High Arousal, Low Valence) × Drug 2 - Horror (High Arousal, Low Valence) × Drug 1): -57.2874 (-6.25%)
+  Neutral (Scenery):
+    Drug 1:
+      Mean = 894.8615
+      SD = 142.3138
+      SEM = 12.7802
+      n = 124
+    Drug 2:
+      Mean = 846.8306
+      SD = 130.5757
+      SEM = 13.3268
+      n = 96
+    Difference (Neutral (Scenery) × Drug 2 - Neutral (Scenery) × Drug 1): -48.0309 (-5.37%)
+  Social + (Low Arousal, High Valence):
+    Drug 1:
+      Mean = 893.3506
+      SD = 136.5573
+      SEM = 12.2632
+      n = 124
+    Drug 2:
+      Mean = 838.4987
+      SD = 121.4730
+      SEM = 12.3978
+      n = 96
+    Difference (Social + (Low Arousal, High Valence) × Drug 2 - Social + (Low Arousal, High Valence) × Drug 1): -54.8519 (-6.14%)
+  Social Negative (Low Arousal, Low Valence):
+    Drug 1:
+      Mean = 899.3199
+      SD = 140.3164
+      SEM = 12.6008
+      n = 124
+    Drug 2:
+      Mean = 847.8296
+      SD = 131.0920
+      SEM = 13.3795
+      n = 96
+    Difference (Social Negative (Low Arousal, Low Valence) × Drug 2 - Social Negative (Low Arousal, Low Valence) × Drug 1): -51.4903 (-5.73%)
+
+Stress Index
+--------------------------------------------------------------------------------
+  Erotic couples (High arousal, High valence):
+    Drug 1:
+      Mean = 12.9759
+      SD = 4.3254
+      SEM = 0.3884
+      n = 124
+    Drug 2:
+      Mean = 12.3059
+      SD = 3.7315
+      SEM = 0.3808
+      n = 96
+    Difference (Erotic couples (High arousal, High valence) × Drug 2 - Erotic couples (High arousal, High valence) × Drug 1): -0.6701 (-5.16%)
+  Horror (High Arousal, Low Valence):
+    Drug 1:
+      Mean = 11.9979
+      SD = 4.6193
+      SEM = 0.4148
+      n = 124
+    Drug 2:
+      Mean = 12.0446
+      SD = 3.7484
+      SEM = 0.3826
+      n = 96
+    Difference (Horror (High Arousal, Low Valence) × Drug 2 - Horror (High Arousal, Low Valence) × Drug 1): 0.0467 (+0.39%)
+  Neutral (Scenery):
+    Drug 1:
+      Mean = 11.3619
+      SD = 4.0212
+      SEM = 0.3611
+      n = 124
+    Drug 2:
+      Mean = 11.6672
+      SD = 4.1969
+      SEM = 0.4283
+      n = 96
+    Difference (Neutral (Scenery) × Drug 2 - Neutral (Scenery) × Drug 1): 0.3053 (+2.69%)
+  Social + (Low Arousal, High Valence):
+    Drug 1:
+      Mean = 11.8200
+      SD = 4.3093
+      SEM = 0.3870
+      n = 124
+    Drug 2:
+      Mean = 11.8867
+      SD = 3.7989
+      SEM = 0.3877
+      n = 96
+    Difference (Social + (Low Arousal, High Valence) × Drug 2 - Social + (Low Arousal, High Valence) × Drug 1): 0.0668 (+0.56%)
+  Social Negative (Low Arousal, Low Valence):
+    Drug 1:
+      Mean = 11.5622
+      SD = 4.1490
+      SEM = 0.3726
+      n = 124
+    Drug 2:
+      Mean = 12.3816
+      SD = 4.2748
+      SEM = 0.4363
+      n = 96
+    Difference (Social Negative (Low Arousal, Low Valence) × Drug 2 - Social Negative (Low Arousal, Low Valence) × Drug 1): 0.8194 (+7.09%)
+
+PNS Index
+--------------------------------------------------------------------------------
+  Erotic couples (High arousal, High valence):
+    Drug 1:
+      Mean = 0.1094
+      SD = 1.1615
+      SEM = 0.1043
+      n = 124
+    Drug 2:
+      Mean = -0.2158
+      SD = 0.9572
+      SEM = 0.0977
+      n = 96
+    Difference (Erotic couples (High arousal, High valence) × Drug 2 - Erotic couples (High arousal, High valence) × Drug 1): -0.3252 (-297.28%)
+  Horror (High Arousal, Low Valence):
+    Drug 1:
+      Mean = 0.1501
+      SD = 1.1015
+      SEM = 0.0989
+      n = 124
+    Drug 2:
+      Mean = -0.1606
+      SD = 0.9741
+      SEM = 0.0994
+      n = 96
+    Difference (Horror (High Arousal, Low Valence) × Drug 2 - Horror (High Arousal, Low Valence) × Drug 1): -0.3107 (-207.00%)
+  Neutral (Scenery):
+    Drug 1:
+      Mean = 0.0864
+      SD = 1.1370
+      SEM = 0.1021
+      n = 124
+    Drug 2:
+      Mean = -0.2368
+      SD = 1.0294
+      SEM = 0.1051
+      n = 96
+    Difference (Neutral (Scenery) × Drug 2 - Neutral (Scenery) × Drug 1): -0.3232 (-374.09%)
+  Social + (Low Arousal, High Valence):
+    Drug 1:
+      Mean = -0.0039
+      SD = 1.0739
+      SEM = 0.0964
+      n = 124
+    Drug 2:
+      Mean = -0.3330
+      SD = 1.0646
+      SEM = 0.1087
+      n = 96
+    Difference (Social + (Low Arousal, High Valence) × Drug 2 - Social + (Low Arousal, High Valence) × Drug 1): -0.3291 (+8348.41%)
+  Social Negative (Low Arousal, Low Valence):
+    Drug 1:
+      Mean = 0.0977
+      SD = 1.2572
+      SEM = 0.1129
+      n = 124
+    Drug 2:
+      Mean = -0.2688
+      SD = 1.1352
+      SEM = 0.1159
+      n = 96
+    Difference (Social Negative (Low Arousal, Low Valence) × Drug 2 - Social Negative (Low Arousal, Low Valence) × Drug 1): -0.3666 (-375.12%)
+
+SNS Index
+--------------------------------------------------------------------------------
+  Erotic couples (High arousal, High valence):
+    Drug 1:
+      Mean = 0.5232
+      SD = 1.0558
+      SEM = 0.0948
+      n = 124
+    Drug 2:
+      Mean = 0.7654
+      SD = 1.1569
+      SEM = 0.1181
+      n = 96
+    Difference (Erotic couples (High arousal, High valence) × Drug 2 - Erotic couples (High arousal, High valence) × Drug 1): 0.2422 (+46.30%)
+  Horror (High Arousal, Low Valence):
+    Drug 1:
+      Mean = 0.4210
+      SD = 1.1586
+      SEM = 0.1040
+      n = 124
+    Drug 2:
+      Mean = 0.7338
+      SD = 1.0977
+      SEM = 0.1120
+      n = 96
+    Difference (Horror (High Arousal, Low Valence) × Drug 2 - Horror (High Arousal, Low Valence) × Drug 1): 0.3128 (+74.30%)
+  Neutral (Scenery):
+    Drug 1:
+      Mean = 0.4525
+      SD = 1.1017
+      SEM = 0.0989
+      n = 124
+    Drug 2:
+      Mean = 0.7959
+      SD = 1.2742
+      SEM = 0.1300
+      n = 96
+    Difference (Neutral (Scenery) × Drug 2 - Neutral (Scenery) × Drug 1): 0.3434 (+75.88%)
+  Social + (Low Arousal, High Valence):
+    Drug 1:
+      Mean = 0.5303
+      SD = 1.1123
+      SEM = 0.0999
+      n = 124
+    Drug 2:
+      Mean = 0.8632
+      SD = 1.1280
+      SEM = 0.1151
+      n = 96
+    Difference (Social + (Low Arousal, High Valence) × Drug 2 - Social + (Low Arousal, High Valence) × Drug 1): 0.3329 (+62.77%)
+  Social Negative (Low Arousal, Low Valence):
+    Drug 1:
+      Mean = 0.4550
+      SD = 1.1357
+      SEM = 0.1020
+      n = 124
+    Drug 2:
+      Mean = 0.8907
+      SD = 1.3158
+      SEM = 0.1343
+      n = 96
+    Difference (Social Negative (Low Arousal, Low Valence) × Drug 2 - Social Negative (Low Arousal, Low Valence) × Drug 1): 0.4357 (+95.76%)
+
+================================================================================
+ESTIMATED MARGINAL MEANS (MODEL-BASED: ANOVA & LMM)
+================================================================================
+
+Values below are model-based means, adjusted for the other factor.
+They are averaged equally over levels of the other factor (balanced design assumption).
+
+
+HF Power FFT (ms2)
+--------------------------------------------------------------------------------
+Video Category (EMMs):
+  Erotic couples (High arousal, High valence): ANOVA EMM = 749.2780, LMM EMM = 749.2780
+  Horror (High Arousal, Low Valence): ANOVA EMM = 827.5909, LMM EMM = 827.5909
+  Neutral (Scenery): ANOVA EMM = 1013.8341, LMM EMM = 1013.8341
+  Social + (Low Arousal, High Valence): ANOVA EMM = 850.3892, LMM EMM = 850.3892
+  Social Negative (Low Arousal, Low Valence): ANOVA EMM = 906.0277, LMM EMM = 906.0277
+
+Drug Type (EMMs):
+  Drug 1: ANOVA EMM = 844.3856, LMM EMM = 844.3856
+  Drug 2: ANOVA EMM = 894.4624, LMM EMM = 894.4624
+
+RM SSD (ms)
+--------------------------------------------------------------------------------
+Video Category (EMMs):
+  Erotic couples (High arousal, High valence): ANOVA EMM = 43.2741, LMM EMM = 43.2741
+  Horror (High Arousal, Low Valence): ANOVA EMM = 45.9045, LMM EMM = 45.9045
+  Neutral (Scenery): ANOVA EMM = 47.0249, LMM EMM = 47.0249
+  Social + (Low Arousal, High Valence): ANOVA EMM = 44.5819, LMM EMM = 44.5819
+  Social Negative (Low Arousal, Low Valence): ANOVA EMM = 45.9207, LMM EMM = 45.9207
+
+Drug Type (EMMs):
+  Drug 1: ANOVA EMM = 46.4128, LMM EMM = 46.4128
+  Drug 2: ANOVA EMM = 44.2697, LMM EMM = 44.2697
+
+Mean RR
+--------------------------------------------------------------------------------
+Video Category (EMMs):
+  Erotic couples (High arousal, High valence): ANOVA EMM = 893.0989, LMM EMM = 893.0989
+  Horror (High Arousal, Low Valence): ANOVA EMM = 888.5828, LMM EMM = 888.5828
+  Neutral (Scenery): ANOVA EMM = 870.8460, LMM EMM = 870.8460
+  Social + (Low Arousal, High Valence): ANOVA EMM = 865.9246, LMM EMM = 865.9246
+  Social Negative (Low Arousal, Low Valence): ANOVA EMM = 873.5747, LMM EMM = 873.5747
+
+Drug Type (EMMs):
+  Drug 1: ANOVA EMM = 905.4216, LMM EMM = 905.4216
+  Drug 2: ANOVA EMM = 851.3892, LMM EMM = 851.3892
+
+Stress Index
+--------------------------------------------------------------------------------
+Video Category (EMMs):
+  Erotic couples (High arousal, High valence): ANOVA EMM = 12.6409, LMM EMM = 12.6409
+  Horror (High Arousal, Low Valence): ANOVA EMM = 12.0212, LMM EMM = 12.0212
+  Neutral (Scenery): ANOVA EMM = 11.5146, LMM EMM = 11.5146
+  Social + (Low Arousal, High Valence): ANOVA EMM = 11.8533, LMM EMM = 11.8533
+  Social Negative (Low Arousal, Low Valence): ANOVA EMM = 11.9719, LMM EMM = 11.9719
+
+Drug Type (EMMs):
+  Drug 1: ANOVA EMM = 11.9436, LMM EMM = 11.9436
+  Drug 2: ANOVA EMM = 12.0572, LMM EMM = 12.0572
+
+PNS Index
+--------------------------------------------------------------------------------
+Video Category (EMMs):
+  Erotic couples (High arousal, High valence): ANOVA EMM = -0.0532, LMM EMM = -0.0532
+  Horror (High Arousal, Low Valence): ANOVA EMM = -0.0053, LMM EMM = -0.0053
+  Neutral (Scenery): ANOVA EMM = -0.0752, LMM EMM = -0.0752
+  Social + (Low Arousal, High Valence): ANOVA EMM = -0.1685, LMM EMM = -0.1685
+  Social Negative (Low Arousal, Low Valence): ANOVA EMM = -0.0856, LMM EMM = -0.0856
+
+Drug Type (EMMs):
+  Drug 1: ANOVA EMM = 0.0879, LMM EMM = 0.0879
+  Drug 2: ANOVA EMM = -0.2430, LMM EMM = -0.2430
+
+SNS Index
+--------------------------------------------------------------------------------
+Video Category (EMMs):
+  Erotic couples (High arousal, High valence): ANOVA EMM = 0.6443, LMM EMM = 0.6443
+  Horror (High Arousal, Low Valence): ANOVA EMM = 0.5774, LMM EMM = 0.5774
+  Neutral (Scenery): ANOVA EMM = 0.6242, LMM EMM = 0.6242
+  Social + (Low Arousal, High Valence): ANOVA EMM = 0.6968, LMM EMM = 0.6968
+  Social Negative (Low Arousal, Low Valence): ANOVA EMM = 0.6729, LMM EMM = 0.6729
+
+Drug Type (EMMs):
+  Drug 1: ANOVA EMM = 0.4764, LMM EMM = 0.4764
+  Drug 2: ANOVA EMM = 0.8098, LMM EMM = 0.8098
+
+================================================================================
+NOTES
+================================================================================
+
+SD = Standard Deviation
+SEM = Standard Error of the Mean (SD / √n)
+n = Sample size (number of observations)
+
+Raw group means are descriptive, based on the observed data.
+Estimated marginal means (ANOVA & LMM) are model-based and are
+saved separately in the *_marginal_means.csv file.
+================================================================================

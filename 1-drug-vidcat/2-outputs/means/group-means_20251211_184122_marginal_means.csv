@@ -1,0 +1,205 @@
+model,effect,level,metric,emm
+ANOVA,VideoCategory × DrugType,"Erotic couples (High arousal, High valence) × Drug 1",HF Power FFT (ms2),681.4096055887087
+LMM,VideoCategory × DrugType,"Erotic couples (High arousal, High valence) × Drug 1",HF Power FFT (ms2),681.409605588629
+ANOVA,VideoCategory × DrugType,"Horror (High Arousal, Low Valence) × Drug 1",HF Power FFT (ms2),812.4135892177417
+LMM,VideoCategory × DrugType,"Horror (High Arousal, Low Valence) × Drug 1",HF Power FFT (ms2),812.4135892176722
+ANOVA,VideoCategory × DrugType,Neutral (Scenery) × Drug 1,HF Power FFT (ms2),983.0100907500004
+LMM,VideoCategory × DrugType,Neutral (Scenery) × Drug 1,HF Power FFT (ms2),983.0100907499299
+ANOVA,VideoCategory × DrugType,"Social + (Low Arousal, High Valence) × Drug 1",HF Power FFT (ms2),819.1643611451577
+LMM,VideoCategory × DrugType,"Social + (Low Arousal, High Valence) × Drug 1",HF Power FFT (ms2),819.1643611450927
+ANOVA,VideoCategory × DrugType,"Social Negative (Low Arousal, Low Valence) × Drug 1",HF Power FFT (ms2),925.9304198548381
+LMM,VideoCategory × DrugType,"Social Negative (Low Arousal, Low Valence) × Drug 1",HF Power FFT (ms2),925.9304198547683
+ANOVA,VideoCategory × DrugType,"Erotic couples (High arousal, High valence) × Drug 2",HF Power FFT (ms2),817.1464931874976
+LMM,VideoCategory × DrugType,"Erotic couples (High arousal, High valence) × Drug 2",HF Power FFT (ms2),817.1464931875047
+ANOVA,VideoCategory × DrugType,"Horror (High Arousal, Low Valence) × Drug 2",HF Power FFT (ms2),842.7682143333326
+LMM,VideoCategory × DrugType,"Horror (High Arousal, Low Valence) × Drug 2",HF Power FFT (ms2),842.7682143333418
+ANOVA,VideoCategory × DrugType,Neutral (Scenery) × Drug 2,HF Power FFT (ms2),1044.658185239584
+LMM,VideoCategory × DrugType,Neutral (Scenery) × Drug 2,HF Power FFT (ms2),1044.6581852395916
+ANOVA,VideoCategory × DrugType,"Social + (Low Arousal, High Valence) × Drug 2",HF Power FFT (ms2),881.6139568124968
+LMM,VideoCategory × DrugType,"Social + (Low Arousal, High Valence) × Drug 2",HF Power FFT (ms2),881.6139568125085
+ANOVA,VideoCategory × DrugType,"Social Negative (Low Arousal, Low Valence) × Drug 2",HF Power FFT (ms2),886.1250659791654
+LMM,VideoCategory × DrugType,"Social Negative (Low Arousal, Low Valence) × Drug 2",HF Power FFT (ms2),886.1250659791756
+ANOVA,VideoCategory,"Erotic couples (High arousal, High valence)",HF Power FFT (ms2),749.2780493881031
+LMM,VideoCategory,"Erotic couples (High arousal, High valence)",HF Power FFT (ms2),749.2780493880668
+ANOVA,VideoCategory,"Horror (High Arousal, Low Valence)",HF Power FFT (ms2),827.5909017755372
+LMM,VideoCategory,"Horror (High Arousal, Low Valence)",HF Power FFT (ms2),827.5909017755071
+ANOVA,VideoCategory,Neutral (Scenery),HF Power FFT (ms2),1013.8341379947923
+LMM,VideoCategory,Neutral (Scenery),HF Power FFT (ms2),1013.8341379947608
+ANOVA,VideoCategory,"Social + (Low Arousal, High Valence)",HF Power FFT (ms2),850.3891589788273
+LMM,VideoCategory,"Social + (Low Arousal, High Valence)",HF Power FFT (ms2),850.3891589788007
+ANOVA,VideoCategory,"Social Negative (Low Arousal, Low Valence)",HF Power FFT (ms2),906.0277429170017
+LMM,VideoCategory,"Social Negative (Low Arousal, Low Valence)",HF Power FFT (ms2),906.027742916972
+ANOVA,DrugType,Drug 1,HF Power FFT (ms2),844.3856133112893
+LMM,DrugType,Drug 1,HF Power FFT (ms2),844.3856133112184
+ANOVA,DrugType,Drug 2,HF Power FFT (ms2),894.4623831104153
+LMM,DrugType,Drug 2,HF Power FFT (ms2),894.4623831104244
+ANOVA,VideoCategory × DrugType,"Erotic couples (High arousal, High valence) × Drug 1",RM SSD (ms),43.76861406451611
+LMM,VideoCategory × DrugType,"Erotic couples (High arousal, High valence) × Drug 1",RM SSD (ms),43.768614064510516
+ANOVA,VideoCategory × DrugType,"Horror (High Arousal, Low Valence) × Drug 1",RM SSD (ms),46.503781572580635
+LMM,VideoCategory × DrugType,"Horror (High Arousal, Low Valence) × Drug 1",RM SSD (ms),46.50378157257533
+ANOVA,VideoCategory × DrugType,Neutral (Scenery) × Drug 1,RM SSD (ms),48.35482549193549
+LMM,VideoCategory × DrugType,Neutral (Scenery) × Drug 1,RM SSD (ms),48.35482549193018
+ANOVA,VideoCategory × DrugType,"Social + (Low Arousal, High Valence) × Drug 1",RM SSD (ms),45.49260445161285
+LMM,VideoCategory × DrugType,"Social + (Low Arousal, High Valence) × Drug 1",RM SSD (ms),45.49260445160764
+ANOVA,VideoCategory × DrugType,"Social Negative (Low Arousal, Low Valence) × Drug 1",RM SSD (ms),47.94410728225806
+LMM,VideoCategory × DrugType,"Social Negative (Low Arousal, Low Valence) × Drug 1",RM SSD (ms),47.94410728225274
+ANOVA,VideoCategory × DrugType,"Erotic couples (High arousal, High valence) × Drug 2",RM SSD (ms),42.77965277083329
+LMM,VideoCategory × DrugType,"Erotic couples (High arousal, High valence) × Drug 2",RM SSD (ms),42.779652770831724
+ANOVA,VideoCategory × DrugType,"Horror (High Arousal, Low Valence) × Drug 2",RM SSD (ms),45.30528246874998
+LMM,VideoCategory × DrugType,"Horror (High Arousal, Low Valence) × Drug 2",RM SSD (ms),45.30528246874845
+ANOVA,VideoCategory × DrugType,Neutral (Scenery) × Drug 2,RM SSD (ms),45.69500082291667
+LMM,VideoCategory × DrugType,Neutral (Scenery) × Drug 2,RM SSD (ms),45.69500082291513
+ANOVA,VideoCategory × DrugType,"Social + (Low Arousal, High Valence) × Drug 2",RM SSD (ms),43.67119539583328
+LMM,VideoCategory × DrugType,"Social + (Low Arousal, High Valence) × Drug 2",RM SSD (ms),43.671195395831774
+ANOVA,VideoCategory × DrugType,"Social Negative (Low Arousal, Low Valence) × Drug 2",RM SSD (ms),43.89729413541664
+LMM,VideoCategory × DrugType,"Social Negative (Low Arousal, Low Valence) × Drug 2",RM SSD (ms),43.89729413541511
+ANOVA,VideoCategory,"Erotic couples (High arousal, High valence)",RM SSD (ms),43.2741334176747
+LMM,VideoCategory,"Erotic couples (High arousal, High valence)",RM SSD (ms),43.27413341767112
+ANOVA,VideoCategory,"Horror (High Arousal, Low Valence)",RM SSD (ms),45.90453202066531
+LMM,VideoCategory,"Horror (High Arousal, Low Valence)",RM SSD (ms),45.90453202066189
+ANOVA,VideoCategory,Neutral (Scenery),RM SSD (ms),47.024913157426084
+LMM,VideoCategory,Neutral (Scenery),RM SSD (ms),47.02491315742265
+ANOVA,VideoCategory,"Social + (Low Arousal, High Valence)",RM SSD (ms),44.581899923723064
+LMM,VideoCategory,"Social + (Low Arousal, High Valence)",RM SSD (ms),44.5818999237197
+ANOVA,VideoCategory,"Social Negative (Low Arousal, Low Valence)",RM SSD (ms),45.92070070883735
+LMM,VideoCategory,"Social Negative (Low Arousal, Low Valence)",RM SSD (ms),45.92070070883393
+ANOVA,DrugType,Drug 1,RM SSD (ms),46.41278657258063
+LMM,DrugType,Drug 1,RM SSD (ms),46.41278657257528
+ANOVA,DrugType,Drug 2,RM SSD (ms),44.26968511874997
+LMM,DrugType,Drug 2,RM SSD (ms),44.269685118748434
+ANOVA,VideoCategory × DrugType,"Erotic couples (High arousal, High valence) × Drug 1",Mean RR,922.34947342742
+LMM,VideoCategory × DrugType,"Erotic couples (High arousal, High valence) × Drug 1",Mean RR,922.3494734274951
+ANOVA,VideoCategory × DrugType,"Horror (High Arousal, Low Valence) × Drug 1",Mean RR,917.2264624516137
+LMM,VideoCategory × DrugType,"Horror (High Arousal, Low Valence) × Drug 1",Mean RR,917.2264624516849
+ANOVA,VideoCategory × DrugType,Neutral (Scenery) × Drug 1,Mean RR,894.8614753629039
+LMM,VideoCategory × DrugType,Neutral (Scenery) × Drug 1,Mean RR,894.8614753629756
+ANOVA,VideoCategory × DrugType,"Social + (Low Arousal, High Valence) × Drug 1",Mean RR,893.35061276613
+LMM,VideoCategory × DrugType,"Social + (Low Arousal, High Valence) × Drug 1",Mean RR,893.3506127662014
+ANOVA,VideoCategory × DrugType,"Social Negative (Low Arousal, Low Valence) × Drug 1",Mean RR,899.3198967419361
+LMM,VideoCategory × DrugType,"Social Negative (Low Arousal, Low Valence) × Drug 1",Mean RR,899.3198967420085
+ANOVA,VideoCategory × DrugType,"Erotic couples (High arousal, High valence) × Drug 2",Mean RR,863.8483062291675
+LMM,VideoCategory × DrugType,"Erotic couples (High arousal, High valence) × Drug 2",Mean RR,863.848306229107
+ANOVA,VideoCategory × DrugType,"Horror (High Arousal, Low Valence) × Drug 2",Mean RR,859.9391055937507
+LMM,VideoCategory × DrugType,"Horror (High Arousal, Low Valence) × Drug 2",Mean RR,859.9391055936935
+ANOVA,VideoCategory × DrugType,Neutral (Scenery) × Drug 2,Mean RR,846.8305798020839
+LMM,VideoCategory × DrugType,Neutral (Scenery) × Drug 2,Mean RR,846.8305798020266
+ANOVA,VideoCategory × DrugType,"Social + (Low Arousal, High Valence) × Drug 2",Mean RR,838.4986831354177
+LMM,VideoCategory × DrugType,"Social + (Low Arousal, High Valence) × Drug 2",Mean RR,838.4986831353598
+ANOVA,VideoCategory × DrugType,"Social Negative (Low Arousal, Low Valence) × Drug 2",Mean RR,847.829573364584
+LMM,VideoCategory × DrugType,"Social Negative (Low Arousal, Low Valence) × Drug 2",Mean RR,847.8295733645267
+ANOVA,VideoCategory,"Erotic couples (High arousal, High valence)",Mean RR,893.0988898282937
+LMM,VideoCategory,"Erotic couples (High arousal, High valence)",Mean RR,893.0988898283011
+ANOVA,VideoCategory,"Horror (High Arousal, Low Valence)",Mean RR,888.5827840226822
+LMM,VideoCategory,"Horror (High Arousal, Low Valence)",Mean RR,888.5827840226892
+ANOVA,VideoCategory,Neutral (Scenery),Mean RR,870.8460275824939
+LMM,VideoCategory,Neutral (Scenery),Mean RR,870.8460275825012
+ANOVA,VideoCategory,"Social + (Low Arousal, High Valence)",Mean RR,865.9246479507738
+LMM,VideoCategory,"Social + (Low Arousal, High Valence)",Mean RR,865.9246479507806
+ANOVA,VideoCategory,"Social Negative (Low Arousal, Low Valence)",Mean RR,873.57473505326
+LMM,VideoCategory,"Social Negative (Low Arousal, Low Valence)",Mean RR,873.5747350532675
+ANOVA,DrugType,Drug 1,Mean RR,905.4215841500007
+LMM,DrugType,Drug 1,Mean RR,905.421584150073
+ANOVA,DrugType,Drug 2,Mean RR,851.3892496250007
+LMM,DrugType,Drug 2,Mean RR,851.3892496249427
+ANOVA,VideoCategory × DrugType,"Erotic couples (High arousal, High valence) × Drug 1",Stress Index,12.975941612903213
+LMM,VideoCategory × DrugType,"Erotic couples (High arousal, High valence) × Drug 1",Stress Index,12.97594161290301
+ANOVA,VideoCategory × DrugType,"Horror (High Arousal, Low Valence) × Drug 1",Stress Index,11.99788814516127
+LMM,VideoCategory × DrugType,"Horror (High Arousal, Low Valence) × Drug 1",Stress Index,11.997888145161127
+ANOVA,VideoCategory × DrugType,Neutral (Scenery) × Drug 1,Stress Index,11.36194133870965
+LMM,VideoCategory × DrugType,Neutral (Scenery) × Drug 1,Stress Index,11.361941338709537
+ANOVA,VideoCategory × DrugType,"Social + (Low Arousal, High Valence) × Drug 1",Stress Index,11.819956322580646
+LMM,VideoCategory × DrugType,"Social + (Low Arousal, High Valence) × Drug 1",Stress Index,11.819956322580492
+ANOVA,VideoCategory × DrugType,"Social Negative (Low Arousal, Low Valence) × Drug 1",Stress Index,11.562163782258045
+LMM,VideoCategory × DrugType,"Social Negative (Low Arousal, Low Valence) × Drug 1",Stress Index,11.562163782257912
+ANOVA,VideoCategory × DrugType,"Erotic couples (High arousal, High valence) × Drug 2",Stress Index,12.305873427083325
+LMM,VideoCategory × DrugType,"Erotic couples (High arousal, High valence) × Drug 2",Stress Index,12.305873427083583
+ANOVA,VideoCategory × DrugType,"Horror (High Arousal, Low Valence) × Drug 2",Stress Index,12.044586708333318
+LMM,VideoCategory × DrugType,"Horror (High Arousal, Low Valence) × Drug 2",Stress Index,12.044586708333568
+ANOVA,VideoCategory × DrugType,Neutral (Scenery) × Drug 2,Stress Index,11.667205947916642
+LMM,VideoCategory × DrugType,Neutral (Scenery) × Drug 2,Stress Index,11.667205947916898
+ANOVA,VideoCategory × DrugType,"Social + (Low Arousal, High Valence) × Drug 2",Stress Index,11.886719020833336
+LMM,VideoCategory × DrugType,"Social + (Low Arousal, High Valence) × Drug 2",Stress Index,11.886719020833569
+ANOVA,VideoCategory × DrugType,"Social Negative (Low Arousal, Low Valence) × Drug 2",Stress Index,12.381579385416657
+LMM,VideoCategory × DrugType,"Social Negative (Low Arousal, Low Valence) × Drug 2",Stress Index,12.381579385416904
+ANOVA,VideoCategory,"Erotic couples (High arousal, High valence)",Stress Index,12.640907519993268
+LMM,VideoCategory,"Erotic couples (High arousal, High valence)",Stress Index,12.640907519993297
+ANOVA,VideoCategory,"Horror (High Arousal, Low Valence)",Stress Index,12.021237426747295
+LMM,VideoCategory,"Horror (High Arousal, Low Valence)",Stress Index,12.021237426747348
+ANOVA,VideoCategory,Neutral (Scenery),Stress Index,11.514573643313147
+LMM,VideoCategory,Neutral (Scenery),Stress Index,11.514573643313216
+ANOVA,VideoCategory,"Social + (Low Arousal, High Valence)",Stress Index,11.853337671706992
+LMM,VideoCategory,"Social + (Low Arousal, High Valence)",Stress Index,11.853337671707031
+ANOVA,VideoCategory,"Social Negative (Low Arousal, Low Valence)",Stress Index,11.97187158383735
+LMM,VideoCategory,"Social Negative (Low Arousal, Low Valence)",Stress Index,11.971871583837407
+ANOVA,DrugType,Drug 1,Stress Index,11.943578240322566
+LMM,DrugType,Drug 1,Stress Index,11.943578240322417
+ANOVA,DrugType,Drug 2,Stress Index,12.057192897916655
+LMM,DrugType,Drug 2,Stress Index,12.057192897916904
+ANOVA,VideoCategory × DrugType,"Erotic couples (High arousal, High valence) × Drug 1",PNS Index,0.10938629032258064
+LMM,VideoCategory × DrugType,"Erotic couples (High arousal, High valence) × Drug 1",PNS Index,0.1093862903225884
+ANOVA,VideoCategory × DrugType,"Horror (High Arousal, Low Valence) × Drug 1",PNS Index,0.15011668548387216
+LMM,VideoCategory × DrugType,"Horror (High Arousal, Low Valence) × Drug 1",PNS Index,0.15011668548387852
+ANOVA,VideoCategory × DrugType,Neutral (Scenery) × Drug 1,PNS Index,0.08639458870967788
+LMM,VideoCategory × DrugType,Neutral (Scenery) × Drug 1,PNS Index,0.08639458870968489
+ANOVA,VideoCategory × DrugType,"Social + (Low Arousal, High Valence) × Drug 1",PNS Index,-0.003941838709676335
+LMM,VideoCategory × DrugType,"Social + (Low Arousal, High Valence) × Drug 1",PNS Index,-0.003941838709669951
+ANOVA,VideoCategory × DrugType,"Social Negative (Low Arousal, Low Valence) × Drug 1",PNS Index,0.0977177500000003
+LMM,VideoCategory × DrugType,"Social Negative (Low Arousal, Low Valence) × Drug 1",PNS Index,0.0977177500000073
+ANOVA,VideoCategory × DrugType,"Erotic couples (High arousal, High valence) × Drug 2",PNS Index,-0.21579489583333306
+LMM,VideoCategory × DrugType,"Erotic couples (High arousal, High valence) × Drug 2",PNS Index,-0.21579489583331068
+ANOVA,VideoCategory × DrugType,"Horror (High Arousal, Low Valence) × Drug 2",PNS Index,-0.1606196562499998
+LMM,VideoCategory × DrugType,"Horror (High Arousal, Low Valence) × Drug 2",PNS Index,-0.16061965624997765
+ANOVA,VideoCategory × DrugType,Neutral (Scenery) × Drug 2,PNS Index,-0.23680231250000022
+LMM,VideoCategory × DrugType,Neutral (Scenery) × Drug 2,PNS Index,-0.2368023124999776
+ANOVA,VideoCategory × DrugType,"Social + (Low Arousal, High Valence) × Drug 2",PNS Index,-0.3330226979166658
+LMM,VideoCategory × DrugType,"Social + (Low Arousal, High Valence) × Drug 2",PNS Index,-0.3330226979166443
+ANOVA,VideoCategory × DrugType,"Social Negative (Low Arousal, Low Valence) × Drug 2",PNS Index,-0.26883706249999967
+LMM,VideoCategory × DrugType,"Social Negative (Low Arousal, Low Valence) × Drug 2",PNS Index,-0.2688370624999776
+ANOVA,VideoCategory,"Erotic couples (High arousal, High valence)",PNS Index,-0.0532043027553762
+LMM,VideoCategory,"Erotic couples (High arousal, High valence)",PNS Index,-0.053204302755361144
+ANOVA,VideoCategory,"Horror (High Arousal, Low Valence)",PNS Index,-0.005251485383063816
+LMM,VideoCategory,"Horror (High Arousal, Low Valence)",PNS Index,-0.005251485383049561
+ANOVA,VideoCategory,Neutral (Scenery),PNS Index,-0.07520386189516116
+LMM,VideoCategory,Neutral (Scenery),PNS Index,-0.07520386189514636
+ANOVA,VideoCategory,"Social + (Low Arousal, High Valence)",PNS Index,-0.16848226831317106
+LMM,VideoCategory,"Social + (Low Arousal, High Valence)",PNS Index,-0.16848226831315713
+ANOVA,VideoCategory,"Social Negative (Low Arousal, Low Valence)",PNS Index,-0.08555965624999969
+LMM,VideoCategory,"Social Negative (Low Arousal, Low Valence)",PNS Index,-0.08555965624998514
+ANOVA,DrugType,Drug 1,PNS Index,0.08793469516129093
+LMM,DrugType,Drug 1,PNS Index,0.08793469516129783
+ANOVA,DrugType,Drug 2,PNS Index,-0.2430153249999997
+LMM,DrugType,Drug 2,PNS Index,-0.24301532499997755
+ANOVA,VideoCategory × DrugType,"Erotic couples (High arousal, High valence) × Drug 1",SNS Index,0.5231743629032253
+LMM,VideoCategory × DrugType,"Erotic couples (High arousal, High valence) × Drug 1",SNS Index,0.5231743629033041
+ANOVA,VideoCategory × DrugType,"Horror (High Arousal, Low Valence) × Drug 1",SNS Index,0.42096991129032013
+LMM,VideoCategory × DrugType,"Horror (High Arousal, Low Valence) × Drug 1",SNS Index,0.4209699112903975
+ANOVA,VideoCategory × DrugType,Neutral (Scenery) × Drug 1,SNS Index,0.45254882258064333
+LMM,VideoCategory × DrugType,Neutral (Scenery) × Drug 1,SNS Index,0.45254882258071977
+ANOVA,VideoCategory × DrugType,"Social + (Low Arousal, High Valence) × Drug 1",SNS Index,0.5303195967741929
+LMM,VideoCategory × DrugType,"Social + (Low Arousal, High Valence) × Drug 1",SNS Index,0.5303195967742681
+ANOVA,VideoCategory × DrugType,"Social Negative (Low Arousal, Low Valence) × Drug 1",SNS Index,0.45500916935483704
+LMM,VideoCategory × DrugType,"Social Negative (Low Arousal, Low Valence) × Drug 1",SNS Index,0.4550091693549131
+ANOVA,VideoCategory × DrugType,"Erotic couples (High arousal, High valence) × Drug 2",SNS Index,0.7654031041666662
+LMM,VideoCategory × DrugType,"Erotic couples (High arousal, High valence) × Drug 2",SNS Index,0.7654031041665974
+ANOVA,VideoCategory × DrugType,"Horror (High Arousal, Low Valence) × Drug 2",SNS Index,0.7337576041666665
+LMM,VideoCategory × DrugType,"Horror (High Arousal, Low Valence) × Drug 2",SNS Index,0.7337576041666011
+ANOVA,VideoCategory × DrugType,Neutral (Scenery) × Drug 2,SNS Index,0.7959244479166661
+LMM,VideoCategory × DrugType,Neutral (Scenery) × Drug 2,SNS Index,0.7959244479166011
+ANOVA,VideoCategory × DrugType,"Social + (Low Arousal, High Valence) × Drug 2",SNS Index,0.8631845729166672
+LMM,VideoCategory × DrugType,"Social + (Low Arousal, High Valence) × Drug 2",SNS Index,0.8631845729166009
+ANOVA,VideoCategory × DrugType,"Social Negative (Low Arousal, Low Valence) × Drug 2",SNS Index,0.8907320625
+LMM,VideoCategory × DrugType,"Social Negative (Low Arousal, Low Valence) × Drug 2",SNS Index,0.8907320624999344
+ANOVA,VideoCategory,"Erotic couples (High arousal, High valence)",SNS Index,0.6442887335349458
+LMM,VideoCategory,"Erotic couples (High arousal, High valence)",SNS Index,0.6442887335349508
+ANOVA,VideoCategory,"Horror (High Arousal, Low Valence)",SNS Index,0.5773637577284934
+LMM,VideoCategory,"Horror (High Arousal, Low Valence)",SNS Index,0.5773637577284993
+ANOVA,VideoCategory,Neutral (Scenery),SNS Index,0.6242366352486547
+LMM,VideoCategory,Neutral (Scenery),SNS Index,0.6242366352486605
+ANOVA,VideoCategory,"Social + (Low Arousal, High Valence)",SNS Index,0.69675208484543
+LMM,VideoCategory,"Social + (Low Arousal, High Valence)",SNS Index,0.6967520848454345
+ANOVA,VideoCategory,"Social Negative (Low Arousal, Low Valence)",SNS Index,0.6728706159274186
+LMM,VideoCategory,"Social Negative (Low Arousal, Low Valence)",SNS Index,0.6728706159274237
+ANOVA,DrugType,Drug 1,SNS Index,0.4764043725806438
+LMM,DrugType,Drug 1,SNS Index,0.4764043725807205
+ANOVA,DrugType,Drug 2,SNS Index,0.8098003583333332
+LMM,DrugType,Drug 2,SNS Index,0.809800358333267

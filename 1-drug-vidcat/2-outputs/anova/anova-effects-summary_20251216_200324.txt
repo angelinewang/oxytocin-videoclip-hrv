@@ -1,0 +1,277 @@
+================================================================================
+TWO-WAY ANOVA: MAIN AND INTERACTION EFFECTS
+================================================================================
+
+Generated: 20251216_200324
+
+================================================================================
+SUMMARY
+================================================================================
+
+
+HF Power FFT (ms2)
+--------------------------------------------------------------------------------
+Video Category (Main Effect):
+  F(4) = 2.0271
+  p = 0.0885 ns
+  Partial η² = 0.0074
+
+Drug Type (Main Effect):
+  F(1) = 0.6213
+  p = 0.4307 ns
+  Partial η² = 0.0006
+
+Video Category × Drug Type (Interaction):
+  F(4) = 0.1993
+  p = 0.9387 ns
+  Partial η² = 0.0007
+
+Directionality based on estimated marginal means (ANOVA):
+  Estimated marginal means by VideoCategory for HF Power FFT (ms2):
+    Reference: Erotic couples (High arousal, High valence) = 749.278
+    Horror (High Arousal, Low Valence) = 827.591 (+78.313 vs ref, higher than reference)
+    Neutral (Scenery) = 1013.834 (+264.556 vs ref, higher than reference)
+    Social + (Low Arousal, High Valence) = 850.389 (+101.111 vs ref, higher than reference)
+    Social Negative (Low Arousal, Low Valence) = 906.028 (+156.750 vs ref, higher than reference)
+
+  Estimated marginal means by DrugType for HF Power FFT (ms2):
+    Reference: Drug 1 = 844.386
+    Drug 2 = 894.462 (+50.077 vs ref, higher than reference)
+
+  Estimated marginal means by VideoCategory × DrugType for HF Power FFT (ms2):
+    Reference: Erotic couples (High arousal, High valence) × Drug 1 = 681.410
+    Horror (High Arousal, Low Valence) × Drug 1 = 812.414 (+131.004 vs ref, higher than reference)
+    Neutral (Scenery) × Drug 1 = 983.010 (+301.600 vs ref, higher than reference)
+    Social + (Low Arousal, High Valence) × Drug 1 = 819.164 (+137.755 vs ref, higher than reference)
+    Social Negative (Low Arousal, Low Valence) × Drug 1 = 925.930 (+244.521 vs ref, higher than reference)
+    Erotic couples (High arousal, High valence) × Drug 2 = 817.146 (+135.737 vs ref, higher than reference)
+    Horror (High Arousal, Low Valence) × Drug 2 = 842.768 (+161.359 vs ref, higher than reference)
+    Neutral (Scenery) × Drug 2 = 1044.658 (+363.249 vs ref, higher than reference)
+    Social + (Low Arousal, High Valence) × Drug 2 = 881.614 (+200.204 vs ref, higher than reference)
+    Social Negative (Low Arousal, Low Valence) × Drug 2 = 886.125 (+204.715 vs ref, higher than reference)
+
+Sample size: n = 1100
+
+
+RM SSD (ms)
+--------------------------------------------------------------------------------
+Video Category (Main Effect):
+  F(4) = 1.0015
+  p = 0.4057 ns
+  Partial η² = 0.0037
+
+Drug Type (Main Effect):
+  F(1) = 2.5477
+  p = 0.1107 ns
+  Partial η² = 0.0023
+
+Video Category × Drug Type (Interaction):
+  F(4) = 0.1725
+  p = 0.9525 ns
+  Partial η² = 0.0006
+
+Directionality based on estimated marginal means (ANOVA):
+  Estimated marginal means by VideoCategory for RM SSD (ms):
+    Reference: Erotic couples (High arousal, High valence) = 43.274
+    Horror (High Arousal, Low Valence) = 45.905 (+2.630 vs ref, higher than reference)
+    Neutral (Scenery) = 47.025 (+3.751 vs ref, higher than reference)
+    Social + (Low Arousal, High Valence) = 44.582 (+1.308 vs ref, higher than reference)
+    Social Negative (Low Arousal, Low Valence) = 45.921 (+2.647 vs ref, higher than reference)
+
+  Estimated marginal means by DrugType for RM SSD (ms):
+    Reference: Drug 1 = 46.413
+    Drug 2 = 44.270 (-2.143 vs ref, lower than reference)
+
+  Estimated marginal means by VideoCategory × DrugType for RM SSD (ms):
+    Reference: Erotic couples (High arousal, High valence) × Drug 1 = 43.769
+    Horror (High Arousal, Low Valence) × Drug 1 = 46.504 (+2.735 vs ref, higher than reference)
+    Neutral (Scenery) × Drug 1 = 48.355 (+4.586 vs ref, higher than reference)
+    Social + (Low Arousal, High Valence) × Drug 1 = 45.493 (+1.724 vs ref, higher than reference)
+    Social Negative (Low Arousal, Low Valence) × Drug 1 = 47.944 (+4.175 vs ref, higher than reference)
+    Erotic couples (High arousal, High valence) × Drug 2 = 42.780 (-0.989 vs ref, lower than reference)
+    Horror (High Arousal, Low Valence) × Drug 2 = 45.305 (+1.537 vs ref, higher than reference)
+    Neutral (Scenery) × Drug 2 = 45.695 (+1.926 vs ref, higher than reference)
+    Social + (Low Arousal, High Valence) × Drug 2 = 43.671 (-0.097 vs ref, lower than reference)
+    Social Negative (Low Arousal, Low Valence) × Drug 2 = 43.897 (+0.129 vs ref, higher than reference)
+
+Sample size: n = 1100
+
+
+Mean RR
+--------------------------------------------------------------------------------
+Video Category (Main Effect):
+  F(4) = 1.8303
+  p = 0.1207 ns
+  Partial η² = 0.0067
+
+Drug Type (Main Effect):
+  F(1) = 45.7421
+  p = 0.0000 ***
+  Partial η² = 0.0403
+
+Video Category × Drug Type (Interaction):
+  F(4) = 0.0577
+  p = 0.9938 ns
+  Partial η² = 0.0002
+
+Directionality based on estimated marginal means (ANOVA):
+  Estimated marginal means by VideoCategory for Mean RR:
+    Reference: Erotic couples (High arousal, High valence) = 893.099
+    Horror (High Arousal, Low Valence) = 888.583 (-4.516 vs ref, lower than reference)
+    Neutral (Scenery) = 870.846 (-22.253 vs ref, lower than reference)
+    Social + (Low Arousal, High Valence) = 865.925 (-27.174 vs ref, lower than reference)
+    Social Negative (Low Arousal, Low Valence) = 873.575 (-19.524 vs ref, lower than reference)
+
+  Estimated marginal means by DrugType for Mean RR:
+    Reference: Drug 1 = 905.422
+    Drug 2 = 851.389 (-54.032 vs ref, lower than reference)
+
+  Estimated marginal means by VideoCategory × DrugType for Mean RR:
+    Reference: Erotic couples (High arousal, High valence) × Drug 1 = 922.349
+    Horror (High Arousal, Low Valence) × Drug 1 = 917.226 (-5.123 vs ref, lower than reference)
+    Neutral (Scenery) × Drug 1 = 894.861 (-27.488 vs ref, lower than reference)
+    Social + (Low Arousal, High Valence) × Drug 1 = 893.351 (-28.999 vs ref, lower than reference)
+    Social Negative (Low Arousal, Low Valence) × Drug 1 = 899.320 (-23.030 vs ref, lower than reference)
+    Erotic couples (High arousal, High valence) × Drug 2 = 863.848 (-58.501 vs ref, lower than reference)
+    Horror (High Arousal, Low Valence) × Drug 2 = 859.939 (-62.410 vs ref, lower than reference)
+    Neutral (Scenery) × Drug 2 = 846.831 (-75.519 vs ref, lower than reference)
+    Social + (Low Arousal, High Valence) × Drug 2 = 838.499 (-83.851 vs ref, lower than reference)
+    Social Negative (Low Arousal, Low Valence) × Drug 2 = 847.830 (-74.520 vs ref, lower than reference)
+
+Sample size: n = 1100
+
+
+Stress Index
+--------------------------------------------------------------------------------
+Video Category (Main Effect):
+  F(4) = 2.4020
+  p = 0.0482 *
+  Partial η² = 0.0087
+
+Drug Type (Main Effect):
+  F(1) = 0.2030
+  p = 0.6524 ns
+  Partial η² = 0.0002
+
+Video Category × Drug Type (Interaction):
+  F(4) = 0.9086
+  p = 0.4581 ns
+  Partial η² = 0.0033
+
+Directionality based on estimated marginal means (ANOVA):
+  Estimated marginal means by VideoCategory for Stress Index:
+    Reference: Erotic couples (High arousal, High valence) = 12.641
+    Horror (High Arousal, Low Valence) = 12.021 (-0.620 vs ref, lower than reference)
+    Neutral (Scenery) = 11.515 (-1.126 vs ref, lower than reference)
+    Social + (Low Arousal, High Valence) = 11.853 (-0.788 vs ref, lower than reference)
+    Social Negative (Low Arousal, Low Valence) = 11.972 (-0.669 vs ref, lower than reference)
+
+  Estimated marginal means by DrugType for Stress Index:
+    Reference: Drug 1 = 11.944
+    Drug 2 = 12.057 (+0.114 vs ref, higher than reference)
+
+  Estimated marginal means by VideoCategory × DrugType for Stress Index:
+    Reference: Erotic couples (High arousal, High valence) × Drug 1 = 12.976
+    Horror (High Arousal, Low Valence) × Drug 1 = 11.998 (-0.978 vs ref, lower than reference)
+    Neutral (Scenery) × Drug 1 = 11.362 (-1.614 vs ref, lower than reference)
+    Social + (Low Arousal, High Valence) × Drug 1 = 11.820 (-1.156 vs ref, lower than reference)
+    Social Negative (Low Arousal, Low Valence) × Drug 1 = 11.562 (-1.414 vs ref, lower than reference)
+    Erotic couples (High arousal, High valence) × Drug 2 = 12.306 (-0.670 vs ref, lower than reference)
+    Horror (High Arousal, Low Valence) × Drug 2 = 12.045 (-0.931 vs ref, lower than reference)
+    Neutral (Scenery) × Drug 2 = 11.667 (-1.309 vs ref, lower than reference)
+    Social + (Low Arousal, High Valence) × Drug 2 = 11.887 (-1.089 vs ref, lower than reference)
+    Social Negative (Low Arousal, Low Valence) × Drug 2 = 12.382 (-0.594 vs ref, lower than reference)
+
+Sample size: n = 1100
+
+
+PNS Index
+--------------------------------------------------------------------------------
+Video Category (Main Effect):
+  F(4) = 0.6341
+  p = 0.6383 ns
+  Partial η² = 0.0023
+
+Drug Type (Main Effect):
+  F(1) = 24.4990
+  p = 0.0000 ***
+  Partial η² = 0.0220
+
+Video Category × Drug Type (Interaction):
+  F(4) = 0.0198
+  p = 0.9992 ns
+  Partial η² = 0.0001
+
+Directionality based on estimated marginal means (ANOVA):
+  Estimated marginal means by VideoCategory for PNS Index:
+    Reference: Erotic couples (High arousal, High valence) = -0.053
+    Horror (High Arousal, Low Valence) = -0.005 (+0.048 vs ref, higher than reference)
+    Neutral (Scenery) = -0.075 (-0.022 vs ref, lower than reference)
+    Social + (Low Arousal, High Valence) = -0.168 (-0.115 vs ref, lower than reference)
+    Social Negative (Low Arousal, Low Valence) = -0.086 (-0.032 vs ref, lower than reference)
+
+  Estimated marginal means by DrugType for PNS Index:
+    Reference: Drug 1 = 0.088
+    Drug 2 = -0.243 (-0.331 vs ref, lower than reference)
+
+  Estimated marginal means by VideoCategory × DrugType for PNS Index:
+    Reference: Erotic couples (High arousal, High valence) × Drug 1 = 0.109
+    Horror (High Arousal, Low Valence) × Drug 1 = 0.150 (+0.041 vs ref, higher than reference)
+    Neutral (Scenery) × Drug 1 = 0.086 (-0.023 vs ref, lower than reference)
+    Social + (Low Arousal, High Valence) × Drug 1 = -0.004 (-0.113 vs ref, lower than reference)
+    Social Negative (Low Arousal, Low Valence) × Drug 1 = 0.098 (-0.012 vs ref, lower than reference)
+    Erotic couples (High arousal, High valence) × Drug 2 = -0.216 (-0.325 vs ref, lower than reference)
+    Horror (High Arousal, Low Valence) × Drug 2 = -0.161 (-0.270 vs ref, lower than reference)
+    Neutral (Scenery) × Drug 2 = -0.237 (-0.346 vs ref, lower than reference)
+    Social + (Low Arousal, High Valence) × Drug 2 = -0.333 (-0.442 vs ref, lower than reference)
+    Social Negative (Low Arousal, Low Valence) × Drug 2 = -0.269 (-0.378 vs ref, lower than reference)
+
+Sample size: n = 1100
+
+
+SNS Index
+--------------------------------------------------------------------------------
+Video Category (Main Effect):
+  F(4) = 0.3324
+  p = 0.8563 ns
+  Partial η² = 0.0012
+
+Drug Type (Main Effect):
+  F(1) = 22.7070
+  p = 0.0000 ***
+  Partial η² = 0.0204
+
+Video Category × Drug Type (Interaction):
+  F(4) = 0.1972
+  p = 0.9399 ns
+  Partial η² = 0.0007
+
+Directionality based on estimated marginal means (ANOVA):
+  Estimated marginal means by VideoCategory for SNS Index:
+    Reference: Erotic couples (High arousal, High valence) = 0.644
+    Horror (High Arousal, Low Valence) = 0.577 (-0.067 vs ref, lower than reference)
+    Neutral (Scenery) = 0.624 (-0.020 vs ref, lower than reference)
+    Social + (Low Arousal, High Valence) = 0.697 (+0.052 vs ref, higher than reference)
+    Social Negative (Low Arousal, Low Valence) = 0.673 (+0.029 vs ref, higher than reference)
+
+  Estimated marginal means by DrugType for SNS Index:
+    Reference: Drug 1 = 0.476
+    Drug 2 = 0.810 (+0.333 vs ref, higher than reference)
+
+  Estimated marginal means by VideoCategory × DrugType for SNS Index:
+    Reference: Erotic couples (High arousal, High valence) × Drug 1 = 0.523
+    Horror (High Arousal, Low Valence) × Drug 1 = 0.421 (-0.102 vs ref, lower than reference)
+    Neutral (Scenery) × Drug 1 = 0.453 (-0.071 vs ref, lower than reference)
+    Social + (Low Arousal, High Valence) × Drug 1 = 0.530 (+0.007 vs ref, higher than reference)
+    Social Negative (Low Arousal, Low Valence) × Drug 1 = 0.455 (-0.068 vs ref, lower than reference)
+    Erotic couples (High arousal, High valence) × Drug 2 = 0.765 (+0.242 vs ref, higher than reference)
+    Horror (High Arousal, Low Valence) × Drug 2 = 0.734 (+0.211 vs ref, higher than reference)
+    Neutral (Scenery) × Drug 2 = 0.796 (+0.273 vs ref, higher than reference)
+    Social + (Low Arousal, High Valence) × Drug 2 = 0.863 (+0.340 vs ref, higher than reference)
+    Social Negative (Low Arousal, Low Valence) × Drug 2 = 0.891 (+0.368 vs ref, higher than reference)
+
+Sample size: n = 1100
+
+================================================================================
+Significance: *** p < 0.001, ** p < 0.01, * p < 0.05, ns = not significant
+================================================================================
