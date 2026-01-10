@@ -1,0 +1,16 @@
+Sample Size Summary
+===================
+
+Input file:
+/Users/angwang/oxytocin-videoclip/1-drug-vidcat/2-outputs/data/data-two-way-anova.csv 
+
+Rows in raw input: 1100 
+Rows after dedupe by 'File Name': 55 
+
+1. Number of unique 'File Name' values:
+55 
+
+2. Samples per 'Drug Type' (first occurrence per unique 'File Name'):
+drug_types_unique
+Drug 1 Drug 2 
+    31     24 
